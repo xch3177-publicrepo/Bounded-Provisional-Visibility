@@ -1,0 +1,82 @@
+W2 poison exposure  backend=inmemory  evidence=exact_in_memory
+  ONE collection, created once, never dropped during measurement.
+  s1 B4 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3024 Df50    0.0 R_after   1.0
+  s1 B4 heavy  Tp=1.0  Np craft/target/neg   8/  1/0   Ep50 1.0075 Df50    0.0 R_after   1.0
+  s1 B4 normal Tp=2.0  Np craft/target/neg   3/  0/0   Ep50   0.31 Df50    0.0 R_after   1.0
+  s1 B4 normal Tp=0.15 Np craft/target/neg   1/  0/0   Ep50  0.152 Df50    0.0 R_after   1.0
+  s1 B3 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3092 Df50    0.0 R_after   1.0
+  s1 B3 heavy  Tp=1.0  Np craft/target/neg  37/  4/0   Ep50 4.7167 Df50    0.0 R_after   1.0
+  s1 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.3868 R_after   1.0
+  s1 B4 heavy  Tp=2.0  Np craft/target/neg  16/  2/0   Ep50 2.0018 Df50    0.0 R_after   1.0
+  s1 B4 heavy  Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1519 Df50    0.0 R_after   1.0
+  s1 B4 normal Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3032 Df50    0.0 R_after   1.0
+  s1 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50  0.609 R_after   1.0
+  s1 B4 heavy  Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3008 Df50    0.0 R_after   1.0
+  s1 B1 heavy  Tp=1.0  Np craft/target/neg  56/  7/0   Ep50   None Df50    0.0 R_after  None
+  s1 B1 normal Tp=1.0  Np craft/target/neg  56/  7/0   Ep50   None Df50    0.0 R_after  None
+  s2 B4 normal Tp=0.3  Np craft/target/neg   3/  1/0   Ep50 0.3025 Df50    0.0 R_after   1.0
+  s2 B4 normal Tp=1.0  Np craft/target/neg   3/  1/0   Ep50 0.3077 Df50    0.0 R_after   1.0
+  s2 B1 normal Tp=1.0  Np craft/target/neg  49/ 14/0   Ep50   None Df50    0.0 R_after  None
+  s2 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 0.6103 R_after   1.0
+  s2 B4 normal Tp=0.15 Np craft/target/neg   1/  1/0   Ep50 0.1519 Df50    0.0 R_after   1.0
+  s2 B4 heavy  Tp=2.0  Np craft/target/neg  14/  4/0   Ep50 2.0012 Df50    0.0 R_after   1.0
+  s2 B4 heavy  Tp=1.0  Np craft/target/neg   7/  2/0   Ep50 1.0067 Df50    0.0 R_after   1.0
+  s2 B4 heavy  Tp=0.15 Np craft/target/neg   1/  1/0   Ep50 0.1516 Df50    0.0 R_after   1.0
+  s2 B3 heavy  Tp=1.0  Np craft/target/neg  35/ 10/0   Ep50 4.7158 Df50    0.0 R_after   1.0
+  s2 B3 normal Tp=1.0  Np craft/target/neg   3/  1/0   Ep50  0.306 Df50    0.0 R_after   1.0
+  s2 B4 heavy  Tp=0.3  Np craft/target/neg   3/  1/0   Ep50 0.3034 Df50    0.0 R_after   1.0
+  s2 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.3862 R_after   1.0
+  s2 B4 normal Tp=2.0  Np craft/target/neg   3/  1/0   Ep50  0.308 Df50    0.0 R_after   1.0
+  s2 B1 heavy  Tp=1.0  Np craft/target/neg  49/ 14/0   Ep50   None Df50    0.0 R_after  None
+  s3 B4 heavy  Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3038 Df50    0.0 R_after   1.0
+  s3 B3 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3007 Df50    0.0 R_after   1.0
+  s3 B4 heavy  Tp=1.0  Np craft/target/neg   6/  3/0   Ep50 1.0054 Df50    0.0 R_after   1.0
+  s3 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 0.6086 R_after   1.0
+  s3 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.3748 R_after   1.0
+  s3 B3 heavy  Tp=1.0  Np craft/target/neg  29/ 13/0   Ep50 4.7109 Df50    0.0 R_after   1.0
+  s3 B4 heavy  Tp=2.0  Np craft/target/neg  12/  6/0   Ep50 2.0076 Df50    0.0 R_after   1.0
+  s3 B4 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50   0.31 Df50    0.0 R_after   1.0
+  s3 B1 heavy  Tp=1.0  Np craft/target/neg  42/ 21/0   Ep50   None Df50    0.0 R_after  None
+  s3 B4 normal Tp=0.15 Np craft/target/neg   1/  0/0   Ep50  0.152 Df50    0.0 R_after   1.0
+  s3 B4 heavy  Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1518 Df50    0.0 R_after   1.0
+  s3 B1 normal Tp=1.0  Np craft/target/neg  42/ 21/0   Ep50   None Df50    0.0 R_after  None
+  s3 B4 normal Tp=2.0  Np craft/target/neg   3/  0/0   Ep50 0.3059 Df50    0.0 R_after   1.0
+  s3 B4 normal Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3025 Df50    0.0 R_after   1.0
+  s4 B4 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3061 Df50    0.0 R_after   1.0
+  s4 B3 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3085 Df50    0.0 R_after   1.0
+  s4 B4 normal Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1521 Df50    0.0 R_after   1.0
+  s4 B4 normal Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3049 Df50    0.0 R_after   1.0
+  s4 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.3888 R_after   1.0
+  s4 B3 heavy  Tp=1.0  Np craft/target/neg  35/  4/0   Ep50 4.7045 Df50    0.0 R_after   1.0
+  s4 B4 normal Tp=2.0  Np craft/target/neg   3/  0/0   Ep50 0.3092 Df50    0.0 R_after   1.0
+  s4 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 0.6116 R_after   1.0
+  s4 B4 heavy  Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1518 Df50    0.0 R_after   1.0
+  s4 B1 heavy  Tp=1.0  Np craft/target/neg  49/  7/0   Ep50   None Df50    0.0 R_after  None
+  s4 B1 normal Tp=1.0  Np craft/target/neg  49/  7/0   Ep50   None Df50    0.0 R_after  None
+  s4 B4 heavy  Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3043 Df50    0.0 R_after   1.0
+  s4 B4 heavy  Tp=2.0  Np craft/target/neg  14/  2/0   Ep50 2.0054 Df50    0.0 R_after   1.0
+  s4 B4 heavy  Tp=1.0  Np craft/target/neg   7/  1/0   Ep50 1.0052 Df50    0.0 R_after   1.0
+  s5 B4 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3111 Df50    0.0 R_after   1.0
+  s5 B3 heavy  Tp=1.0  Np craft/target/neg  29/  5/0   Ep50 4.7156 Df50    0.0 R_after   1.0
+  s5 B4 normal Tp=2.0  Np craft/target/neg   3/  0/0   Ep50  0.314 Df50    0.0 R_after   1.0
+  s5 B4 heavy  Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3037 Df50    0.0 R_after   1.0
+  s5 B4 heavy  Tp=2.0  Np craft/target/neg  12/  2/0   Ep50 2.0064 Df50    0.0 R_after   1.0
+  s5 B3 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3128 Df50    0.0 R_after   1.0
+  s5 B4 normal Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3043 Df50    0.0 R_after   1.0
+  s5 B4 heavy  Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1519 Df50    0.0 R_after   1.0
+  s5 B4 normal Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1518 Df50    0.0 R_after   1.0
+  s5 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 0.6026 R_after   1.0
+  s5 B1 heavy  Tp=1.0  Np craft/target/neg  42/  7/0   Ep50   None Df50    0.0 R_after  None
+  s5 B1 normal Tp=1.0  Np craft/target/neg  42/  7/0   Ep50   None Df50    0.0 R_after  None
+  s5 B4 heavy  Tp=1.0  Np craft/target/neg   6/  1/0   Ep50  1.005 Df50    0.0 R_after   1.0
+  s5 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.3866 R_after   1.0
+
+Admissibility (W2-PREREGISTRATION.md §5):
+  gate 1 ok: B1 poisoned retrievals on Q_craft [56, 56, 49, 49, 42, 42, 49, 49, 42, 42], on Q_target [7, 7, 14, 14, 21, 21, 7, 7, 7, 7]
+  gate 2 ok: every baseline behaved as its own definition says
+  gate 3 ok: I7 and I3 held in every cell
+  gate 4 ok (normal): all 5 seeds order B1>=B3>=B4>=B2 on Q_target
+  gate 4 ok (heavy): all 5 seeds order B1>=B3>=B4>=B2 on Q_target
+  Q_negative poisoned retrievals: max 0 across 70 cells (spread check)
+
+wrote PUBLIC_HOME/projects/paper-venue-scout/prototype/results/W2-inmemory.json   admissible=True

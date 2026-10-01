@@ -1,0 +1,229 @@
+"""
+Canonical result emitter + table regenerator (step-5 validatable pipeline).
+
+Runs the frozen configs (config_manifest.json) through the existing gate2/gate4
+measurement functions and emits ONE versioned JSON schema tagged with the
+evidence tier, so the standalone deployment later emits the same fields without
+changing any metric definition. Tables are regenerated from the JSON — no paper
+number is hard-coded.
+
+  python3 analysis.py                 # full config -> results/results.json + tables
+  python3 analysis.py --golden        # small fixed config -> results/golden.json
+  python3 analysis.py --backend milvus --uri /tmp/a.db   # Milvus Lite (FLAT)
+"""
+
+import argparse
+import json
+import math
+import os
+import random
+import subprocess
+
+import gate2
+import gate4
+from backend import InMemoryBackend
+
+EVIDENCE_LEVELS = ("simulation", "exact_in_memory", "milvus_lite_flat", "milvus_standalone")
+SCHEMA_VERSION = "1.0"
+REQUIRED = ("schema_version", "run_id", "experiment_id", "backend", "index_type",
+            "evidence_level", "git_commit", "metrics")
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+
+# Captured ONCE, at first use, and reused for every record in the run. It used
+# to be sampled per record -- i.e. whenever each experiment happened to finish --
+# so an edit made while a 70-minute run was in flight would retroactively mark it
+# dirty, and a multi-experiment run could carry different verdicts in different
+# records. The field is meant to describe the code that produced the numbers, so
+# it is read before any of them exist.
+_GIT = {}
+
+# Paths that cannot change a measured number. The gate asks whether the code
+# that produced these results still exists somewhere; the manuscript, the
+# evidence matrix and the archived result files are not that code, and failing a
+# run because someone edited a .tex during it would punish exactly the parallel
+# work the schedule requires.
+_NON_CODE = ("results/", "paper/", "output/", "data/", "docs/", ".md")
+
+
+def _is_code(path):
+    return not (path.endswith(".md") or
+                any(seg in path for seg in _NON_CODE if not seg.startswith(".")))
+
+
+def git_commit():
+    if "commit" not in _GIT:
+        try:
+            _GIT["commit"] = subprocess.check_output(
+                ["git", "rev-parse", "--short", "HEAD"],
+                cwd=HERE, stderr=subprocess.DEVNULL).decode().strip()
+        except Exception:
+            _GIT["commit"] = "unknown"
+    return _GIT["commit"]
+
+
+def git_dirty():
+    """Whether CODE was uncommitted when the run began.
+
+    A result does NOT expire because the repository moved on: a run at a real
+    commit with a clean tree stays reproducible by checking that commit out.
+    What actually destroys reproducibility is a run against edits that were
+    never committed, because the exact code that produced the numbers no longer
+    exists anywhere. That is the distinction this field records, and it is the
+    one the acceptance gate keys on -- not equality with the current HEAD.
+
+    Only CODE counts. Result files are data: archiving a superseded run under a
+    new name leaves the working tree dirty without changing a single line that
+    produced the numbers, and treating that as unreproducible would punish
+    exactly the record-keeping the acceptance gate asks for."""
+    if "dirty" not in _GIT:
+        _GIT["dirty"] = bool(git_dirty_files())
+    return _GIT["dirty"]
+
+
+def git_dirty_files():
+    """Which code files were uncommitted, so a dirty verdict is diagnosable
+    rather than a bare boolean."""
+    if "files" not in _GIT:
+        try:
+            out = subprocess.check_output(["git", "status", "--porcelain"],
+                                          cwd=HERE, stderr=subprocess.DEVNULL).decode()
+            _GIT["files"] = sorted(f for f in
+                                   (ln.split(maxsplit=1)[-1] for ln in out.splitlines()
+                                    if ln.strip()) if _is_code(f))[:10]
+        except Exception:
+            _GIT["files"] = None
+    return _GIT["files"]
+
+
+def _clean(metrics):
+    # JSON has no NaN; a NaN metric (e.g. conditional recall with no full-k query)
+    # becomes null rather than being silently coerced to 0.
+    return {k: (None if isinstance(v, float) and math.isnan(v) else v) for k, v in metrics.items()}
+
+
+def make_record(experiment_id, backend, index_type, evidence_level, config, metrics, run_id="local"):
+    if evidence_level not in EVIDENCE_LEVELS:
+        raise ValueError(f"unknown evidence_level {evidence_level!r}")
+    if not isinstance(metrics, dict):
+        raise ValueError("missing required field: metrics (must be a dict, not defaulted)")
+    rec = {"schema_version": SCHEMA_VERSION, "run_id": run_id, "experiment_id": experiment_id,
+           "backend": backend, "index_type": index_type, "evidence_level": evidence_level,
+           "git_commit": git_commit(), "git_dirty": git_dirty(),
+           "git_dirty_files": git_dirty_files() or None,
+           "config": config, "metrics": _clean(metrics)}
+    for f in REQUIRED:
+        if rec.get(f) is None:
+            raise ValueError(f"missing required field: {f}")
+    return rec
+
+
+def make_backend(backend, dim, uri):
+    if backend == "inmemory":
+        return InMemoryBackend()
+    if backend == "milvus":
+        from milvus_backend import MilvusBackend
+        return MilvusBackend(dim=dim, uri=uri)
+    raise SystemExit(f"unknown backend {backend}")
+
+
+def collect(m, backend="inmemory", uri=None):
+    evidence = "exact_in_memory" if backend == "inmemory" else "milvus_lite_flat"
+    dim, k = m["dim"], m["k"]
+    random.seed(0)
+    vecs = gate2.gen_vecs(m["N_eligibility"], dim)
+    random.seed(1)
+    qvecs = [[random.gauss(0, 1) for _ in range(dim)] for _ in range(m["queries"])]
+    recs = []
+
+    for mode in m["hidden_modes"]:
+        for of in m["over_fetch"]:
+            accs = []
+            for sd in m["seeds"]:
+                hidden = gate2.hidden_mask(mode, vecs, m["N_eligibility"], m["hidden_ratio"], qvecs, seed=sd)
+                elig = set(range(m["N_eligibility"])) - hidden
+                b = make_backend(backend, dim, uri)
+                for i in range(m["N_eligibility"]):
+                    b.insert(i, vecs[i], visible=(i not in hidden))
+                accs.append(gate2.evaluate(b, vecs, qvecs, elig, hidden, k, of))
+            # Per-seed metric first, then the MEAN across seeds. Recorded rather
+            # than left to be inferred from this line: the manuscript has to
+            # name the aggregation, and "(3 seeds)" does not say whether the
+            # queries were pooled or the per-seed figures averaged. The raw
+            # per-seed values travel with it so the aggregation can be redone.
+            # An undefined per-seed value does not participate. Averaging it in
+            # as zero, or letting NaN poison the mean into something a lenient
+            # JSON reader then rounds, is how "no full-k result existed at all"
+            # became "conditional recall stayed 1.0" in the manuscript.
+            met = {}
+            for kk in accs[0]:
+                vals = [a[kk] for a in accs if a[kk] is not None]
+                met[kk] = sum(vals) / len(vals) if vals else None
+            met["_aggregation"] = "mean_across_seed_level_metrics"
+            met["_per_seed"] = {kk: [a[kk] for a in accs] for kk in accs[0]}
+            # Why each null is null, so a reader never has to guess whether it
+            # means zero, missing, or not applicable.
+            met["_status"] = {
+                kk: ("observed" if met[kk] is not None else
+                     "undefined_no_full_k_results" if kk == "cond_recall" else
+                     "undefined")
+                for kk in accs[0]}
+            met["_denominators"] = {
+                "cond_recall": {"full_k_queries": met.get("cond_full_k_n"),
+                                "total_queries": met.get("cond_total_q_n")}}
+            recs.append(make_record(f"elig/{mode}/of{of}", backend, m["index_type"], evidence,
+                                    {"seeds": m["seeds"], "mode": mode, "over_fetch": of,
+                                     "hidden_ratio": m["hidden_ratio"], "k": k}, met))
+
+    items = gate4.gen(m["N_containment"], dim, m["n_sources"], m["n_batches"],
+                      m["compromised_source"], m["n_poison_batches"], m["poison_frac"])
+    for strat in m["revocation_granularities"]:
+        rev = gate4.revoked_set(items, strat, m["compromised_source"])
+        b = make_backend(backend, dim, uri)
+        met = gate4.evaluate(b, items, rev)
+        recs.append(make_record(f"contain/{strat}", backend, m["index_type"], evidence,
+                                {"seed": 0, "granularity": strat, "n_revoked": len(rev)}, met))
+    return recs
+
+
+def tables(records):
+    """Regenerate the paper tables FROM the records (no hard-coded numbers)."""
+    elig = [r for r in records if r["experiment_id"].startswith("elig/")]
+    con = [r for r in records if r["experiment_id"].startswith("contain/")]
+    print(f"\nEvidence: {sorted({r['evidence_level'] for r in records})}  "
+          f"commit={records[0]['git_commit']}")
+    print("\n[Eligibility] mode/over-fetch -> under-fill, hM tail, recall")
+    print(f"  {'experiment':>20} {'underfill':>9} {'hM95':>6} {'pf_rec':>7} {'cond_rec':>8} {'if_rec':>7}")
+    for r in sorted(elig, key=lambda r: r["experiment_id"]):
+        mt = r["metrics"]
+        cr = "n/a" if mt["cond_recall"] is None else f"{mt['cond_recall']:.3f}"
+        print(f"  {r['experiment_id']:>20} {mt['underfill']*100:8.1f}% {mt['hM95']*100:5.0f}% "
+              f"{mt['pf_recall']:7.3f} {cr:>8} {mt['if_recall']:7.3f}")
+    print("\n[Containment] granularity -> caught, collateral, residual(post-filter/in-index)")
+    print(f"  {'experiment':>18} {'caught':>7} {'collat':>7} {'res_pf':>7} {'res_if':>7}")
+    for r in sorted(con, key=lambda r: r["experiment_id"]):
+        mt = r["metrics"]
+        print(f"  {r['experiment_id']:>18} {mt['caught']*100:6.1f}% {mt['collateral']*100:6.1f}% "
+              f"{mt['res_pf']*100:6.1f}% {mt['res_if']*100:6.1f}%")
+
+
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--backend", default="inmemory", choices=["inmemory", "milvus"])
+    ap.add_argument("--uri", default="http://localhost:19530")
+    ap.add_argument("--golden", action="store_true")
+    ap.add_argument("--out", default=None)
+    a = ap.parse_args()
+    m = json.load(open(os.path.join(HERE, "config_manifest.json")))
+    if a.golden:
+        m = {**m, **m["golden"]}
+    recs = collect(m, a.backend, a.uri)
+    os.makedirs(os.path.join(HERE, "results"), exist_ok=True)
+    out = a.out or os.path.join(HERE, "results", "golden.json" if a.golden else "results.json")
+    # allow_nan=False makes an unrepresentable value a crash at write time
+    # rather than a NaN token that is not JSON, that a strict reader rejects and
+    # a lenient one silently turns into something. One did reach the manuscript.
+    with open(out, "w") as f:
+        json.dump(recs, f, indent=2, allow_nan=False)
+    print(f"wrote {len(recs)} records -> {out}")
+    tables(recs)

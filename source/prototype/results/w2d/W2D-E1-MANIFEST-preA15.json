@@ -1,0 +1,295 @@
+{
+  "artifact_hashes": {
+    "calibration_scores": {
+      "path": "W2D-calibration-scores.json",
+      "sha256": "3e28adf002702583fb789f9fd71860d58929361e82ea6273e11e25be1aa326df"
+    },
+    "data_freeze": {
+      "path": "../../data/w2d/W2D-DATA-FREEZE.json",
+      "sha256": "8114e062f051dfeae0d4671b81d01df88fe372969520dc746a2d7d3c6734aabf"
+    },
+    "detector_metrics": {
+      "path": "W2D-detector-metrics.json",
+      "sha256": "ee88077b49755c39d66d79211831be4fdc0c07c5fe38faffd6211364d4da2930"
+    },
+    "labels": {
+      "path": "W2D-labels.json",
+      "sha256": "05d1363510a1790d690b05640c3a2830be4e62df56b8592182904ccb29019a9e"
+    },
+    "labels_checksum": {
+      "path": "W2D-labels.sha256",
+      "sha256": "edd95b9d32d43b156b4bb7daa540742f8ea2415690a00bdf252fd0ae0d8c0f0e"
+    },
+    "landing": {
+      "path": "W2D-LANDING.json",
+      "sha256": "438e9c494b58933b1a7df1cdee60a186fc6ccbba7c3f520beb424c9043014009"
+    },
+    "landing_pre_a9": {
+      "path": "W2D-LANDING-preA9-lineage.json",
+      "sha256": "88aa0cf6503209c3aef93535db46e7456fde0cab9661d870bd2ddf0121e7301d"
+    },
+    "legacy_authoritative_w2": {
+      "path": "../W2-inmemory.json",
+      "sha256": "1f5efd3390039bf930ceffac7464d06e0a178ca9e46bb0a3b7c961abfff7a24d"
+    },
+    "legacy_authoritative_w2r": {
+      "path": "../W2R-inmemory.json",
+      "sha256": "58b9a8dc1fe3124621733e97c2e3ad0e253f9bdce513c70d8139f432b0d81e8d"
+    },
+    "legacy_authority_manifest": {
+      "path": "../AUTHORITATIVE.json",
+      "sha256": "fdca94b312900f01024a94491b4d100328eced2d2681566ccd956356111422db"
+    },
+    "legacy_candidate_w2": {
+      "path": "W2-legacy-regression-run-a.json",
+      "sha256": "2122e80d66891276ddcb31369c2e71ae4de5fc6d9bf2af89306f6ef666f7fca8"
+    },
+    "legacy_candidate_w2r": {
+      "path": "W2R-legacy-regression.json",
+      "sha256": "be980da694e9d09a59d8e25d162bc85828465906a112fe70fefe5c6b54de8c75"
+    },
+    "legacy_regression": {
+      "path": "W2D-LEGACY-REGRESSION.json",
+      "sha256": "57ba8a1927516114cfdd8419e9bd5f3860cbb187a6efdeb763168c7976529b9c"
+    },
+    "legacy_same_code_repeat": {
+      "path": "W2-legacy-regression-run-b-same-code.json",
+      "sha256": "754b613a7abce666c50b3f79d7ff18cdd416cb99c00319c61d76bf58729d46fc"
+    },
+    "protocol_plan": {
+      "path": "W2D-PROTOCOL-PLAN.json",
+      "sha256": "8209e741d1d5899c2fee6205f5c3808b5a8c60b3f33a2a0dc3b3b1b4774aa262"
+    },
+    "protocol_plan_pre_a9": {
+      "path": "W2D-PROTOCOL-PLAN-preA7-landing-contract-failure.json",
+      "sha256": "cfcf57938019339ddc6573f66a0d345b42328654bd560ba8fe1197c9a2b7c5c3"
+    },
+    "safe_inputs_json": {
+      "path": "../../data/w2d/W2D-detector-inputs.json",
+      "sha256": "5784dbf469f004068f3f6b183f44ff51e36de0035ae8cc146ddb7291d22cf39b"
+    },
+    "safe_inputs_npz": {
+      "path": "../../data/w2d/W2D-detector-inputs.npz",
+      "sha256": "1249c7cd23a03d3cde4e4c46ff3ec67ff9d59e6a3fd05978bb7c6da00bba1c45"
+    },
+    "source_control_gate": {
+      "path": "W2D-source-control-gate.json",
+      "sha256": "0fba7d57f6bdbd6d45fccab2f9af92868c4a322a22adde35d163709830d4534b"
+    },
+    "source_controls": {
+      "path": "W2D-source-controls.json",
+      "sha256": "fdaf7ee1b3b0a5863834face0840121f5c357f3871eb7434ad93cc786bf0e291"
+    },
+    "test_scores": {
+      "path": "W2D-test-scores.json",
+      "sha256": "f928416f8adf7277ec6eeb536d2ebce668ae4655f97f425a3f57501137c91e01"
+    },
+    "threshold": {
+      "path": "W2D-threshold.json",
+      "sha256": "52d87cdde2d868862764b18e134f6f28b0fc06c4092c1da9d0ec91e9cfc6eca3"
+    }
+  },
+  "execution_tier": "E1_INMEMORY",
+  "expected_result_filename": "W2D-E1-INMEMORY.json",
+  "expected_runtime_backend": {
+    "backend": "inmemory",
+    "consistency_level": "strong_in_process",
+    "deployment_mode": "process_local",
+    "evidence_level": "exact_in_memory",
+    "implementation": "InMemoryBackend",
+    "index_type_effective": "exact_bruteforce",
+    "index_type_requested": "exact_bruteforce",
+    "metric": "COSINE",
+    "milvus_lite_version": null,
+    "pymilvus_version": null,
+    "vector_dim": 384
+  },
+  "measurement_name": "promotion-path replay driven by real D1 outputs and measured service times",
+  "runtime_fingerprint": {
+    "algorithm": "sha256",
+    "components": {
+      "a9_equivalence": {
+        "path": "../../w2d_equivalence.py",
+        "sha256": "df9631b6eb2198fe4eb578df617f42418e61178a6481fc40bfe78dbf92447079"
+      },
+      "amendment_a1": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A1.md",
+        "sha256": "124655ae547c19568f35fb677afac8cbb44a80192811a268ac73b14fc2cdd39c"
+      },
+      "amendment_a10": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A10.md",
+        "sha256": "9cf93b946fcbc7e3c248950d69e89efa91554bed31f85f378ad56a16da20fb4b"
+      },
+      "amendment_a11": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A11.md",
+        "sha256": "611b259c1fffbd589f34a59feaf37ce74d4f56990229edd839c09329d1914173"
+      },
+      "amendment_a12": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A12.md",
+        "sha256": "809d834a16f15bf2d5470081bec06e27751832a211b8104c7265873c7f97b456"
+      },
+      "amendment_a13": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A13.md",
+        "sha256": "922e085cfd0fdb368e4c1a858682772ea8fb364190adc93733e652f2d7af4d28"
+      },
+      "amendment_a14": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A14.md",
+        "sha256": "c6662257e33789be888a73cf558452dd6097786591f1477f32500a9f1f31024b"
+      },
+      "amendment_a2": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A2.md",
+        "sha256": "c2690ffe875f89867c1497c80e2b59763daa82c1259690905459bf6f4c485cf2"
+      },
+      "amendment_a3": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A3.md",
+        "sha256": "78d8e6414be6d22ce8c57bd1b792e3b9a52264d47ea5363ded3ddbd244fb61cb"
+      },
+      "amendment_a4": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A4.md",
+        "sha256": "2aaed1edc4afb3abbfb8d94eb9c7e49f0b3e6c55702d673ed2d10218b79be2ce"
+      },
+      "amendment_a5": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A5.md",
+        "sha256": "fd1a4112a457059108dec58569915b43f0a8922b552bc2d6cf0ec16acb1d476e"
+      },
+      "amendment_a6": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A6.md",
+        "sha256": "4fe13741b7477adefa1c0a35e174ce006263142f31eae48018d0ec382944f92a"
+      },
+      "amendment_a7": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A7.md",
+        "sha256": "89e7be0b9638242fee6425e691280e47254bec86308681115c6a060bdb0bd7ab"
+      },
+      "amendment_a8": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A8.md",
+        "sha256": "7fda1f1ffed05c0d45fdf770849affe661cd7c16f6cbf409ed8c206e3d68daa0"
+      },
+      "amendment_a9": {
+        "path": "../../W2D-PREREGISTRATION-AMENDMENT-A9.md",
+        "sha256": "5cc3d30744fcaefdd48c68fbea2563ff7adf1c4990b9bad000bacb8facb724e3"
+      },
+      "analyzer": {
+        "path": "../../w2d_analyze.py",
+        "sha256": "3055d806faa2bbc28bfc38c7b5a4b8d5658c38c910728114c2e31c0de13de77d"
+      },
+      "backend": {
+        "path": "../../backend.py",
+        "sha256": "f9343e8df7de9afc7884d6a673aad6fec821d45ab9be2f2099c93a4d82269e28"
+      },
+      "backend_evidence": {
+        "path": "../../w2d_backend_evidence.py",
+        "sha256": "cfec9b68ff78d3d2a5bee88f84edf3fe3b7853b4d21a2debaed07c7723c4055b"
+      },
+      "calibrator": {
+        "path": "../../w2d_calibrate.py",
+        "sha256": "87cdd132115008ed3acbcaa87c5712326933236022d367aa069ade007c7a2076"
+      },
+      "detector": {
+        "path": "../../detector.py",
+        "sha256": "f0510df5cb8805bb21fec20351662a4de11ea987f0c978651fe62e5ddf7a9ca3"
+      },
+      "experiment_driver": {
+        "path": "../../poison_exposure.py",
+        "sha256": "94a778d266b94a2aa1496792794fc131e0f2dc8137b95032f359e52c33a2df37"
+      },
+      "landing_evaluator": {
+        "path": "../../w2d_landing.py",
+        "sha256": "1e6b872781e1f16a5836b4873ddf81a1fb710ea75b8b5cdacd5d32acb308ab76"
+      },
+      "legacy_analysis": {
+        "path": "../../analysis.py",
+        "sha256": "51bbc2a89eaac05e7479925cba3efac79921eabf40963f090eda3f551714eae1"
+      },
+      "legacy_gate2": {
+        "path": "../../gate2.py",
+        "sha256": "1768d85624d0f72fe36444527da67a762792fd267fec1c55a638dfc85c19b4e2"
+      },
+      "legacy_gate4": {
+        "path": "../../gate4.py",
+        "sha256": "e938cd079a41a4d9a6293bbc6756c2e21acdf19f1bb6d707cea45f37c15d5ba3"
+      },
+      "legacy_gate_tests": {
+        "path": "../../test_verify_w2d_legacy.py",
+        "sha256": "5733c1d3b13cf53d5654fdcfa3abf4a9d751dfa54de6af2729d7a064de8ae888"
+      },
+      "legacy_milvus_backend": {
+        "path": "../../milvus_backend.py",
+        "sha256": "b516103deecfd31b5e7b6673621e139c9b18bf2e607d57fc75c5d2678bb500a5"
+      },
+      "legacy_realtext_workload": {
+        "path": "../../realtext_workload.py",
+        "sha256": "f718e7b5c3173fb62cca850f6b3e994007051247fb863962d6b1bfc6c75fa9e6"
+      },
+      "legacy_slice": {
+        "path": "../../slice.py",
+        "sha256": "dc1ae42cb8b6d973ad1d9228965c9adc3e00131b2d99278aba7e5dd8eed97327"
+      },
+      "legacy_test_invariants": {
+        "path": "../../test_invariants.py",
+        "sha256": "ba0a8ec08bc87a854771f81091a941b9d6ac0b8b7f63dc1e73678bc24654ce88"
+      },
+      "legacy_test_runtime": {
+        "path": "../../test_w2d_runtime.py",
+        "sha256": "05fd48acc80adc6411bf4861ba1a4d58c8a7ae5d52d1ece34e355f80c941d9b4"
+      },
+      "legacy_test_w2": {
+        "path": "../../test_w2.py",
+        "sha256": "fff32d93de9d06020311cc731837df8a94f5eadcc01d693b4a8d8efce7b32a0a"
+      },
+      "legacy_verifier": {
+        "path": "../../verify_w2d_legacy.py",
+        "sha256": "a3b97b4de7a5d18aff7652180253efd71ef5d77cfc15354d291d4b51091a0342"
+      },
+      "legacy_verify_w2": {
+        "path": "../../verify_w2.py",
+        "sha256": "23a641b778c432fdef372f3312e8fd4a18e020129004b7a0102198622497a889"
+      },
+      "legacy_verify_w2r": {
+        "path": "../../verify_w2r.py",
+        "sha256": "313a1cf4667321780687168ade79e54702a50fe1c6b24630b9c2dd818c9915c5"
+      },
+      "metrics": {
+        "path": "../../w2d_metrics.py",
+        "sha256": "d379f132da17eb966f32cc04c6fe5cf31b697a097d56515a264031950f91fc3b"
+      },
+      "model_revision": {
+        "sha256": "d36d67e02523717e3871dbcce928f122ed24afbcd375ca81600d4474cb618134",
+        "value": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41"
+      },
+      "preregistration": {
+        "path": "../../W2D-PREREGISTRATION.md",
+        "sha256": "c4a3020fe5ee96575fd568b3ad12cce933f4211f5004974d790ed197a2356c3d"
+      },
+      "protocol": {
+        "path": "../../w2d_protocol.py",
+        "sha256": "e328855b87fc296f46ac70f54a619e818b2ba714312f6afc984635abd85c4a08"
+      },
+      "runner": {
+        "path": "../../w2d_runner.py",
+        "sha256": "407e8a103eb67242e748a5a1acb328e7786c23640548498d1ecac29db09100dd"
+      },
+      "runtime": {
+        "path": "../../functional_slice.py",
+        "sha256": "f6baee5e1e1f90c52650c656ed5236fac8398dcd40f619ca11cb864fbd094a4b"
+      },
+      "scorer": {
+        "path": "../../w2d_scorer.py",
+        "sha256": "ef3d480c6dba8be60bdb5f2c5440760e38ec3b52f59837b27a8012557b9e7783"
+      },
+      "snapshot_registry": {
+        "path": "../../w2d_snapshot.py",
+        "sha256": "081b8c8b7e7866cd0da728c86c8d516a0c1a3d6c20f8b21b18b4fb2613e9263a"
+      },
+      "verifier": {
+        "path": "../../verify_w2d.py",
+        "sha256": "c14fa7e77881cfa2966e3bfafc9b0bfd5b86fe0a3494a82a6f87e2dd60696b7f"
+      },
+      "workload": {
+        "path": "../../w2d_workload.py",
+        "sha256": "bbe7389cf93dcc7cb6d62e450112ed8475e3a09137b90ac24d0c4ac6f93ffc85"
+      }
+    },
+    "sha256": "9834c0ecef3438ca3cc2bde87badaae7f31f7fb97e804028dd908075e5170ceb"
+  },
+  "schema_version": "W2D-manifest-v2"
+}

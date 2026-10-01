@@ -1,0 +1,17 @@
+{
+  "gate": {
+    "family_s_affirmed_n": 0,
+    "family_s_refused_n": 24,
+    "kind_counts": {
+      "invalid_signature": 8,
+      "provenance_conflict": 8,
+      "unknown_source": 8
+    },
+    "passed": true,
+    "promoted_n": 0,
+    "total": 24
+  },
+  "labels_sha256": "05d1363510a1790d690b05640c3a2830be4e62df56b8592182904ccb29019a9e",
+  "schema_version": "W2D-source-control-gate-v1",
+  "scores_sha256": "fdaf7ee1b3b0a5863834face0840121f5c357f3871eb7434ad93cc786bf0e291"
+}

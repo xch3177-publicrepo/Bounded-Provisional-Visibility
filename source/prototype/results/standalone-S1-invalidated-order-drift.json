@@ -1,0 +1,408 @@
+[
+  {
+    "backend": "milvus",
+    "config": {
+      "Tp_s": 1.0,
+      "baseline": "B2",
+      "block_order": "randomized per block",
+      "blocks": 5,
+      "concurrency": 8,
+      "consistency": "Bounded",
+      "deployment_mode": "standalone",
+      "desc": "synchronous verify-before-visible",
+      "dim": 384,
+      "expected_queries_per_block": 4500,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "over_fetch": 2,
+      "query_load": "open-loop, fixed 100 qps",
+      "run_profile": "full",
+      "search_params": {
+        "ef": 64
+      },
+      "server_uri": "http://localhost:19530",
+      "server_version": "v2.4.15",
+      "verify_cost_s": 0.05,
+      "window_s": 45
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S1/B2/conc8",
+    "git_commit": "55619f7",
+    "index_type": "HNSW",
+    "metrics": {
+      "admitted": 6665,
+      "blocks": 5,
+      "n_queries": 4500,
+      "n_queries_blocks": [
+        4500,
+        4500,
+        4500,
+        4500,
+        4500
+      ],
+      "qps_achieved": 99.9034366679848,
+      "qps_offered": 100,
+      "queries_dropped": 0,
+      "query_dispatch_lag_p95": 0.0009090699022635818,
+      "query_p50": 0.004599125008098781,
+      "query_p50_blocks": [
+        0.004599125008098781,
+        0.00450699997600168,
+        0.004546207957901061,
+        0.004999416996724904,
+        0.0053434589644894
+      ],
+      "query_p95": 0.0081581249833107,
+      "query_p95_blocks": [
+        0.0081581249833107,
+        0.007566959015093744,
+        0.0074899999890476465,
+        0.012497749994508922,
+        0.019404208986088634
+      ],
+      "query_p99": 0.025271792081184685,
+      "query_p99_blocks": [
+        0.025271792081184685,
+        0.011770166922360659,
+        0.0188098750077188,
+        0.04781775001902133,
+        0.052972584031522274
+      ],
+      "query_p99_max": 0.052972584031522274,
+      "query_p99_median": 0.025271792081184685,
+      "query_p99_min": 0.011770166922360659,
+      "throughput": 147.96809008713748,
+      "throughput_max": 148.76043651583112,
+      "throughput_min": 140.10217159530922,
+      "throughput_runs": [
+        147.96809008713748,
+        148.76043651583112,
+        148.547916765262,
+        144.33035811220452,
+        140.10217159530922
+      ],
+      "window_s": 45.04349550011102
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "Tp_s": 1.0,
+      "baseline": "B1",
+      "block_order": "randomized per block",
+      "blocks": 5,
+      "concurrency": 8,
+      "consistency": "Bounded",
+      "deployment_mode": "standalone",
+      "desc": "immediate admission, no verification",
+      "dim": 384,
+      "expected_queries_per_block": 4500,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "over_fetch": 2,
+      "query_load": "open-loop, fixed 100 qps",
+      "run_profile": "full",
+      "search_params": {
+        "ef": 64
+      },
+      "server_uri": "http://localhost:19530",
+      "server_version": "v2.4.15",
+      "verify_cost_s": 0.05,
+      "window_s": 45
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S1/B1/conc8",
+    "git_commit": "55619f7",
+    "index_type": "HNSW",
+    "metrics": {
+      "admitted": 55477,
+      "blocks": 5,
+      "n_queries": 4499,
+      "n_queries_blocks": [
+        4500,
+        4500,
+        4499,
+        4500,
+        4500
+      ],
+      "qps_achieved": 99.94769028474171,
+      "qps_offered": 100,
+      "queries_dropped": 0,
+      "query_dispatch_lag_p95": 0.0004905645037069917,
+      "query_p50": 0.00468512496445328,
+      "query_p50_blocks": [
+        0.004378874902613461,
+        0.004785166936926544,
+        0.00468512496445328,
+        0.005656833993270993,
+        0.0062773749232292175
+      ],
+      "query_p95": 0.017953582922928035,
+      "query_p95_blocks": [
+        0.018802833976224065,
+        0.017647083033807576,
+        0.017953582922928035,
+        0.04468399996403605,
+        0.05015733395703137
+      ],
+      "query_p99": 0.08159408392384648,
+      "query_p99_blocks": [
+        0.1468442080076784,
+        0.078271041973494,
+        0.08159408392384648,
+        0.20111316698603332,
+        0.1342575839953497
+      ],
+      "query_p99_max": 0.20111316698603332,
+      "query_p99_median": 0.1342575839953497,
+      "query_p99_min": 0.078271041973494,
+      "throughput": 1232.4512144757982,
+      "throughput_max": 1257.2730794287343,
+      "throughput_min": 906.9196397052176,
+      "throughput_runs": [
+        1257.2730794287343,
+        1249.337649945706,
+        1232.4512144757982,
+        952.2851204370646,
+        906.9196397052176
+      ],
+      "window_s": 45.01354645797983
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "Tp_s": 1.0,
+      "baseline": "B3",
+      "block_order": "randomized per block",
+      "blocks": 5,
+      "concurrency": 8,
+      "consistency": "Bounded",
+      "deployment_mode": "standalone",
+      "desc": "async visible, no deadline",
+      "dim": 384,
+      "expected_queries_per_block": 4500,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "over_fetch": 2,
+      "query_load": "open-loop, fixed 100 qps",
+      "run_profile": "full",
+      "search_params": {
+        "ef": 64
+      },
+      "server_uri": "http://localhost:19530",
+      "server_version": "v2.4.15",
+      "verify_cost_s": 0.05,
+      "window_s": 45
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S1/B3/conc8",
+    "git_commit": "55619f7",
+    "index_type": "HNSW",
+    "metrics": {
+      "admitted": 49400,
+      "blocks": 5,
+      "n_queries": 4500,
+      "n_queries_blocks": [
+        4500,
+        4500,
+        4500,
+        4500,
+        4500
+      ],
+      "qps_achieved": 99.9923337367293,
+      "qps_offered": 100,
+      "queries_dropped": 0,
+      "query_dispatch_lag_p95": 0.0007149622542783618,
+      "query_p50": 0.005132583086378872,
+      "query_p50_blocks": [
+        0.005132583086378872,
+        0.004880124935880303,
+        0.00421841605566442,
+        0.0065818330040201545,
+        0.00751125009264797
+      ],
+      "query_p95": 0.033811166998930275,
+      "query_p95_blocks": [
+        0.033811166998930275,
+        0.013997041969560087,
+        0.011639875010587275,
+        0.056022249977104366,
+        0.12079433398321271
+      ],
+      "query_p99": 0.19036254193633795,
+      "query_p99_blocks": [
+        0.19036254193633795,
+        0.03583954100031406,
+        0.021549124969169497,
+        0.2060293749673292,
+        0.265537083032541
+      ],
+      "query_p99_max": 0.265537083032541,
+      "query_p99_median": 0.19036254193633795,
+      "query_p99_min": 0.021549124969169497,
+      "throughput": 1097.693619243206,
+      "throughput_max": 1381.357046753394,
+      "throughput_min": 723.6922740208693,
+      "throughput_runs": [
+        1097.693619243206,
+        1242.9063032603076,
+        1381.357046753394,
+        848.5350030567033,
+        723.6922740208693
+      ],
+      "window_s": 45.003450082964264
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "Tp_s": 1.0,
+      "baseline": "B4",
+      "block_order": "randomized per block",
+      "blocks": 5,
+      "concurrency": 8,
+      "consistency": "Bounded",
+      "deployment_mode": "standalone",
+      "desc": "fail-closed provisional visibility",
+      "dim": 384,
+      "expected_queries_per_block": 4500,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "over_fetch": 2,
+      "query_load": "open-loop, fixed 100 qps",
+      "run_profile": "full",
+      "search_params": {
+        "ef": 64
+      },
+      "server_uri": "http://localhost:19530",
+      "server_version": "v2.4.15",
+      "verify_cost_s": 0.05,
+      "window_s": 45
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S1/B4/conc8",
+    "git_commit": "55619f7",
+    "index_type": "HNSW",
+    "metrics": {
+      "admitted": 30614,
+      "blocks": 5,
+      "n_queries": 4500,
+      "n_queries_blocks": [
+        4500,
+        4500,
+        4500,
+        4500,
+        4500
+      ],
+      "qps_achieved": 99.99019957149775,
+      "qps_offered": 100,
+      "queries_dropped": 0,
+      "query_dispatch_lag_p95": 0.002857236540876329,
+      "query_p50": 0.008203207980841398,
+      "query_p50_blocks": [
+        0.004524291958659887,
+        0.004542666021734476,
+        0.008203207980841398,
+        0.008317416999489069,
+        0.008290375000797212
+      ],
+      "query_p95": 0.16779208299703896,
+      "query_p95_blocks": [
+        0.013613958028145134,
+        0.01829066697973758,
+        0.16779208299703896,
+        0.042053500073961914,
+        0.11911695799790323
+      ],
+      "query_p99": 0.6751206659246236,
+      "query_p99_blocks": [
+        0.050604083109647036,
+        0.1068412089953199,
+        0.6751206659246236,
+        0.13429750001523644,
+        0.4502847919939086
+      ],
+      "query_p99_max": 0.6751206659246236,
+      "query_p99_median": 0.13429750001523644,
+      "query_p99_min": 0.050604083109647036,
+      "throughput": 680.2444377070739,
+      "throughput_max": 1284.141178734207,
+      "throughput_min": 644.0696956976643,
+      "throughput_runs": [
+        1284.141178734207,
+        1247.76049497809,
+        680.2444377070739,
+        678.7243970239834,
+        644.0696956976643
+      ],
+      "window_s": 45.004410625086166
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "blocks": 5,
+      "concurrency": 8,
+      "definition": "per-block B4/B1; throughput as ratio, P99 as difference (B4 - B1), seconds",
+      "deployment_mode": "standalone",
+      "run_profile": "full",
+      "server_uri": "http://localhost:19530",
+      "server_version": "v2.4.15"
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S1/paired/B4_over_B1/conc8",
+    "git_commit": "55619f7",
+    "index_type": "HNSW",
+    "metrics": {
+      "p99_delta_max": 0.5935265820007771,
+      "p99_delta_median": 0.02857016702182591,
+      "p99_delta_min": -0.09624012489803135,
+      "p99_deltas": [
+        -0.09624012489803135,
+        0.02857016702182591,
+        0.5935265820007771,
+        -0.06681566697079688,
+        0.3160272079985589
+      ],
+      "p99_same_direction": false,
+      "ratio_max": 1.0213701380750797,
+      "ratio_median": 0.7127323345265264,
+      "ratio_min": 0.5519443120484117,
+      "ratios": [
+        1.0213701380750797,
+        0.9987376071091073,
+        0.5519443120484117,
+        0.7127323345265264,
+        0.710172839466803
+      ],
+      "same_direction": false
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  }
+]

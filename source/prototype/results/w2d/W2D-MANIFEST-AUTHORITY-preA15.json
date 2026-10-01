@@ -1,0 +1,14 @@
+{
+  "manifests": {
+    "E1_INMEMORY": {
+      "path": "W2D-E1-MANIFEST.json",
+      "sha256": "7e67aa5772bc57989b4ae911a2206e1444ae1313355b5ed5988f254051c24ea7"
+    },
+    "E2_MILVUS_LITE": {
+      "path": "W2D-E2-MANIFEST.json",
+      "sha256": "a25808d2569f9c6f48cfe40fdc7c994b8d71e9caf570ae296dbb6132e9ed379e"
+    }
+  },
+  "measurement_name": "promotion-path replay driven by real D1 outputs and measured service times",
+  "schema_version": "W2D-manifest-authority-v1"
+}

@@ -1,0 +1,90 @@
+PUBLIC_HOME/projects/paper-venue-scout/prototype/.venv312/lib/python3.12/site-packages/pymilvus/client/__init__.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+W2 poison exposure  backend=milvus  evidence=milvus_lite_flat
+  ONE collection, created once, never dropped during measurement.
+  s1 B4 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3191 Df50 0.0018 DH_c    3.0
+  s1 B4 heavy  Tp=1.0  Np craft/target/neg   8/  1/0   Ep50 1.0002 Df50 0.0006 DH_c    8.0
+  s1 B4 normal Tp=2.0  Np craft/target/neg   3/  0/0   Ep50 0.3203 Df50 0.0016 DH_c    3.0
+  s1 B4 normal Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1506 Df50 0.0022 DH_c    1.0
+  s1 B3 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3192 Df50 0.0018 DH_c    3.0
+  s1 B3 heavy  Tp=1.0  Np craft/target/neg  37/  4/0   Ep50 4.6836 Df50 0.0006 DH_c   37.0
+  s1 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.2666 DH_c    0.0
+  s1 B4 heavy  Tp=2.0  Np craft/target/neg  16/  2/0   Ep50 2.0002 Df50 0.0007 DH_c   16.0
+  s1 B4 heavy  Tp=0.15 Np craft/target/neg   2/  0/0   Ep50 0.1502 Df50 0.0006 DH_c    2.0
+  s1 B4 normal Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3007 Df50 0.0019 DH_c    3.0
+  s1 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 0.6186 DH_c    0.0
+  s1 B4 heavy  Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3002 Df50 0.0006 DH_c    3.0
+  s1 B1 heavy  Tp=1.0  Np craft/target/neg  56/  7/0   Ep50   None Df50 0.0007 DH_c   56.0
+  s1 B1 normal Tp=1.0  Np craft/target/neg  56/  7/0   Ep50   None Df50 0.0013 DH_c   56.0
+  s2 B4 normal Tp=0.3  Np craft/target/neg   3/  1/0   Ep50 0.3006 Df50 0.0019 DH_c    4.0
+  s2 B4 normal Tp=1.0  Np craft/target/neg   3/  1/0   Ep50 0.3189 Df50  0.002 DH_c    4.0
+  s2 B1 normal Tp=1.0  Np craft/target/neg  49/ 14/0   Ep50   None Df50 0.0018 DH_c   63.0
+  s2 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 0.6206 DH_c    0.0
+  s2 B4 normal Tp=0.15 Np craft/target/neg   1/  1/0   Ep50 0.1504 Df50 0.0015 DH_c    2.0
+  s2 B4 heavy  Tp=2.0  Np craft/target/neg  14/  4/0   Ep50 2.0002 Df50 0.0007 DH_c   18.0
+  s2 B4 heavy  Tp=1.0  Np craft/target/neg   7/  2/0   Ep50 1.0002 Df50 0.0007 DH_c    9.0
+  s2 B4 heavy  Tp=0.15 Np craft/target/neg   2/  1/0   Ep50 0.1502 Df50 0.0007 DH_c    3.0
+  s2 B3 heavy  Tp=1.0  Np craft/target/neg  35/ 10/0   Ep50 4.6871 Df50 0.0007 DH_c   43.0
+  s2 B3 normal Tp=1.0  Np craft/target/neg   3/  1/0   Ep50 0.3192 Df50  0.002 DH_c    4.0
+  s2 B4 heavy  Tp=0.3  Np craft/target/neg   3/  1/0   Ep50 0.3002 Df50 0.0007 DH_c    4.0
+  s2 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.2936 DH_c    0.0
+  s2 B4 normal Tp=2.0  Np craft/target/neg   3/  1/0   Ep50 0.3187 Df50  0.001 DH_c    4.0
+  s2 B1 heavy  Tp=1.0  Np craft/target/neg  49/ 14/0   Ep50   None Df50 0.0007 DH_c   63.0
+  s3 B4 heavy  Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3002 Df50 0.0006 DH_c    3.0
+  s3 B3 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3194 Df50 0.0016 DH_c    3.0
+  s3 B4 heavy  Tp=1.0  Np craft/target/neg   6/  3/0   Ep50 1.0002 Df50 0.0007 DH_c    7.0
+  s3 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50   0.62 DH_c    0.0
+  s3 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.2586 DH_c    0.0
+  s3 B3 heavy  Tp=1.0  Np craft/target/neg  29/ 14/0   Ep50 4.6834 Df50 0.0006 DH_c   34.0
+  s3 B4 heavy  Tp=2.0  Np craft/target/neg  12/  6/0   Ep50 2.0002 Df50 0.0007 DH_c   14.0
+  s3 B4 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50   0.32 Df50  0.002 DH_c    3.0
+  s3 B1 heavy  Tp=1.0  Np craft/target/neg  42/ 21/0   Ep50   None Df50 0.0007 DH_c   49.0
+  s3 B4 normal Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1506 Df50 0.0012 DH_c    1.0
+  s3 B4 heavy  Tp=0.15 Np craft/target/neg   2/  0/0   Ep50 0.1502 Df50 0.0006 DH_c    2.0
+  s3 B1 normal Tp=1.0  Np craft/target/neg  42/ 21/0   Ep50   None Df50  0.002 DH_c   49.0
+  s3 B4 normal Tp=2.0  Np craft/target/neg   3/  0/0   Ep50 0.3199 Df50 0.0017 DH_c    3.0
+  s3 B4 normal Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3006 Df50 0.0019 DH_c    3.0
+  s4 B4 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50   0.32 Df50 0.0022 DH_c    4.0
+  s4 B3 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3182 Df50  0.002 DH_c    4.0
+  s4 B4 normal Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1504 Df50 0.0015 DH_c    2.0
+  s4 B4 normal Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3008 Df50 0.0019 DH_c    4.0
+  s4 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.2586 DH_c    0.0
+  s4 B3 heavy  Tp=1.0  Np craft/target/neg  35/  4/0   Ep50 4.6878 Df50 0.0007 DH_c   47.0
+  s4 B4 normal Tp=2.0  Np craft/target/neg   3/  0/0   Ep50 0.3189 Df50 0.0012 DH_c    4.0
+  s4 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 0.6202 DH_c    0.0
+  s4 B4 heavy  Tp=0.15 Np craft/target/neg   2/  0/0   Ep50 0.1502 Df50 0.0007 DH_c    3.0
+  s4 B1 heavy  Tp=1.0  Np craft/target/neg  49/  7/0   Ep50   None Df50 0.0007 DH_c   70.0
+  s4 B1 normal Tp=1.0  Np craft/target/neg  49/  7/0   Ep50   None Df50 0.0017 DH_c   70.0
+  s4 B4 heavy  Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3003 Df50 0.0007 DH_c    4.0
+  s4 B4 heavy  Tp=2.0  Np craft/target/neg  14/  2/0   Ep50 2.0002 Df50 0.0007 DH_c   20.0
+  s4 B4 heavy  Tp=1.0  Np craft/target/neg   7/  1/0   Ep50 1.0002 Df50 0.0006 DH_c   10.0
+  s5 B4 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3179 Df50 0.0013 DH_c    3.0
+  s5 B3 heavy  Tp=1.0  Np craft/target/neg  29/  5/0   Ep50 4.6837 Df50 0.0006 DH_c   29.0
+  s5 B4 normal Tp=2.0  Np craft/target/neg   3/  0/0   Ep50 0.3167 Df50 0.0015 DH_c    3.0
+  s5 B4 heavy  Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3002 Df50 0.0007 DH_c    3.0
+  s5 B4 heavy  Tp=2.0  Np craft/target/neg  12/  2/0   Ep50 2.0002 Df50 0.0007 DH_c   12.0
+  s5 B3 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3197 Df50 0.0014 DH_c    3.0
+  s5 B4 normal Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3007 Df50 0.0016 DH_c    3.0
+  s5 B4 heavy  Tp=0.15 Np craft/target/neg   2/  0/0   Ep50 0.1502 Df50 0.0007 DH_c    2.0
+  s5 B4 normal Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1506 Df50 0.0015 DH_c    1.0
+  s5 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 0.6226 DH_c    0.0
+  s5 B1 heavy  Tp=1.0  Np craft/target/neg  42/  7/0   Ep50   None Df50 0.0006 DH_c   42.0
+  s5 B1 normal Tp=1.0  Np craft/target/neg  42/  7/0   Ep50   None Df50 0.0006 DH_c   42.0
+  s5 B4 heavy  Tp=1.0  Np craft/target/neg   6/  1/0   Ep50 1.0002 Df50 0.0006 DH_c    6.0
+  s5 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.2557 DH_c    0.0
+
+Admissibility (W2-PREREGISTRATION.md §5):
+  gate 1 ok: B1 poisoned retrievals on Q_craft [56, 56, 49, 49, 42, 42, 49, 49, 42, 42], on Q_target [7, 7, 14, 14, 21, 21, 7, 7, 7, 7]
+  gate 2 ok: every baseline behaved as its own definition says
+  gate 3 ok: I7 and I3 held in every cell
+  gate 4 ok (normal): all 5 seeds order B1>=B3>=B4>=B2 on Q_target
+  gate 4 ok (heavy): all 5 seeds order B1>=B3>=B4>=B2 on Q_target
+  Q_negative poisoned retrievals: max 0 across 70 cells (spread check)
+  gate 5 note: the sweep needed up to 2 passes to verify a cell clean (write-visibility lag)
+  gate 5 ok: no foreign id entered the candidate set in any of 13370 queries; 0 under-filled
+  gate 5 ok: every cell returned the collection to the corpus with no task or timer still armed
+  transfer breadth: 5/5 independently drawn attacked topics showed >=1 transferred query; per-topic coverage [0.125, 0.25, 0.375, 0.125, 0.125]
+  attack coverage (B1-defined): craft 0.75-1.00, target 0.12-0.38
+
+wrote PUBLIC_HOME/projects/paper-venue-scout/prototype/results/W2-milvus.json   admissible=True
+E20260727 17:45:23.909582 10448440 server.cpp:47] [SERVER][BlockLock][] Process exit

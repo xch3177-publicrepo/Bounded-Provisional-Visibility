@@ -1,0 +1,157 @@
+S1 replacement run — aborted by the prespecified quiescence gate after block 5
+==============================================================================
+
+PROVENANCE, read this first
+---------------------------
+This is a TRANSCRIPT of the operator's terminal, pasted back into the repository
+on 2026-07-27. It is NOT a program-written record and has NOT been through
+validate_results.py.
+
+There is no JSON for this run and there never was. The abort raises SystemExit,
+which is a BaseException, so main()'s `except Exception` did not catch it and its
+json.dump never ran; and had it run it would have written an empty list, because
+S1's per-baseline records are only appended after every block completes, while
+the abort happened inside the block loop. Five completed blocks — 20 cells,
+roughly 90 000 queries — were lost with the process. The abort message told the
+operator to "keep this partial file", and no such file existed. That defect is
+fixed for future runs (a salvage path now writes standalone-S1-partial.json,
+marked RAW and admissible only for feasibility statements); the fix cannot
+recover this run.
+
+This transcript is therefore the ONLY evidence that this run happened. It may be
+cited for what was attempted and how it ended. It may NOT be used to attribute a
+throughput or tail-latency cost to the protocol — see the frozen judgement below.
+
+Environment: Milvus standalone v2.4.15, single node, Docker, freshly initialised
+etcd (`docker compose down && rm -rf volumes && docker compose up -d`).
+Code: commit 0c38ec7. Command: `--exp S1 --full --s1-blocks 8`.
+
+
+WHY THE NUMBERS BELOW MUST NOT BECOME A RESULT
+----------------------------------------------
+1. The preregistered design is eight blocks, i.e. two complete Williams cycles.
+   Five is one full cycle plus one orphan block, which breaks position balance.
+2. Block 2's within-block sentinel movement is 2.94/1.85 = 1.59x, past the 1.5x
+   excursion threshold frozen before the run. At that tier the protocol cost is
+   not attributable even for the blocks that did complete.
+3. The run ended because the environment would not return to the calibrated
+   band, not because it finished.
+4. Every figure here comes from a terminal, with no validator and no committed
+   record behind it.
+Any one of those is sufficient on its own. Do not report a partial B4/B1 median,
+do not fall back to cycle 1 alone, and do not run a third S1.
+
+Within-block sentinel movement (P95 before -> after), computed from the log:
+  block 1  2.28 -> 2.99  = 1.31x
+  block 2  1.85 -> 2.94  = 1.59x   <-- excursion, > 1.5x
+  block 3  1.93 -> 2.32  = 1.20x
+  block 4  2.60 -> 3.79  = 1.46x
+  block 5  2.12 -> 2.48  = 1.17x
+
+Between-block recovery, time to two consecutive in-band sentinel readings:
+  block 1 -> 2   172 s
+  block 2 -> 3   193 s
+  block 3 -> 4   275 s
+  block 4 -> 5   111 s
+  block 5 -> 6   did not recover; 12 probes, 316 s, hit the 300 s cap
+
+Note block 4's B3 cell reports n_q=4489, not 4500. Do not write that every cell
+completed its full offered load; describe workload completion from the record
+fields (queries_offered, n_queries, queries_dropped, inflight_at_window_end,
+drain_complete), which for this run do not exist.
+
+No claim is made here about *why* the environment drifted. Compaction, segment
+GC and page-cache effects are all consistent with it and none was measured, so
+the paper attributes it to nothing.
+
+
+TRANSCRIPT
+----------
+Baseline: 0 experiment collections; 0 unrelated collection(s) left untouched
+Deployment: standalone  server_version=v2.4.15  uri=http://localhost:19530
+Experiments ['S1']  (evidence tier E3, FULL grid)
+
+[S1]
+  S1 global warm-up ...
+     calibration 1/5: P95 2.10 ms
+     calibration 2/5: P95 3.18 ms
+     calibration 3/5: P95 2.00 ms
+     calibration 4/5: P95 2.42 ms
+     calibration 5/5: P95 1.90 ms
+     stability band: 1.49-2.70 ms (median 2.10, MAD 0.20)
+     quiesce b0: P95 2.27 ms IN band, 1/2 consecutive, 0s
+     quiesce b0: P95 2.28 ms IN band, 2/2 consecutive, 21s
+     sentinel(before): P50 1.70 ms  P95 2.28 ms
+  S1 block 1/8 conc=8 order=B1>B2>B4>B3 window=45s
+     B1: 1547 items/s, P99 16.9 ms, n_q=4500, drop ok in 0.508s
+     B2: 151 items/s, P99 8.5 ms, n_q=4500, drop ok in 0.65s
+     B4: 1526 items/s, P99 17.7 ms, n_q=4500, drop ok in 0.487s
+     B3: 1548 items/s, P99 12.6 ms, n_q=4500, drop ok in 0.538s
+     sentinel(after):  P50 1.85 ms  P95 2.99 ms
+     quiesce b1: P95 2.42 ms IN band, 1/2 consecutive, 90s
+     quiesce b1: P95 2.75 ms OUT band, 0/2 consecutive, 111s
+     quiesce b1: P95 2.86 ms OUT band, 0/2 consecutive, 131s
+     quiesce b1: P95 2.38 ms IN band, 1/2 consecutive, 152s
+     quiesce b1: P95 1.85 ms IN band, 2/2 consecutive, 172s
+     sentinel(before): P50 1.67 ms  P95 1.85 ms
+  S1 block 2/8 conc=8 order=B2>B3>B1>B4 window=45s
+     B2: 149 items/s, P99 9.2 ms, n_q=4500, drop ok in 0.24s
+     B3: 1522 items/s, P99 14.2 ms, n_q=4500, drop ok in 0.915s
+     B1: 1547 items/s, P99 14.9 ms, n_q=4500, drop ok in 0.514s
+     B4: 1399 items/s, P99 48.6 ms, n_q=4500, drop ok in 0.614s
+     sentinel(after):  P50 1.84 ms  P95 2.94 ms
+     quiesce b2: P95 3.20 ms OUT band, 0/2 consecutive, 91s
+     quiesce b2: P95 3.17 ms OUT band, 0/2 consecutive, 111s
+     quiesce b2: P95 2.90 ms OUT band, 0/2 consecutive, 131s
+     quiesce b2: P95 4.51 ms OUT band, 0/2 consecutive, 152s
+     quiesce b2: P95 1.99 ms IN band, 1/2 consecutive, 172s
+     quiesce b2: P95 1.93 ms IN band, 2/2 consecutive, 193s
+     sentinel(before): P50 1.71 ms  P95 1.93 ms
+  S1 block 3/8 conc=8 order=B3>B4>B2>B1 window=45s
+     B3: 1516 items/s, P99 16.2 ms, n_q=4500, drop ok in 0.529s
+     B4: 1447 items/s, P99 24.0 ms, n_q=4500, drop ok in 0.977s
+     B2: 149 items/s, P99 10.6 ms, n_q=4500, drop ok in 0.457s
+     B1: 1540 items/s, P99 13.4 ms, n_q=4500, drop ok in 0.749s
+     sentinel(after):  P50 1.76 ms  P95 2.32 ms
+     quiesce b3: P95 3.21 ms OUT band, 0/2 consecutive, 90s
+     quiesce b3: P95 4.19 ms OUT band, 0/2 consecutive, 111s
+     quiesce b3: P95 4.86 ms OUT band, 0/2 consecutive, 132s
+     quiesce b3: P95 2.26 ms IN band, 1/2 consecutive, 152s
+     quiesce b3: P95 2.97 ms OUT band, 0/2 consecutive, 173s
+     quiesce b3: P95 4.05 ms OUT band, 0/2 consecutive, 193s
+     quiesce b3: P95 2.42 ms IN band, 1/2 consecutive, 214s
+     quiesce b3: P95 2.74 ms OUT band, 0/2 consecutive, 234s
+     quiesce b3: P95 2.34 ms IN band, 1/2 consecutive, 254s
+     quiesce b3: P95 2.60 ms IN band, 2/2 consecutive, 275s
+     sentinel(before): P50 1.81 ms  P95 2.60 ms
+  S1 block 4/8 conc=8 order=B4>B1>B3>B2 window=45s
+     B4: 1432 items/s, P99 39.3 ms, n_q=4500, drop ok in 0.746s
+     B1: 1522 items/s, P99 16.3 ms, n_q=4500, drop ok in 0.317s
+     B3: 1400 items/s, P99 42.9 ms, n_q=4489, drop ok in 0.696s
+     B2: 150 items/s, P99 8.2 ms, n_q=4500, drop ok in 0.637s
+     sentinel(after):  P50 1.92 ms  P95 3.79 ms
+     quiesce b4: P95 2.21 ms IN band, 1/2 consecutive, 90s
+     quiesce b4: P95 2.12 ms IN band, 2/2 consecutive, 111s
+     sentinel(before): P50 1.75 ms  P95 2.12 ms
+  S1 block 5/8 conc=8 order=B1>B2>B4>B3 window=45s
+     B1: 1519 items/s, P99 15.4 ms, n_q=4500, drop ok in 0.345s
+     B2: 150 items/s, P99 8.5 ms, n_q=4500, drop ok in 0.421s
+     B4: 1449 items/s, P99 20.0 ms, n_q=4500, drop ok in 0.724s
+     B3: 1494 items/s, P99 14.1 ms, n_q=4500, drop ok in 0.539s
+     sentinel(after):  P50 1.78 ms  P95 2.48 ms
+     quiesce b5: P95 5.47 ms OUT band, 0/2 consecutive, 91s
+     quiesce b5: P95 3.15 ms OUT band, 0/2 consecutive, 111s
+     quiesce b5: P95 3.82 ms OUT band, 0/2 consecutive, 132s
+     quiesce b5: P95 3.57 ms OUT band, 0/2 consecutive, 152s
+     quiesce b5: P95 3.63 ms OUT band, 0/2 consecutive, 173s
+     quiesce b5: P95 3.44 ms OUT band, 0/2 consecutive, 193s
+     quiesce b5: P95 2.39 ms IN band, 1/2 consecutive, 214s
+     quiesce b5: P95 3.34 ms OUT band, 0/2 consecutive, 234s
+     quiesce b5: P95 3.52 ms OUT band, 0/2 consecutive, 255s
+     quiesce b5: P95 3.49 ms OUT band, 0/2 consecutive, 275s
+     quiesce b5: P95 3.17 ms OUT band, 0/2 consecutive, 295s
+     quiesce b5: P95 3.59 ms OUT band, 0/2 consecutive, 316s
+S1 aborted at block 5: the environment did not return to the calibrated band
+(1.49-2.70 ms) within 300s / 15 probes (hit the time cap). Per the frozen
+protocol the run stops here rather than continuing on an unstable box or
+widening the band. Keep this partial file for the record and report the abort.

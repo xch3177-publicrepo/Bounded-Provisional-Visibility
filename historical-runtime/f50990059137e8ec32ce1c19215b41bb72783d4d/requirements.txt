@@ -1,0 +1,13 @@
+# Vector-store client. Version MUST match the Milvus server major.minor.
+#
+# VALIDATED combo (adapter passes Gate 1 8/8 in BOTH modes on Milvus Lite):
+#   Python <= 3.12  +  pymilvus 2.4.x  +  setuptools<81  (provides pkg_resources)
+#   -> matches docker-compose Milvus v2.4.15, and Milvus Lite (local, no Docker).
+#
+# Python 3.14 caveat: pymilvus 2.4 cannot install (grpcio has no 3.14 wheel), so
+# pip gives pymilvus 2.5.x; pymilvus 2.5.18 + milvus-lite 3.1.0 has a search bug
+# (MilvusException: function_score). For the Milvus-Lite path use Python 3.12.
+# For full Docker on Python 3.14 you must bump the compose image to Milvus v2.5.x
+# to match the 2.5.x client.
+pymilvus>=2.4,<2.5
+setuptools<81

@@ -1,0 +1,18 @@
+PUBLIC_HOME/projects/paper-venue-scout/prototype/.venv312/lib/python3.12/site-packages/pymilvus/client/__init__.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+W2 poison exposure  backend=milvus  evidence=milvus_lite_flat
+  ONE collection, created once, never dropped during measurement.
+  s1 B4 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3187 Df50  0.002 DH_c    3.0
+  s1 B4 heavy  Tp=1.0  Np craft/target/neg   8/  1/0   Ep50 1.0002 Df50 0.0006 DH_c    8.0
+  s1 B4 normal Tp=2.0  Np craft/target/neg   3/  0/0   Ep50 0.3176 Df50  0.001 DH_c    3.0
+  s1 B4 normal Tp=0.15 Np craft/target/neg   1/  0/0   Ep50 0.1505 Df50 0.0012 DH_c    1.0
+  s1 B3 normal Tp=1.0  Np craft/target/neg   3/  0/0   Ep50 0.3158 Df50 0.0011 DH_c    3.0
+  s1 B3 heavy  Tp=1.0  Np craft/target/neg  37/  4/0   Ep50  4.681 Df50 0.0007 DH_c   37.0
+  s1 B2 heavy  Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 6.2579 DH_c    0.0
+  s1 B4 heavy  Tp=2.0  Np craft/target/neg  16/  2/0   Ep50 2.0002 Df50 0.0006 DH_c   16.0
+  s1 B4 heavy  Tp=0.15 Np craft/target/neg   2/  0/0   Ep50 0.1502 Df50 0.0006 DH_c    2.0
+  s1 B4 normal Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3006 Df50 0.0014 DH_c    3.0
+  s1 B2 normal Tp=1.0  Np craft/target/neg   0/  0/0   Ep50   None Df50 0.6201 DH_c    0.0
+  s1 B4 heavy  Tp=0.3  Np craft/target/neg   3/  0/0   Ep50 0.3002 Df50 0.0007 DH_c    3.0
+  s1 B1 heavy  Tp=1.0  Np craft/target/neg  56/  7/0   Ep50   None Df50 0.0006 DH_c   56.0
+E20260727 17:14:28.683696 10435798 server.cpp:47] [SERVER][BlockLock][] Process exit

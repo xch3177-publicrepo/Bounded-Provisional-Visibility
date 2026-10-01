@@ -1,0 +1,43 @@
+{
+  "N_containment": 2000,
+  "N_eligibility": 2000,
+  "compromised_source": 0,
+  "dim": 32,
+  "golden": {
+    "N_containment": 800,
+    "N_eligibility": 400,
+    "queries": 40,
+    "seeds": [
+      2
+    ]
+  },
+  "hidden_modes": [
+    "random",
+    "clustered",
+    "oracle_rank_coupled"
+  ],
+  "hidden_ratio": 0.3,
+  "index_type": "FLAT",
+  "k": 10,
+  "n_batches": 10,
+  "n_poison_batches": 3,
+  "n_sources": 20,
+  "over_fetch": [
+    1,
+    2,
+    4
+  ],
+  "poison_frac": 0.5,
+  "queries": 150,
+  "revocation_granularities": [
+    "source",
+    "batch",
+    "lineage"
+  ],
+  "schema_version": "1.0",
+  "seeds": [
+    2,
+    3,
+    4
+  ]
+}

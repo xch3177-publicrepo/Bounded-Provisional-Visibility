@@ -1,0 +1,3611 @@
+{
+  "detector_py_sha256": "f0510df5cb8805bb21fec20351662a4de11ea987f0c978651fe62e5ddf7a9ca3",
+  "embeddings_sha256": "1249c7cd23a03d3cde4e4c46ff3ec67ff9d59e6a3fd05978bb7c6da00bba1c45",
+  "items": [
+    {
+      "c_score": 2.2526670387475027,
+      "detector_service_ns": 31852042,
+      "family_s_affirms": true,
+      "item_key": "058a646487a4f1b9b274fdd66f5a6e3a64a373f821bae1b2621498dd7fe22f97",
+      "knn": 0.6747198608908181,
+      "rep": 0.6688579473459009
+    },
+    {
+      "c_score": -1.5526636949869776,
+      "detector_service_ns": 31074125,
+      "family_s_affirms": true,
+      "item_key": "46d62ba8752d8d8e7cdeb94169e83b0ac8d36afe61afc05a36ce542bf8f987b0",
+      "knn": 0.4281480843139268,
+      "rep": 0.5088714277955211
+    },
+    {
+      "c_score": -1.355068661492345,
+      "detector_service_ns": 27774792,
+      "family_s_affirms": true,
+      "item_key": "c9c472d4714d47cb336ff011603c2a5576e475757314f4d3b749688b23df9067",
+      "knn": 0.38839160606990464,
+      "rep": 0.6128110317483677
+    },
+    {
+      "c_score": -0.9641463774351843,
+      "detector_service_ns": 18838875,
+      "family_s_affirms": true,
+      "item_key": "6dc57aedcdbef647cee5a442302cc7b7e59cfcd800374744cde5ffdcce08d6c2",
+      "knn": 0.5798110688607264,
+      "rep": 0.327049313261622
+    },
+    {
+      "c_score": -0.6735767506880384,
+      "detector_service_ns": 17660417,
+      "family_s_affirms": true,
+      "item_key": "bdf3b2417732d8bb12bc165c0f9612136f7bc342de7128948339f9ef33ce1beb",
+      "knn": 0.5972195898680444,
+      "rep": 0.341848142868174
+    },
+    {
+      "c_score": 2.941445718992619,
+      "detector_service_ns": 30956583,
+      "family_s_affirms": true,
+      "item_key": "55096365cc4fa41040fdb3c315348a3f848581d9c7b14ec69d4e376f50427fb3",
+      "knn": 0.7283523952281534,
+      "rep": 0.6814367871894442
+    },
+    {
+      "c_score": 1.3387685915672032,
+      "detector_service_ns": 28900417,
+      "family_s_affirms": true,
+      "item_key": "29095a6f6cead4e9bf5975eb6b75c7446d0dea41424066f77ea965d7a29ccddd",
+      "knn": 0.6013920182759457,
+      "rep": 0.6561090483544105
+    },
+    {
+      "c_score": 0.9792430495396189,
+      "detector_service_ns": 19949333,
+      "family_s_affirms": true,
+      "item_key": "15a69eed74fd22ad834d34b931cdb6839d781c3ec17f39adf09aa4cc8976f39b",
+      "knn": 0.6000331058938131,
+      "rep": 0.6010794020052657
+    },
+    {
+      "c_score": 1.3142920867607097,
+      "detector_service_ns": 21147500,
+      "family_s_affirms": true,
+      "item_key": "1c5acdfd706f3c1ff0f85c7445d094306d6aa053354ebfe0f451aaa68ee1eed8",
+      "knn": 0.576855748199242,
+      "rep": 0.6968377535839942
+    },
+    {
+      "c_score": 1.8692230234263023,
+      "detector_service_ns": 19916167,
+      "family_s_affirms": true,
+      "item_key": "f86283693bbebb8c6e9ecd207e7b9c2e3e780b6552fc5548ccd1dca331a13bde",
+      "knn": 0.5931279005144182,
+      "rep": 0.7559858877388963
+    },
+    {
+      "c_score": 0.39029685435779715,
+      "detector_service_ns": 17951000,
+      "family_s_affirms": true,
+      "item_key": "24ea64e087a9ac31b61e13058d75be9f2eb9b0ec459c4d200021ca708e40a933",
+      "knn": 0.5747327616704577,
+      "rep": 0.5529175886207102
+    },
+    {
+      "c_score": 0.5077168520782003,
+      "detector_service_ns": 26021375,
+      "family_s_affirms": true,
+      "item_key": "cd2d079792ee03b9d8a19f71bab63c5df850651f2588fdfb39a99e85663f00b7",
+      "knn": 0.6484647358718736,
+      "rep": 0.4375431733726925
+    },
+    {
+      "c_score": 0.853681645076847,
+      "detector_service_ns": 21257208,
+      "family_s_affirms": true,
+      "item_key": "e069964a9232c75c2c81ddfe0c2042d7ac8948620a63a6baa2bbd82e07b6cfff",
+      "knn": 0.6147070597047566,
+      "rep": 0.5542981451599869
+    },
+    {
+      "c_score": -0.8228016809644759,
+      "detector_service_ns": 17507750,
+      "family_s_affirms": true,
+      "item_key": "9c5b60dc76875250207725763a6aaeabc5f2350f4373fce0f0fd112f4b9f8873",
+      "knn": 0.5562419613604292,
+      "rep": 0.392539561958879
+    },
+    {
+      "c_score": 1.333581097116378,
+      "detector_service_ns": 19105000,
+      "family_s_affirms": true,
+      "item_key": "cbd7ecc2f37f99fc0ec18b8b978de80492311a35519b5340e5457535a9a0b87e",
+      "knn": 0.68542931565277,
+      "rep": 0.5023744940824066
+    },
+    {
+      "c_score": 0.681026924384617,
+      "detector_service_ns": 18593167,
+      "family_s_affirms": true,
+      "item_key": "208d076f5e19de632b7cccf1c96b111fbde7766c6c6ee1f5d46a579f432f7642",
+      "knn": 0.609878794652931,
+      "rep": 0.5354688855444475
+    },
+    {
+      "c_score": 3.057962326750181,
+      "detector_service_ns": 21562958,
+      "family_s_affirms": true,
+      "item_key": "ac2f61020e92309806c8fc0713a74d954a5dad2bc91ceaacf50709e5776715f9",
+      "knn": 0.5937994387635845,
+      "rep": 0.9448898592723605
+    },
+    {
+      "c_score": 2.213932623740753,
+      "detector_service_ns": 21158166,
+      "family_s_affirms": true,
+      "item_key": "a829f959666da402e0483a7f52ccf4c60a00207d919a95981a07f5694b198c15",
+      "knn": 0.6176458073356069,
+      "rep": 0.7665083693129424
+    },
+    {
+      "c_score": 1.2560149843023292,
+      "detector_service_ns": 21922125,
+      "family_s_affirms": true,
+      "item_key": "0075c8114c098d2fe2f8ae3d15328a3f7c2a99b9e2406b5f9c4fe299a157c9be",
+      "knn": 0.6528820466243923,
+      "rep": 0.5491880162775675
+    },
+    {
+      "c_score": 0.34305318640645277,
+      "detector_service_ns": 29150958,
+      "family_s_affirms": true,
+      "item_key": "e66c8fc78c37dcb97775684be83b3cac7dffd8ec1873587503f5111d4210c10c",
+      "knn": 0.4850236975325213,
+      "rep": 0.7085860656389465
+    },
+    {
+      "c_score": 0.6570188190733369,
+      "detector_service_ns": 19785667,
+      "family_s_affirms": true,
+      "item_key": "bcb0bf0c20838fff9bfb6015e215607dc895351fead178a85b24426906d2da80",
+      "knn": 0.6807137768292348,
+      "rep": 0.40274563755643744
+    },
+    {
+      "c_score": 3.1623249013263677,
+      "detector_service_ns": 18790500,
+      "family_s_affirms": true,
+      "item_key": "0f5106cc7aabdfd1217e5f95a9b07d934cff159deeb1f0566634701efba6e092",
+      "knn": 0.6159942707088021,
+      "rep": 0.9211982747150598
+    },
+    {
+      "c_score": 0.5167149899259106,
+      "detector_service_ns": 20007125,
+      "family_s_affirms": true,
+      "item_key": "22911a1d7092c0a6750ea407bd1d86d70b1a0f1c8cdf9d40f4a6dba2fe123e88",
+      "knn": 0.7022210752112334,
+      "rep": 0.34117330155557013
+    },
+    {
+      "c_score": -1.3381360163713583,
+      "detector_service_ns": 30035125,
+      "family_s_affirms": true,
+      "item_key": "fb6fde007a2016f2536328381949cc5952c0f349e8b24a635f5bba6935b0c451",
+      "knn": 0.3695257591148985,
+      "rep": 0.64984540883224
+    },
+    {
+      "c_score": 1.5231407954279552,
+      "detector_service_ns": 19281458,
+      "family_s_affirms": true,
+      "item_key": "79a95d1436850315a42ed7b06a9226b1c7be8cedf55d4b708d54cfa89b626442",
+      "knn": 0.6317485055350613,
+      "rep": 0.6303640918185597
+    },
+    {
+      "c_score": -0.4288962400530205,
+      "detector_service_ns": 22630667,
+      "family_s_affirms": true,
+      "item_key": "852a28b18a6cd0a3fd9fbeb14c6d7529b0f0fa9f9239dd8a1bdea41fd102474b",
+      "knn": 0.505066873817939,
+      "rep": 0.5486528896925054
+    },
+    {
+      "c_score": 2.086497897050823,
+      "detector_service_ns": 23884167,
+      "family_s_affirms": true,
+      "item_key": "5d5c92f7ff7af7503075526f6d3214582601a69f842006916104a15aacec9c0b",
+      "knn": 0.6424042829985442,
+      "rep": 0.701078826537688
+    },
+    {
+      "c_score": 0.041678434548129334,
+      "detector_service_ns": 24370041,
+      "family_s_affirms": true,
+      "item_key": "195bfffb46888b95cd688db3db0f60b2e3d46d784bec96ae784eb032962089ca",
+      "knn": 0.6041434655597697,
+      "rep": 0.44364746308634767
+    },
+    {
+      "c_score": -0.26909953460876057,
+      "detector_service_ns": 29391042,
+      "family_s_affirms": true,
+      "item_key": "05b00a5a45368d0475a6f9f090e926ce1958a81fabc2f9ee79ca75bcc2aea339",
+      "knn": 0.673075400822712,
+      "rep": 0.26852108870753433
+    },
+    {
+      "c_score": 2.293874624075902,
+      "detector_service_ns": 24904041,
+      "family_s_affirms": true,
+      "item_key": "e15eadc1bec460a81855e580f1b770d9f75ea82caa66ab30e233c16951ff73bc",
+      "knn": 0.5548660200277588,
+      "rep": 0.893521298931652
+    },
+    {
+      "c_score": 0.11556896804396832,
+      "detector_service_ns": 19856458,
+      "family_s_affirms": true,
+      "item_key": "3ba5f7caa87bf097cade26c02b1078cfc7404605e20a072a5aa13fbb6573e4eb",
+      "knn": 0.6185907647543348,
+      "rep": 0.42917875387599264
+    },
+    {
+      "c_score": 4.4867317479373785,
+      "detector_service_ns": 19522084,
+      "family_s_affirms": true,
+      "item_key": "afd0a4b8a64103a04380c499d37138474c0abe4a3bc6a128cc136b33355af5c2",
+      "knn": 0.7112982973796527,
+      "rep": 0.9596180868840735
+    },
+    {
+      "c_score": 3.0986174401666102,
+      "detector_service_ns": 19049292,
+      "family_s_affirms": true,
+      "item_key": "f1db58596db3f0dad252c0ca1cc9a98410ae2fec977f4f841d89ea83b5cb81a8",
+      "knn": 0.6700283441903246,
+      "rep": 0.8126946049206328
+    },
+    {
+      "c_score": 4.060414547152521,
+      "detector_service_ns": 17587541,
+      "family_s_affirms": true,
+      "item_key": "a874caadff0548575d54d52ee0ddba1350bb1b0d7cdb08a461ca68a565647c65",
+      "knn": 0.6718671032995372,
+      "rep": 0.9631779139946626
+    },
+    {
+      "c_score": 2.957738874613867,
+      "detector_service_ns": 17035334,
+      "family_s_affirms": true,
+      "item_key": "279e7f95ac3b2ea957518eac7d4a575ea3e416e75f6bb86c7e9a4e53d53db482",
+      "knn": 0.6109896120387239,
+      "rep": 0.897582898656409
+    },
+    {
+      "c_score": -0.6437729723218107,
+      "detector_service_ns": 17317292,
+      "family_s_affirms": true,
+      "item_key": "e8e5ff19aaaa58a0e7f81d6274dfc19ed06232ba68978354478071c6e89d3cb7",
+      "knn": 0.5956492739965377,
+      "rep": 0.34947210188716316
+    },
+    {
+      "c_score": 2.300099723019591,
+      "detector_service_ns": 28163917,
+      "family_s_affirms": true,
+      "item_key": "c5f43bc7a3a2b083be69adb7f7566e9ea2c4cde1d2604dc90cec9bdac85cf8df",
+      "knn": 0.6668915189410323,
+      "rep": 0.6906878613550264
+    },
+    {
+      "c_score": -1.4654983268814472,
+      "detector_service_ns": 17758375,
+      "family_s_affirms": true,
+      "item_key": "582b5042f0d29765edc2cc140c8b294e044a0c9a8dd5b2a991c0eea029fa1780",
+      "knn": 0.5331234798515713,
+      "rep": 0.3318110794076231
+    },
+    {
+      "c_score": 3.145472325622841,
+      "detector_service_ns": 18127833,
+      "family_s_affirms": true,
+      "item_key": "347e612e927d5371c116b226096a4371014a5aae09bf396c03cbb41007a6fd35",
+      "knn": 0.5912512589516608,
+      "rep": 0.9635225079241587
+    },
+    {
+      "c_score": 0.7742328109190608,
+      "detector_service_ns": 29006375,
+      "family_s_affirms": true,
+      "item_key": "8b61f4533569ed46f09a8ee3e232c50c0807fc70a9c1894cbb145168217cbc0f",
+      "knn": 0.5265460275631536,
+      "rep": 0.7019991327324089
+    },
+    {
+      "c_score": 3.596004479136835,
+      "detector_service_ns": 20930542,
+      "family_s_affirms": true,
+      "item_key": "63c0b2390bb044736994f4da20a7a486fc94d825db327418e8ec127496d8a639",
+      "knn": 0.6613671787667431,
+      "rep": 0.9080051006447268
+    },
+    {
+      "c_score": 0.9143645586317416,
+      "detector_service_ns": 21158792,
+      "family_s_affirms": true,
+      "item_key": "a1aa1e6b6640cebb85b03b4a70f6b9f88071c49fb64e8d534036af3617d3a679",
+      "knn": 0.5780063343193471,
+      "rep": 0.6307802492859985
+    },
+    {
+      "c_score": 2.34604143077537,
+      "detector_service_ns": 20355625,
+      "family_s_affirms": true,
+      "item_key": "13037f3c9d5cadb46f29c7a459b5869bac5083881dc2b2d19b6202554835625b",
+      "knn": 0.6219134113218726,
+      "rep": 0.7798728704654598
+    },
+    {
+      "c_score": 2.928309835394466,
+      "detector_service_ns": 19673750,
+      "family_s_affirms": true,
+      "item_key": "1c17d73ddab2b60f7e1059cf423a11bf58084dd6958fa238f8340f4325ca74ee",
+      "knn": 0.6445213384559817,
+      "rep": 0.8318654655501976
+    },
+    {
+      "c_score": 4.813694708561519,
+      "detector_service_ns": 17946666,
+      "family_s_affirms": true,
+      "item_key": "7b7cf5c931ccf0402cde9b1af10c44fcc4015747793f08923150ba254b147535",
+      "knn": 0.7342716199479109,
+      "rep": 0.9701125407061155
+    },
+    {
+      "c_score": 1.5336311030595913,
+      "detector_service_ns": 22335833,
+      "family_s_affirms": true,
+      "item_key": "47f829eecff8e1124ce27f8d0e52c323fe74d9ca46c9f78af5c3af02148322b3",
+      "knn": 0.5906360289496669,
+      "rep": 0.706845567821671
+    },
+    {
+      "c_score": 0.6626470279192552,
+      "detector_service_ns": 25837959,
+      "family_s_affirms": true,
+      "item_key": "2eed2a5dcc20d4e5b1afa7ea7934efdc45bcb040e409ad0a8d747fcd0b07ca49",
+      "knn": 0.656955213610151,
+      "rep": 0.4468742334458419
+    },
+    {
+      "c_score": 1.0225221668833806,
+      "detector_service_ns": 20332625,
+      "family_s_affirms": true,
+      "item_key": "9a7801b093938c32108ee705d6b6f202c1f0a124c0cb29d90d1f349f77319626",
+      "knn": 0.5797503388145755,
+      "rep": 0.6449056781166594
+    },
+    {
+      "c_score": -0.27895945774345476,
+      "detector_service_ns": 24831292,
+      "family_s_affirms": true,
+      "item_key": "984afd6314088d09b8668bc9ebe50cee9b9ec44ef52218543622b3b2c872f18d",
+      "knn": 0.5974387717701226,
+      "rep": 0.40456405646846505
+    },
+    {
+      "c_score": 1.3530186270788849,
+      "detector_service_ns": 30978125,
+      "family_s_affirms": true,
+      "item_key": "6511fee5c1af7e77cc6cb6a9cad9c517ce7a25378606b99b9c3b1b70f47c839a",
+      "knn": 0.6148383093133712,
+      "rep": 0.6339228174620962
+    },
+    {
+      "c_score": 1.4689604256153812,
+      "detector_service_ns": 17410208,
+      "family_s_affirms": true,
+      "item_key": "54502d6f106de54e3741972abde231cc15d24d2c44382182690ed5261ac92254",
+      "knn": 0.6917448906353003,
+      "rep": 0.5125358202383468
+    },
+    {
+      "c_score": 3.614491543579724,
+      "detector_service_ns": 20976917,
+      "family_s_affirms": true,
+      "item_key": "977bac4f1bdb6640bea1db734bdaeaa1ee10a8f7148228737a527945ed9ceb66",
+      "knn": 0.6682454536079525,
+      "rep": 0.898446964108331
+    },
+    {
+      "c_score": 0.9355594233384912,
+      "detector_service_ns": 34076750,
+      "family_s_affirms": true,
+      "item_key": "c3bd1abc7858d984d17fd2577e10556b7136dc3f440dda71143fdd3fdb16c34b",
+      "knn": 0.6228731773834606,
+      "rep": 0.5525354439223061
+    },
+    {
+      "c_score": 0.904645815293746,
+      "detector_service_ns": 16790750,
+      "family_s_affirms": true,
+      "item_key": "3016b7c9a40f47d3cc2a783082af7fd727293e14d97dfaa0a409a876c2292fdf",
+      "knn": 0.646455512674712,
+      "rep": 0.5046833700999849
+    },
+    {
+      "c_score": 4.378201009432587,
+      "detector_service_ns": 19070541,
+      "family_s_affirms": true,
+      "item_key": "4f0f3e5060835b4ffe3722c06cffd8ae2ab651555c67e73516dcf3164d53a89d",
+      "knn": 0.7064919389726368,
+      "rep": 0.9510048967800236
+    },
+    {
+      "c_score": -1.6991714889508684,
+      "detector_service_ns": 17757042,
+      "family_s_affirms": true,
+      "item_key": "60a06e7c0f9843a18ab9220336a9406dab8001a868d5ad3916ef837767e7e5f0",
+      "knn": 0.6348066665134022,
+      "rep": 0.10942625851965346
+    },
+    {
+      "c_score": -0.6828186201520239,
+      "detector_service_ns": 24185125,
+      "family_s_affirms": true,
+      "item_key": "0f1ea918161b9f97a9fc93f4cdcd2053a3d6e5aec26c153c7249bd4f3845b3b3",
+      "knn": 0.5757038332130614,
+      "rep": 0.3795176725621914
+    },
+    {
+      "c_score": 3.465468868013754,
+      "detector_service_ns": 17627709,
+      "family_s_affirms": true,
+      "item_key": "bdb52856ded9802fd437d353131893913cc3f743c0f4ad0f697d016c7521de52",
+      "knn": 0.6460097127079385,
+      "rep": 0.9150700881797035
+    },
+    {
+      "c_score": -0.28974389272427675,
+      "detector_service_ns": 23524167,
+      "family_s_affirms": true,
+      "item_key": "d1dbc2b4174b2d2b298db28cabc8012df8c1366a6b0b65508ae8d9d3fa2e0904",
+      "knn": 0.5873627954041729,
+      "rep": 0.4211723244033474
+    },
+    {
+      "c_score": -0.3400582481418987,
+      "detector_service_ns": 19431416,
+      "family_s_affirms": true,
+      "item_key": "b3c262d1664bed11005bf1c36920f15b58f7a8977824d0436cd004b2f11cc36a",
+      "knn": 0.6252968557216486,
+      "rep": 0.34410451918911544
+    },
+    {
+      "c_score": 1.6028727156788227,
+      "detector_service_ns": 19965917,
+      "family_s_affirms": true,
+      "item_key": "528fbaf52ab3440175f1ff4ea152d74813328bc63ac1d8c957f25ff87fd2a06b",
+      "knn": 0.575070731011631,
+      "rep": 0.7462408811405385
+    },
+    {
+      "c_score": 1.5948539768762913,
+      "detector_service_ns": 18399166,
+      "family_s_affirms": true,
+      "item_key": "701896de2550f09791dae5f7cc38f1c429ca1663f5cd0b27eeef278eb41dc20a",
+      "knn": 0.6089861547617734,
+      "rep": 0.683249658238148
+    },
+    {
+      "c_score": -0.7402477003100205,
+      "detector_service_ns": 18679125,
+      "family_s_affirms": true,
+      "item_key": "5d4dff883ccab86f2d8c69a88c4650a3b45e9e82c1695c6c3b78c83f1aca9256",
+      "knn": 0.5908124440996128,
+      "rep": 0.3428425810932153
+    },
+    {
+      "c_score": 1.8587801684399248,
+      "detector_service_ns": 19689000,
+      "family_s_affirms": true,
+      "item_key": "6fe81bdedbd5fead6c25034a52c9ea776c0f5851017117421289a4c5617d1f36",
+      "knn": 0.47856637371524435,
+      "rep": 0.9627590142735618
+    },
+    {
+      "c_score": -0.08415265139170325,
+      "detector_service_ns": 22498625,
+      "family_s_affirms": true,
+      "item_key": "b39b96f0ceabc64241c7079533c10ec410906cbfc79c2188ee7f20770d541640",
+      "knn": 0.5168286814550583,
+      "rep": 0.5823903793394163
+    },
+    {
+      "c_score": 1.548065649632251,
+      "detector_service_ns": 18157250,
+      "family_s_affirms": true,
+      "item_key": "c079d1e2ec4e4f96b831682fd1ebfd589e91db5bf3f86647dbd10609b3a293bf",
+      "knn": 0.6973198074081709,
+      "rep": 0.5150443388113197
+    },
+    {
+      "c_score": -1.154401744626289,
+      "detector_service_ns": 24234792,
+      "family_s_affirms": true,
+      "item_key": "642e8b3bcfaa663fb75136389291a9e521c6cf372ca1eb9db1e692e227ea99dd",
+      "knn": 0.4530399953847931,
+      "rep": 0.5272785247062594
+    },
+    {
+      "c_score": 0.4929556564820222,
+      "detector_service_ns": 18293084,
+      "family_s_affirms": true,
+      "item_key": "9dedc0d4bc3e753ffa5d80c808cbf05572d0378ac5611b7ada743b44a54632a6",
+      "knn": 0.5774533690573946,
+      "rep": 0.564386626214933
+    },
+    {
+      "c_score": -2.7538814904166946,
+      "detector_service_ns": 18945042,
+      "family_s_affirms": true,
+      "item_key": "a76bdb69998c1d44fdf2181286468d5fbd2b0e6505986a1118ad3ad1e73c072b",
+      "knn": 0.597417443362984,
+      "rep": 0.008766199959919119
+    },
+    {
+      "c_score": 2.084139703823593,
+      "detector_service_ns": 26936542,
+      "family_s_affirms": true,
+      "item_key": "c59eddedeb275c1592c1e9e83eba50ea2ac5d0b570cff3f61bc16b244dcfb9cc",
+      "knn": 0.6693058284757235,
+      "rep": 0.651754614671819
+    },
+    {
+      "c_score": 2.0872404096242922,
+      "detector_service_ns": 22284917,
+      "family_s_affirms": true,
+      "item_key": "d7828d2aa5a66a4dd5f398ed69112577435988ced33341d99b9e7e5a27d95736",
+      "knn": 0.5383756564189268,
+      "rep": 0.8904764423484837
+    },
+    {
+      "c_score": 4.198141414470564,
+      "detector_service_ns": 17826375,
+      "family_s_affirms": true,
+      "item_key": "f748e64a7301fe659a3cd70b6d8a58b12d8929404142f57707d8715c15b6aa4b",
+      "knn": 0.676053974932528,
+      "rep": 0.9775878539012722
+    },
+    {
+      "c_score": 1.2776378933707409,
+      "detector_service_ns": 26384834,
+      "family_s_affirms": true,
+      "item_key": "10e392f223ec45192d48b65af20686515dedb330557420b140018355e6019b62",
+      "knn": 0.6689896044677075,
+      "rep": 0.5233388521676225
+    },
+    {
+      "c_score": -3.1778941965649916,
+      "detector_service_ns": 21667125,
+      "family_s_affirms": true,
+      "item_key": "76aa15b6d278ad30ea74ebd7d4a039ddc2f4c65ffed2f9e7d8a49934d1928f6a",
+      "knn": 0.4967203908327271,
+      "rep": 0.12416711256760293
+    },
+    {
+      "c_score": 0.4631721383557506,
+      "detector_service_ns": 18816375,
+      "family_s_affirms": true,
+      "item_key": "e83bc059ed27ecc8154680b430362b36b06b4d127ddffe26bb6671706847bb94",
+      "knn": 0.6593438794837447,
+      "rep": 0.4106242609712686
+    },
+    {
+      "c_score": 3.1680482781341404,
+      "detector_service_ns": 23856375,
+      "family_s_affirms": true,
+      "item_key": "322714397f35683c545cc5a75be7b45ff0397eed6adfcc274e60a7744b17acc7",
+      "knn": 0.6128862342147898,
+      "rep": 0.9277687018708287
+    },
+    {
+      "c_score": 0.20257158432467598,
+      "detector_service_ns": 30885167,
+      "family_s_affirms": true,
+      "item_key": "ed1cba3fd70e7f3d450c8bc3691139d1b262ec175a1664613a3d9383d87b8e98",
+      "knn": 0.6038225022990376,
+      "rep": 0.4699645484768171
+    },
+    {
+      "c_score": -0.16648687576803367,
+      "detector_service_ns": 29418958,
+      "family_s_affirms": true,
+      "item_key": "b679222f88010b5f7ef7e016df951bea57e4ae3d177a5dc0ae2a435311b6f0c0",
+      "knn": 0.6320972613156944,
+      "rep": 0.35949210074260673
+    },
+    {
+      "c_score": 3.619448931042883,
+      "detector_service_ns": 19436417,
+      "family_s_affirms": true,
+      "item_key": "6ee11ebbcb530ac0ffa587cd70f20f9339dd9579c2180d2df475559f6f015c04",
+      "knn": 0.6404019835558411,
+      "rep": 0.949900709269081
+    },
+    {
+      "c_score": 2.6261673123794362,
+      "detector_service_ns": 24105875,
+      "family_s_affirms": true,
+      "item_key": "3539682eb3e255a4de56dad426c316f851f46475778af4c72c0d107c47f63496",
+      "knn": 0.6581065328567386,
+      "rep": 0.7588229783621506
+    },
+    {
+      "c_score": -0.6874826925264282,
+      "detector_service_ns": 22178000,
+      "family_s_affirms": true,
+      "item_key": "0a08f76067feef74d0860b6dc668be1595ceea5d0125f87b5737d909191225d9",
+      "knn": 0.6374037980704139,
+      "rep": 0.2665093469703198
+    },
+    {
+      "c_score": 0.45901866058763496,
+      "detector_service_ns": 19928875,
+      "family_s_affirms": true,
+      "item_key": "1cc537f4530970506d9b4bb069069577473ace9303134eaa16e50e9879509087",
+      "knn": 0.7195633777468725,
+      "rep": 0.30039129089879135
+    },
+    {
+      "c_score": 1.703866532671262,
+      "detector_service_ns": 17076458,
+      "family_s_affirms": true,
+      "item_key": "5969e6d6c376fdb03dcbe5db3f4a08a064e43f1fb51b17b99e47bcfa55254603",
+      "knn": 0.6141918663658453,
+      "rep": 0.6912132913071241
+    },
+    {
+      "c_score": 0.13474100584335624,
+      "detector_service_ns": 23764458,
+      "family_s_affirms": true,
+      "item_key": "b683267512d9fab0f1d791697caaef67f19fd6ef4c99349e0c5c05843e71dea2",
+      "knn": 0.4796263182352918,
+      "rep": 0.6850892826455395
+    },
+    {
+      "c_score": 1.624882943419017,
+      "detector_service_ns": 23405166,
+      "family_s_affirms": true,
+      "item_key": "e3449e88467c4f8c3372035f5d96527e26c6c634b519bd7c330b12e667307cf1",
+      "knn": 0.6644182488482315,
+      "rep": 0.5871944210549768
+    },
+    {
+      "c_score": -2.6352893978555754,
+      "detector_service_ns": 16830500,
+      "family_s_affirms": true,
+      "item_key": "e95300c8c7ebbf33d8624e8aee1f84a3a8ed8a5b3b691cf1647c169c297257f1",
+      "knn": 0.5358946112123658,
+      "rep": 0.13967377328761713
+    },
+    {
+      "c_score": -0.04375472324091245,
+      "detector_service_ns": 17140167,
+      "family_s_affirms": true,
+      "item_key": "e51fffaf222f68753496a325fd9b937bc8b4274e89fa444bf3af23c1d49ca3e5",
+      "knn": 0.6654228016707875,
+      "rep": 0.31848633625035
+    },
+    {
+      "c_score": 3.1309847837528695,
+      "detector_service_ns": 17562541,
+      "family_s_affirms": true,
+      "item_key": "a0776bf5368b5f9ded80a0c27cb199a6f06e83529ebce5e17e506c42867cc46c",
+      "knn": 0.6313202021740622,
+      "rep": 0.88830041474492
+    },
+    {
+      "c_score": -0.6450743566328633,
+      "detector_service_ns": 17060500,
+      "family_s_affirms": true,
+      "item_key": "85910bf0d496b4aa54ddbb5818017eadef80d41713b24a01d96d6a7a9662cdb2",
+      "knn": 0.6440080517601283,
+      "rep": 0.26127573396844794
+    },
+    {
+      "c_score": 0.3414245436652953,
+      "detector_service_ns": 27332875,
+      "family_s_affirms": true,
+      "item_key": "85bc82f44782d011692fda233b0a6e354f99d9bb3415ce6ca44be7b6c73ea1e3",
+      "knn": 0.499690743812351,
+      "rep": 0.6816390643657203
+    },
+    {
+      "c_score": 3.1263416196069107,
+      "detector_service_ns": 19014375,
+      "family_s_affirms": true,
+      "item_key": "91c4c1f200da1f677a8aae58711fd309ec854d785044f90a56f71180ce70acff",
+      "knn": 0.6065369977519792,
+      "rep": 0.9326505396432403
+    },
+    {
+      "c_score": 2.689296058998628,
+      "detector_service_ns": 17417792,
+      "family_s_affirms": true,
+      "item_key": "42aa6422c5b824521fdb876b8a668a9ab6bc0662b206b7c12cc45bf9d3dac91f",
+      "knn": 0.6633721000264388,
+      "rep": 0.7593390923716747
+    },
+    {
+      "c_score": -0.38785855026486055,
+      "detector_service_ns": 19043542,
+      "family_s_affirms": true,
+      "item_key": "226711d96d560139db796bcdb753737470ee0b1cfb8ea2123271f01d3e3a8311",
+      "knn": 0.5787467813637114,
+      "rep": 0.42115669581921783
+    },
+    {
+      "c_score": 2.6156798658275746,
+      "detector_service_ns": 24146750,
+      "family_s_affirms": true,
+      "item_key": "f97221633f618625f8cf228a468c2c4b9d7cfb5920422f37fc257852a64e78e4",
+      "knn": 0.5688327937990403,
+      "rep": 0.9195781414344616
+    },
+    {
+      "c_score": -0.04109834622930958,
+      "detector_service_ns": 25489041,
+      "family_s_affirms": true,
+      "item_key": "c517536a0a7c4db0561b383be89bc9f1aa2e4f8b1c208ed0e6f4798d00b3e43e",
+      "knn": 0.60642266674835,
+      "rep": 0.42626124424323253
+    },
+    {
+      "c_score": 2.212605785729017,
+      "detector_service_ns": 28930417,
+      "family_s_affirms": true,
+      "item_key": "e7c0a8df9e3f9cea2a73c9975908de3ecc962026f34573be7385577bfe4d936a",
+      "knn": 0.6920418707534168,
+      "rep": 0.630933396211645
+    },
+    {
+      "c_score": 1.6569815419870042,
+      "detector_service_ns": 24785000,
+      "family_s_affirms": true,
+      "item_key": "c3c11ad4af340dc57380a100c31e10bf79ff33ce14b30a29ec6fcd044360deb5",
+      "knn": 0.6387178252925255,
+      "rep": 0.6390898577431003
+    },
+    {
+      "c_score": 0.953761239401969,
+      "detector_service_ns": 17462625,
+      "family_s_affirms": true,
+      "item_key": "ab3f22d87ecc4e3014340e362bf4615dde896f925077fad5a014885f29cd1c24",
+      "knn": 0.6459504975092177,
+      "rep": 0.5134577132029088
+    },
+    {
+      "c_score": 0.7764740403932596,
+      "detector_service_ns": 18768042,
+      "family_s_affirms": true,
+      "item_key": "30354e82114e363fe6ba08dc627a990d832845ce84a1b391e218dd5ab90b0108",
+      "knn": 0.6469390153012305,
+      "rep": 0.48330397165888234
+    },
+    {
+      "c_score": -0.7073637851659805,
+      "detector_service_ns": 22757208,
+      "family_s_affirms": true,
+      "item_key": "b9764af06c8ba2cd396e1320b3210ac477854eec691e49910f6a304f12f64596",
+      "knn": 0.5714454992694785,
+      "rep": 0.38333993072480277
+    },
+    {
+      "c_score": 0.8389677870308623,
+      "detector_service_ns": 26252458,
+      "family_s_affirms": true,
+      "item_key": "3cf09459f6b3549424311b44a2398430479aafcea625fdcae2c23d6730ccebb2",
+      "knn": 0.6870365082720931,
+      "rep": 0.42034224622060457
+    },
+    {
+      "c_score": 3.9256505862870315,
+      "detector_service_ns": 25579167,
+      "family_s_affirms": true,
+      "item_key": "5901dd806ab60e94fe6853e4d249b101e1e87215e32fde7d30e9d60a3f4f9b2f",
+      "knn": 0.6612057805215158,
+      "rep": 0.9610220460060522
+    },
+    {
+      "c_score": 3.11486923515505,
+      "detector_service_ns": 24026333,
+      "family_s_affirms": true,
+      "item_key": "af80b42e6bf57604e9dc510a8a448ec58be7980a0aaa1610dcdaa4a62946494f",
+      "knn": 0.6606325874100893,
+      "rep": 0.8323893701106349
+    },
+    {
+      "c_score": -0.29027899209181635,
+      "detector_service_ns": 21861333,
+      "family_s_affirms": true,
+      "item_key": "ba5823ad7bf476be01755edd66f18f5fe710423af562459b020f9f997842a740",
+      "knn": 0.544527097169407,
+      "rep": 0.49902578881980725
+    },
+    {
+      "c_score": 1.732314731954677,
+      "detector_service_ns": 21094875,
+      "family_s_affirms": true,
+      "item_key": "d4e5bf096a821119f8ef2cfb763f4a8b6e0cc9557a27f14f49a0f0d1744e69ef",
+      "knn": 0.6456079482681127,
+      "rep": 0.6386020786240171
+    },
+    {
+      "c_score": 3.5931242316332,
+      "detector_service_ns": 18086542,
+      "family_s_affirms": true,
+      "item_key": "da9018c70fda35d1da083ac8dff6cd29e2f99234814196d1bcdb8cc5928c8b6c",
+      "knn": 0.6732087811219121,
+      "rep": 0.8859987807978604
+    },
+    {
+      "c_score": 0.9586560301503975,
+      "detector_service_ns": 25606750,
+      "family_s_affirms": true,
+      "item_key": "f1fcf7acaae922ae391bc720c09f4efe1ae5811d7a7d8803f8f06d772f32c6da",
+      "knn": 0.6658441502434157,
+      "rep": 0.4780443148473623
+    },
+    {
+      "c_score": 1.7266241583533577,
+      "detector_service_ns": 18295667,
+      "family_s_affirms": true,
+      "item_key": "d241c0fc0ca640b258789ead28ffec54a7a320a917e68c471b7abae685dad2e5",
+      "knn": 0.6804303436738776,
+      "rep": 0.5743329960078183
+    },
+    {
+      "c_score": 2.4979470289606907,
+      "detector_service_ns": 19084417,
+      "family_s_affirms": true,
+      "item_key": "081814d2e928aa6ed1dcb5cbc17b710a5cb8c02aa5db679bc6b462ffcbb622cb",
+      "knn": 0.5788085043510686,
+      "rep": 0.882597376399036
+    },
+    {
+      "c_score": 1.3747412667735996,
+      "detector_service_ns": 22875708,
+      "family_s_affirms": true,
+      "item_key": "0daaad51b9e2acbd2ae46070ee3cfb3e10ecfe7a04327955ef9780c688fe91a2",
+      "knn": 0.526036510137993,
+      "rep": 0.7989709418787864
+    },
+    {
+      "c_score": 0.9719422866788081,
+      "detector_service_ns": 27806084,
+      "family_s_affirms": true,
+      "item_key": "f48abde727e727b0aad5260d297d776fd23df9d0a698e571d1458b8df9431cec",
+      "knn": 0.6073601729519267,
+      "rep": 0.586580212883969
+    },
+    {
+      "c_score": -1.2194846860479969,
+      "detector_service_ns": 23051250,
+      "family_s_affirms": true,
+      "item_key": "80ec3d92f075c89178c29c78af03abbacb91a9ec3a9cfea54583b9b88615846d",
+      "knn": 0.3277702023451299,
+      "rep": 0.7447961321875314
+    },
+    {
+      "c_score": 3.370371201749153,
+      "detector_service_ns": 21776541,
+      "family_s_affirms": true,
+      "item_key": "7568a51b5dc8ec593104abcef5612450a8da4473ac03df3a6cca2911ba2937ff",
+      "knn": 0.7845408315928043,
+      "rep": 0.6478045215156768
+    },
+    {
+      "c_score": 2.5941929860246002,
+      "detector_service_ns": 25178458,
+      "family_s_affirms": true,
+      "item_key": "bddec605f4e1bbd0d691e6bd18eb9b4084761ca1ba7ccea312e9ed9be4de983a",
+      "knn": 0.7698168849330848,
+      "rep": 0.5504533671836627
+    },
+    {
+      "c_score": 0.6806127257162569,
+      "detector_service_ns": 18758792,
+      "family_s_affirms": true,
+      "item_key": "ab00ee11a7bf9932c042dd6a6d0da0420608cc86c640f974575a0c221574a4d8",
+      "knn": 0.6021772347275471,
+      "rep": 0.5494155364510122
+    },
+    {
+      "c_score": 0.5560620180047805,
+      "detector_service_ns": 28594958,
+      "family_s_affirms": true,
+      "item_key": "b2375238ec605feb1e30f38daf8840cf3c9900b88879c4a5b86e8184943db378",
+      "knn": 0.5886326656909725,
+      "rep": 0.5541391989655515
+    },
+    {
+      "c_score": 1.0332587048638122,
+      "detector_service_ns": 18797791,
+      "family_s_affirms": true,
+      "item_key": "4577f7848e1a40a58f2426a7a811b0b800e67a82d6f9acba09097177bac1bc1c",
+      "knn": 0.6282070264983067,
+      "rep": 0.5584564980332745
+    },
+    {
+      "c_score": 2.651832625852705,
+      "detector_service_ns": 18348250,
+      "family_s_affirms": true,
+      "item_key": "6ab652e65c4d06765fe9ae32f91d8dbd6d120b18644bb5d7d9662bae53104c55",
+      "knn": 0.5471491912821728,
+      "rep": 0.964813438326927
+    },
+    {
+      "c_score": 3.8821664170788783,
+      "detector_service_ns": 18750833,
+      "family_s_affirms": true,
+      "item_key": "36b1bd444f21aba688ec42dffcb20c52fd0b55ce11305c66d4e9dd85fed774de",
+      "knn": 0.6695338563565956,
+      "rep": 0.9389143938105292
+    },
+    {
+      "c_score": -0.04565567705410656,
+      "detector_service_ns": 21971500,
+      "family_s_affirms": true,
+      "item_key": "f50f3a2b1e3d7afbe978b9cbb5fe6afd506c5867a101f9dd5ab0abe9e6a7b338",
+      "knn": 0.341609459348289,
+      "rep": 0.9073568565419787
+    },
+    {
+      "c_score": 2.7360135711793503,
+      "detector_service_ns": 21253209,
+      "family_s_affirms": true,
+      "item_key": "354b919c9795b685bbf84224d6e11411ac616c316f8f8e446289c00d5ea9954e",
+      "knn": 0.5762825959721103,
+      "rep": 0.9252693720162654
+    },
+    {
+      "c_score": 4.308969961686065,
+      "detector_service_ns": 19412000,
+      "family_s_affirms": true,
+      "item_key": "fde575858742332080189cfdfea7a6ca67938f0f291b737b3f298333459766de",
+      "knn": 0.7039753668085584,
+      "rep": 0.9445110225746889
+    },
+    {
+      "c_score": -1.997327385369235,
+      "detector_service_ns": 19539667,
+      "family_s_affirms": true,
+      "item_key": "d01a4f8bcb3ea9c8e0aa4d17133db3d1f30cbebcdb90346c40c800ea0da1d6f0",
+      "knn": 0.6044846549419136,
+      "rep": 0.11691003196501286
+    },
+    {
+      "c_score": 0.04108522947954629,
+      "detector_service_ns": 25236583,
+      "family_s_affirms": true,
+      "item_key": "14aa70bf124ec6f89409c00e496bde0a30521526ba415b1fff1619b335add8d1",
+      "knn": 0.36645172573713103,
+      "rep": 0.876029903504357
+    },
+    {
+      "c_score": -0.26053626230816834,
+      "detector_service_ns": 29131791,
+      "family_s_affirms": true,
+      "item_key": "c5d4ee7b51c8f4042095303d6418bd6df9476f5c18b06bc776fdac95e4a800ef",
+      "knn": 0.5441697720818477,
+      "rep": 0.5044329613625247
+    },
+    {
+      "c_score": 3.4565351210872293,
+      "detector_service_ns": 21262167,
+      "family_s_affirms": true,
+      "item_key": "bf3452daf738be9037be25e9c5d7d1463e81acde72953cb30457b4c33e358935",
+      "knn": 0.6447714438783174,
+      "rep": 0.9158942487693578
+    },
+    {
+      "c_score": 1.7592829922003042,
+      "detector_service_ns": 28283125,
+      "family_s_affirms": true,
+      "item_key": "0a6e049386ac15340e1836a4e0330a65832ee9c7e5dc204f05aa28b18ffa51c8",
+      "knn": 0.5642138401378999,
+      "rep": 0.7910109760914726
+    },
+    {
+      "c_score": 3.274210770847675,
+      "detector_service_ns": 21472583,
+      "family_s_affirms": true,
+      "item_key": "6bb1fa524bf01ac626d885769f9366e7c352f6d112c087bb6f8d9232d509db36",
+      "knn": 0.6348854064370951,
+      "rep": 0.9047209950573294
+    },
+    {
+      "c_score": 0.3170777923324204,
+      "detector_service_ns": 19895625,
+      "family_s_affirms": true,
+      "item_key": "20a4d6b20195bbcf83bb96d4982e392a9ddacb7b8c8bc3aa608685cabfe17ef0",
+      "knn": 0.6783135015315642,
+      "rep": 0.3527430673969088
+    },
+    {
+      "c_score": -0.25325950064692876,
+      "detector_service_ns": 26149917,
+      "family_s_affirms": true,
+      "item_key": "39721d446edb302745074310b142033941d3a6199b62f24c421daae95e5f03a6",
+      "knn": 0.5271650791781448,
+      "rep": 0.5365366378348401
+    },
+    {
+      "c_score": 4.013652326586936,
+      "detector_service_ns": 23063083,
+      "family_s_affirms": true,
+      "item_key": "427cf34ee0db66bbd39cb0478399c9aa1ec8bd0f153a48105b1da3156825d70d",
+      "knn": 0.6950457747746259,
+      "rep": 0.9135254897931424
+    },
+    {
+      "c_score": 1.8770959593685097,
+      "detector_service_ns": 19547250,
+      "family_s_affirms": true,
+      "item_key": "a2512d848669a315a60ee328542052af7ad88824243cab4d542c0b9d578ec1b1",
+      "knn": 0.6365071687576364,
+      "rep": 0.6783170106684248
+    },
+    {
+      "c_score": 3.203896368661476,
+      "detector_service_ns": 18375375,
+      "family_s_affirms": true,
+      "item_key": "b616026c0e3226a5feb23c51c24c3e5ea6a9926f93c5277e0d10fdf8fc0ec70b",
+      "knn": 0.5931180044591732,
+      "rep": 0.9694702720675871
+    },
+    {
+      "c_score": 3.5781169586985535,
+      "detector_service_ns": 20643375,
+      "family_s_affirms": true,
+      "item_key": "e2ff173108ab0d5711bfd3e988964a4d49b55cac04fb8d37fac51fa91a4569e4",
+      "knn": 0.6281012532820653,
+      "rep": 0.9656711467833852
+    },
+    {
+      "c_score": 0.5308869069070475,
+      "detector_service_ns": 17415291,
+      "family_s_affirms": true,
+      "item_key": "4b3571f847f515f734696f5ded96dc1686fc4b5333eec34d0db76910e84ccb10",
+      "knn": 0.6688447034040268,
+      "rep": 0.40416785923981413
+    },
+    {
+      "c_score": 3.203421527314634,
+      "detector_service_ns": 17842750,
+      "family_s_affirms": true,
+      "item_key": "c01d0c53588efc2cfcdd602ec1472ec5d2804f9290e5dad41b3177c0448f4af9",
+      "knn": 0.6012102788229495,
+      "rep": 0.9546705286388861
+    },
+    {
+      "c_score": 0.3885874863007292,
+      "detector_service_ns": 16405250,
+      "family_s_affirms": true,
+      "item_key": "9d210e37d9d66e809e65e85dd515de533087c2a8edeb5a50925fdf26d4697e17",
+      "knn": 0.6058277017350656,
+      "rep": 0.49606731724075015
+    },
+    {
+      "c_score": 0.17846928597026568,
+      "detector_service_ns": 17249916,
+      "family_s_affirms": true,
+      "item_key": "fbb81c4bdcd179d9b893389852e92320ca00f056d234f79f810461fdc68a1700",
+      "knn": 0.4892231305787623,
+      "rep": 0.6746218550884333
+    },
+    {
+      "c_score": 1.4819345817882652,
+      "detector_service_ns": 23430542,
+      "family_s_affirms": true,
+      "item_key": "9d6621ce72369bfab819964f929be370791a1f3124ca6a277dd4cc670dd38001",
+      "knn": 0.5796980714534782,
+      "rep": 0.7184787602964341
+    },
+    {
+      "c_score": 3.2282715947153244,
+      "detector_service_ns": 19504750,
+      "family_s_affirms": true,
+      "item_key": "0151f985f0526a12a05a2dce462cdc2f570608989a0b21f43bd47234b215307b",
+      "knn": 0.6049712310442676,
+      "rep": 0.9518020164495691
+    },
+    {
+      "c_score": 2.7829770643554,
+      "detector_service_ns": 23541834,
+      "family_s_affirms": true,
+      "item_key": "f9b7ad12dfb6b30c84c1865aef3c1a4ad0e35de08f8b7426bd29598b42118254",
+      "knn": 0.637298226815928,
+      "rep": 0.8217634475563569
+    },
+    {
+      "c_score": 2.0716344674556173,
+      "detector_service_ns": 22675250,
+      "family_s_affirms": true,
+      "item_key": "361c5bda3044f94b32d97ae71704c10d49af04a9da9f93e1e0897d19fadbfa74",
+      "knn": 0.6190390968410299,
+      "rep": 0.7412142644459785
+    },
+    {
+      "c_score": 0.4590244044008718,
+      "detector_service_ns": 22396167,
+      "family_s_affirms": true,
+      "item_key": "82cab32daf8d7d1188ce25db826869971cfbeaf81890b6770e8a682899b8c570",
+      "knn": 0.6710077624008941,
+      "rep": 0.38873857897471054
+    },
+    {
+      "c_score": 0.5784367753143894,
+      "detector_service_ns": 32680417,
+      "family_s_affirms": true,
+      "item_key": "dd89d7923bc266d961a1e84cbf3ee6e1930fe2e5bfe98f057b59ef9e336a3b07",
+      "knn": 0.5165889133901042,
+      "rep": 0.6888005538204278
+    },
+    {
+      "c_score": -0.7557864343006953,
+      "detector_service_ns": 31819625,
+      "family_s_affirms": true,
+      "item_key": "a558f95ee5ce44179e5b357c533d91aad22d13f0d24e9bec12ab73943f443584",
+      "knn": 0.42833176699036035,
+      "rep": 0.6359890064029123
+    },
+    {
+      "c_score": 3.255916959956183,
+      "detector_service_ns": 19874500,
+      "family_s_affirms": true,
+      "item_key": "f2eed84d23588dd9d7e6acb45c2eb2f445a0e4292c3f65b765a5ab4dd2553bcd",
+      "knn": 0.6073619112779015,
+      "rep": 0.9518737752432835
+    },
+    {
+      "c_score": 0.286080024387974,
+      "detector_service_ns": 19715959,
+      "family_s_affirms": true,
+      "item_key": "1caf9d8a92b8366facb688d0e158da56d0e8b584a307159b5443a678083c8de4",
+      "knn": 0.5100478480149677,
+      "rep": 0.6539426859387869
+    },
+    {
+      "c_score": 2.143056496561079,
+      "detector_service_ns": 19769625,
+      "family_s_affirms": true,
+      "item_key": "ef9be113477d51611bb95d9210fb2ab2ead14ead1b53c946e6ab5addd7c6527c",
+      "knn": 0.6038339445905705,
+      "rep": 0.7803030306619767
+    },
+    {
+      "c_score": 1.041632298230061,
+      "detector_service_ns": 28675583,
+      "family_s_affirms": true,
+      "item_key": "d338201cf0052c0b6f6a958446dfbf53df59fbebb3116914b3c5b096e9742618",
+      "knn": 0.589451100564567,
+      "rep": 0.6303117126653305
+    },
+    {
+      "c_score": -0.5475663909355338,
+      "detector_service_ns": 28432833,
+      "family_s_affirms": true,
+      "item_key": "c365f79c0611899dfc5ab986a3b4a279160f71b5be8d5de97ed735ed441ba46b",
+      "knn": 0.6601389044352953,
+      "rep": 0.24752116857983872
+    },
+    {
+      "c_score": 3.72538522071863,
+      "detector_service_ns": 22462209,
+      "family_s_affirms": true,
+      "item_key": "7a6a36789638e740f68688598ed0558d9087397b542a7e89da606a258d70be2d",
+      "knn": 0.6512120439753792,
+      "rep": 0.9471752807092876
+    },
+    {
+      "c_score": -0.7692658614515686,
+      "detector_service_ns": 19881958,
+      "family_s_affirms": true,
+      "item_key": "7fba34256e3a27098de727e5b5ecd355501164fce91f778253b2d3b7f6f69984",
+      "knn": 0.5917333434750498,
+      "rep": 0.3365258785967352
+    },
+    {
+      "c_score": 0.7815060125411134,
+      "detector_service_ns": 20951500,
+      "family_s_affirms": true,
+      "item_key": "10fe94b6cf42b60b9b9e3e5792257e02f4ac511c33f0d79316eec1c29aaa85aa",
+      "knn": 0.5955839208765416,
+      "rep": 0.5775487690526594
+    },
+    {
+      "c_score": -0.6758978761122189,
+      "detector_service_ns": 26382792,
+      "family_s_affirms": true,
+      "item_key": "64466d5903029ea25a39af44d6d7ffcc7ecb28a4cce26c58f12ae32d82e2a315",
+      "knn": 0.5842454576752532,
+      "rep": 0.3650831847842476
+    },
+    {
+      "c_score": 1.2926044596678186,
+      "detector_service_ns": 20934458,
+      "family_s_affirms": true,
+      "item_key": "cfd99d8f60db43786805620900bdadf582fe30ec25b500b946a4d4eca949c901",
+      "knn": 0.6001315967240338,
+      "rep": 0.6510189233894969
+    },
+    {
+      "c_score": -0.8703137582699653,
+      "detector_service_ns": 29305416,
+      "family_s_affirms": true,
+      "item_key": "945ceb7e2c62ba353f19ec999bc26b9d8c2aa014621e0721cb97f93d83612f79",
+      "knn": 0.5192739581307213,
+      "rep": 0.4522033715919326
+    },
+    {
+      "c_score": 3.3213318605536686,
+      "detector_service_ns": 18130875,
+      "family_s_affirms": true,
+      "item_key": "d76bad5142651d4dee229ca67deb35a2df394360a1b9d03f463f800e6d3da4ff",
+      "knn": 0.6331135632163483,
+      "rep": 0.9154813449275052
+    },
+    {
+      "c_score": 0.14684995190121564,
+      "detector_service_ns": 18091208,
+      "family_s_affirms": true,
+      "item_key": "496ab6c0b8b11531501ff94a5dd70ec6eb50a374963cb5ad14500e9b8a13641b",
+      "knn": 0.715744392874141,
+      "rep": 0.2574119240703412
+    },
+    {
+      "c_score": 0.27981293334169155,
+      "detector_service_ns": 18678708,
+      "family_s_affirms": true,
+      "item_key": "1e32a24d844605a52fe7064eb1d7f7847cee1726a5bf59e70bd813bdb15d47ed",
+      "knn": 0.6048031192973939,
+      "rep": 0.48053423491528235
+    },
+    {
+      "c_score": 0.4142922538973489,
+      "detector_service_ns": 19385625,
+      "family_s_affirms": true,
+      "item_key": "e3de671c7097674bce13e7e8f118edbc3e2a0cd7363afaf0c98b952a21516dbe",
+      "knn": 0.5742794320745943,
+      "rep": 0.5575802177304975
+    },
+    {
+      "c_score": 0.5856722469397229,
+      "detector_service_ns": 19035041,
+      "family_s_affirms": true,
+      "item_key": "decc7b286c86cdbc5abca3881b18bc62b9663731a1bf2b211dad9882992db55b",
+      "knn": 0.6783887804817962,
+      "rep": 0.39556483846480534
+    },
+    {
+      "c_score": 3.738279614373605,
+      "detector_service_ns": 18641625,
+      "family_s_affirms": true,
+      "item_key": "a731d8b581ae1186b66b0ec1eca534ce62df0877439baba9032ea111ce31614b",
+      "knn": 0.6520690919988132,
+      "rep": 0.9476782089304807
+    },
+    {
+      "c_score": -0.3131000065666619,
+      "detector_service_ns": 24177667,
+      "family_s_affirms": true,
+      "item_key": "8743fbf258c9a19fcce444d7e220521dcf4805f581e750920d7b1930d6392900",
+      "knn": 0.4970920579367212,
+      "rep": 0.5816833119818097
+    },
+    {
+      "c_score": -0.6170001169534779,
+      "detector_service_ns": 27166667,
+      "family_s_affirms": true,
+      "item_key": "72a24df846f6c3c8fbd6442838c254da1cc030f9de5d166aeca831e6d79e1928",
+      "knn": 0.5596880505256198,
+      "rep": 0.419185148721763
+    },
+    {
+      "c_score": 1.9576996038341516,
+      "detector_service_ns": 28050375,
+      "family_s_affirms": true,
+      "item_key": "43e4118b883dfa612f380c0f4652aa001480bf58ad3cfbc385b87f24f954f783",
+      "knn": 0.6153468712287209,
+      "rep": 0.7297095922594496
+    },
+    {
+      "c_score": 3.7662221009449826,
+      "detector_service_ns": 22749792,
+      "family_s_affirms": true,
+      "item_key": "a68320624233afda75e7ea204459f1e1391f7e0027d9333c5651846dcdf607c1",
+      "knn": 0.6466977689494344,
+      "rep": 0.9619203624474755
+    },
+    {
+      "c_score": 2.052798092961177,
+      "detector_service_ns": 18134583,
+      "family_s_affirms": true,
+      "item_key": "aa58201cb51d8903c2569795fe05c61b1a1db4ea59912c30d8c3209d2cef66a6",
+      "knn": 0.5240676892646638,
+      "rep": 0.911000948633291
+    },
+    {
+      "c_score": 1.4693932890855566,
+      "detector_service_ns": 19968916,
+      "family_s_affirms": true,
+      "item_key": "13ba3ea3539b0a4e3ff643319f616d9b75c17755cb3873069581ee794a6689d9",
+      "knn": 0.6220564626458847,
+      "rep": 0.6394023247701978
+    },
+    {
+      "c_score": -1.204984071740878,
+      "detector_service_ns": 16954292,
+      "family_s_affirms": true,
+      "item_key": "a0de803f6a6995f10cd4f4a2625c7b704f624b366e04ef724cdc27b164e25506",
+      "knn": 0.5487071073405394,
+      "rep": 0.34512325385177367
+    },
+    {
+      "c_score": 3.489778232464742,
+      "detector_service_ns": 22010708,
+      "family_s_affirms": true,
+      "item_key": "9d22ece2ca1839b8424acf8db9ff0b0cbfb191729c3db2ef7e08893db12a49d4",
+      "knn": 0.6699653126841592,
+      "rep": 0.8753711730803995
+    },
+    {
+      "c_score": 4.023660932286588,
+      "detector_service_ns": 22346125,
+      "family_s_affirms": true,
+      "item_key": "6e1009d61787719b75f34356a33e9677fe248b7bf97d8f4a9b5ce58730661159",
+      "knn": 0.6724656175861657,
+      "rep": 0.9562105862930355
+    },
+    {
+      "c_score": 0.8933839779451859,
+      "detector_service_ns": 19487875,
+      "family_s_affirms": true,
+      "item_key": "cd7c622c8a046961495cb13969f1df8271eda6c0bbfdd7833a66c7f896f42b30",
+      "knn": 0.6484577548367494,
+      "rep": 0.4992391066057558
+    },
+    {
+      "c_score": -0.764320975987864,
+      "detector_service_ns": 25531958,
+      "family_s_affirms": true,
+      "item_key": "b86a693ac14d0bc6069767e9992a85fd1a4427fb43f1ddcb9b35e4baa05203ce",
+      "knn": 0.48628407187275113,
+      "rep": 0.5291804647716076
+    },
+    {
+      "c_score": 1.1199033310187159,
+      "detector_service_ns": 17447916,
+      "family_s_affirms": true,
+      "item_key": "7cafa4e16754b4a0ff1ad1e461056cdbfc0067f1e895ce4177986e6939c0a648",
+      "knn": 0.6424736969424827,
+      "rep": 0.5463563180877196
+    },
+    {
+      "c_score": 4.080921823829643,
+      "detector_service_ns": 19907833,
+      "family_s_affirms": true,
+      "item_key": "7dac6ec47b29df5c855cbbfcc57f5c15084c00d116651be8d268d3eb59c898ab",
+      "knn": 0.68871960766224,
+      "rep": 0.9357948953013685
+    },
+    {
+      "c_score": 1.37860796559153,
+      "detector_service_ns": 19190500,
+      "family_s_affirms": true,
+      "item_key": "a6c3e2750ec43c10d2bdffccb953be7ff6638cddf45d55a047be55c0081bad3e",
+      "knn": 0.5924589474605839,
+      "rep": 0.6787345367243198
+    },
+    {
+      "c_score": 1.3643178985429123,
+      "detector_service_ns": 30016875,
+      "family_s_affirms": true,
+      "item_key": "838582a1e647a20ebc3b456dd6d9c3bd4cb1054b3ccc730274c42f3b4c9f5e44",
+      "knn": 0.6748985791514355,
+      "rep": 0.5264510595666457
+    },
+    {
+      "c_score": 0.18651769182368727,
+      "detector_service_ns": 20139166,
+      "family_s_affirms": true,
+      "item_key": "06cf72e981f7b9140c8f76bb1e9454ecd9258c6bd75d4177e054671d4138185c",
+      "knn": 0.6274506229318528,
+      "rep": 0.42440581746021033
+    },
+    {
+      "c_score": 1.109104958275951,
+      "detector_service_ns": 31957792,
+      "family_s_affirms": true,
+      "item_key": "6b8b84bee24d9905114dd438449f0578fa10dc1bee4422dc3fbb91b493081475",
+      "knn": 0.6361785058911377,
+      "rep": 0.5560832625441481
+    },
+    {
+      "c_score": 2.973349750094809,
+      "detector_service_ns": 25601041,
+      "family_s_affirms": true,
+      "item_key": "ed2fd83e36ca3227fc5e68f640d8c4fd1ab2b842286495f4dde31361d7264eb9",
+      "knn": 0.5824133192276271,
+      "rep": 0.9520739148699051
+    },
+    {
+      "c_score": 2.3122947897814914,
+      "detector_service_ns": 23151875,
+      "family_s_affirms": true,
+      "item_key": "3bbc0459f74f50b628e3b142b54d820ecf36131e80fd964e560fc6909545f183",
+      "knn": 0.5932964285300507,
+      "rep": 0.8265437276314531
+    },
+    {
+      "c_score": 3.6444065088106554,
+      "detector_service_ns": 20629750,
+      "family_s_affirms": true,
+      "item_key": "1d9e987fc182c5a26203950e813b526eff1404bd9c023b4182e130a9ececbef5",
+      "knn": 0.6400931218677957,
+      "rep": 0.9544543705903217
+    },
+    {
+      "c_score": 1.0759741851916367,
+      "detector_service_ns": 22875666,
+      "family_s_affirms": true,
+      "item_key": "5661eefa10c4467a35e4e087d82d1b39b3ed925911387821b3b19046dcc44d07",
+      "knn": 0.6043395522552991,
+      "rep": 0.6087149589827145
+    },
+    {
+      "c_score": -0.992338571762189,
+      "detector_service_ns": 22940500,
+      "family_s_affirms": true,
+      "item_key": "469c8c5703fa61576a239d7b99406c1c20cc47c45116390f08278ec409cdcbd7",
+      "knn": 0.5166491663415481,
+      "rep": 0.43746261730800773
+    },
+    {
+      "c_score": 1.5920599752429603,
+      "detector_service_ns": 22468500,
+      "family_s_affirms": true,
+      "item_key": "97697e380423c60a7185d70b60f1ee1d6e79233d951dc5b54982032b4304538b",
+      "knn": 0.5924841543341166,
+      "rep": 0.7128279834281814
+    },
+    {
+      "c_score": -0.7724745013850033,
+      "detector_service_ns": 22905958,
+      "family_s_affirms": true,
+      "item_key": "069414b37f0c5a357259e2baf95e22f4eab4f91647a0931d337711c2522db872",
+      "knn": 0.6554817976946704,
+      "rep": 0.2200231312447071
+    },
+    {
+      "c_score": 2.620897293595093,
+      "detector_service_ns": 21266833,
+      "family_s_affirms": true,
+      "item_key": "2a790af0c31e0863fd1c4687b0c7ec0e5cf5d0ab38e6883f0317f0da99c5561e",
+      "knn": 0.5596050628120075,
+      "rep": 0.9372023595337261
+    },
+    {
+      "c_score": 4.134404395238601,
+      "detector_service_ns": 17903917,
+      "family_s_affirms": true,
+      "item_key": "f434542dcb7537212625d5ef382b360040568a00f019a1f4a08360c74cca2a4c",
+      "knn": 0.6683495520109727,
+      "rep": 0.9814119226262824
+    },
+    {
+      "c_score": 1.1761647666333865,
+      "detector_service_ns": 28904708,
+      "family_s_affirms": true,
+      "item_key": "a885c409958cc1c5491a37a774e607919c2309666fb5c4b65c99b0638f5cba54",
+      "knn": 0.6628902136070065,
+      "rep": 0.5182071070392666
+    },
+    {
+      "c_score": 2.4430348994283566,
+      "detector_service_ns": 21499875,
+      "family_s_affirms": true,
+      "item_key": "f0e64bed9ce0d68b3f5797643329f9e64f70c00fad105de1267b979e604ef6dc",
+      "knn": 0.7679629962661438,
+      "rep": 0.5296504159195774
+    },
+    {
+      "c_score": -0.7518591310457143,
+      "detector_service_ns": 20144791,
+      "family_s_affirms": true,
+      "item_key": "45625b2e223d66f98440b6b565b422c629e19cca288eac6f69e0f640ba528158",
+      "knn": 0.5939978968564648,
+      "rep": 0.3351895662454657
+    },
+    {
+      "c_score": -1.3379760043514666,
+      "detector_service_ns": 18266417,
+      "family_s_affirms": true,
+      "item_key": "f98fa6cdddf854ce60520e4e698aee8123757d8969c778aa6943e2677f8ae00f",
+      "knn": 0.5079073811920402,
+      "rep": 0.3980872718224817
+    },
+    {
+      "c_score": 0.09641800860608422,
+      "detector_service_ns": 20474916,
+      "family_s_affirms": true,
+      "item_key": "7212f0914da07a8e0dba77856516716c6a8bace319d5e68ee96e79cc62584082",
+      "knn": 0.5836194867819904,
+      "rep": 0.4897455955261384
+    },
+    {
+      "c_score": 1.13052738381115,
+      "detector_service_ns": 17178667,
+      "family_s_affirms": true,
+      "item_key": "1bf16537d013176aa462d0121514d570ab05cdc7c965afefdd5aa487da323768",
+      "knn": 0.4284911328144505,
+      "rep": 0.9373942704714417
+    },
+    {
+      "c_score": 1.688401844099231,
+      "detector_service_ns": 22731875,
+      "family_s_affirms": true,
+      "item_key": "f3e86cee7ac1c2a8da2f5bb30d39e172b8ff878ee0a5007a2c11366c7f0de275",
+      "knn": 0.5120501224848948,
+      "rep": 0.8745855820499031
+    },
+    {
+      "c_score": 1.555763157917246,
+      "detector_service_ns": 22537333,
+      "family_s_affirms": true,
+      "item_key": "84808f49a8a72c262d1300a21d057114174bda564e0dadb40d7e48c5c66a0b36",
+      "knn": 0.5513593773004343,
+      "rep": 0.7818487519257715
+    },
+    {
+      "c_score": 0.41573937511898507,
+      "detector_service_ns": 24667708,
+      "family_s_affirms": true,
+      "item_key": "9ef0fef4342aaebac08563fef6704b9b668f794f2ee4c7a5fe0aef8e19b55476",
+      "knn": 0.45306372407698203,
+      "rep": 0.778362219895743
+    },
+    {
+      "c_score": 3.2210985065206135,
+      "detector_service_ns": 17932959,
+      "family_s_affirms": true,
+      "item_key": "e9621e9c67f07a799fefdf2fb2a3820283d3abf26fb598339a392714fad03194",
+      "knn": 0.6182587263665638,
+      "rep": 0.9264783185679444
+    },
+    {
+      "c_score": -1.839348473280357,
+      "detector_service_ns": 21620959,
+      "family_s_affirms": true,
+      "item_key": "c3bbac6ef64011743f8aebceebb24d929f067984c7b15717f3c3062fffc776a9",
+      "knn": 0.573107089402558,
+      "rep": 0.19926813850448177
+    },
+    {
+      "c_score": 2.566152741017422,
+      "detector_service_ns": 19415208,
+      "family_s_affirms": true,
+      "item_key": "5e253cbc39f15a8ea1ea1a178728bb609413655ec725236d81a6172c61c39ca8",
+      "knn": 0.5649603804557455,
+      "rep": 0.9187026308555939
+    },
+    {
+      "c_score": -0.5216193203231289,
+      "detector_service_ns": 20397833,
+      "family_s_affirms": true,
+      "item_key": "163a72050705b8cd8abe0c46b7f1108f3c702a2330849f71cdd4055db5a146be",
+      "knn": 0.5472845006631836,
+      "rep": 0.4570083748048972
+    },
+    {
+      "c_score": 3.1540131447756456,
+      "detector_service_ns": 21084084,
+      "family_s_affirms": true,
+      "item_key": "725d892974ddaa86e53d8ef8b9b857b9ea2e3f857a2f9261022f5304394741a1",
+      "knn": 0.6519791329886431,
+      "rep": 0.8543948678381437
+    },
+    {
+      "c_score": 1.414209955019191,
+      "detector_service_ns": 27588084,
+      "family_s_affirms": true,
+      "item_key": "ca22ea413a4caba994572418a9304291936794adaec4093e68fc3012b3936bf0",
+      "knn": 0.6509823703543014,
+      "rep": 0.5779460071891784
+    },
+    {
+      "c_score": 1.9252815747340946,
+      "detector_service_ns": 19102500,
+      "family_s_affirms": true,
+      "item_key": "d0b44762dd9fc2bb6f9f12445343254dd8ea785393f2bb6825f92bc6f6b83f01",
+      "knn": 0.4903129355331691,
+      "rep": 0.9520224549263397
+    },
+    {
+      "c_score": 0.7187773417604382,
+      "detector_service_ns": 22054541,
+      "family_s_affirms": true,
+      "item_key": "d42ac8d3445fdeb4a9c09134e57da40895330e8fa63b33d6d8ba0c081562ac3e",
+      "knn": 0.5631931227259941,
+      "rep": 0.6264506806218653
+    },
+    {
+      "c_score": 2.8238434177639995,
+      "detector_service_ns": 22118750,
+      "family_s_affirms": true,
+      "item_key": "e9dc7db2b8db40d8555dde770d38f656cf0e21e4c252bc313932cc4b24996aeb",
+      "knn": 0.6255348697198444,
+      "rep": 0.849702862531929
+    },
+    {
+      "c_score": -0.33508420765368463,
+      "detector_service_ns": 27791625,
+      "family_s_affirms": true,
+      "item_key": "8041078491090ed6d22fd2e54dcc1b9fd34a87e54f993f12fe5f27cee9f34e7f",
+      "knn": 0.46168806048064914,
+      "rep": 0.6425843356686246
+    },
+    {
+      "c_score": -1.8310506136378457,
+      "detector_service_ns": 18104000,
+      "family_s_affirms": true,
+      "item_key": "800881074f566f89f0ea3d18965fbf6be976e5ee5b2f468ea75bdca014c88b94",
+      "knn": 0.3586088569454515,
+      "rep": 0.5908722942227185
+    },
+    {
+      "c_score": -0.4442946183336103,
+      "detector_service_ns": 22278083,
+      "family_s_affirms": true,
+      "item_key": "a36752e8573a60ce966c2cf1e6adac0395377ad7a2449a60fca93959a205f891",
+      "knn": 0.4539055522529867,
+      "rep": 0.6392775089422444
+    },
+    {
+      "c_score": 0.11991102237669454,
+      "detector_service_ns": 27299292,
+      "family_s_affirms": true,
+      "item_key": "f9ddb753549371a3c793696895c91884168573f47c24067ceb551f0cd721615e",
+      "knn": 0.6311165898318869,
+      "rep": 0.4070826269055283
+    },
+    {
+      "c_score": 2.8791016285132915,
+      "detector_service_ns": 23594125,
+      "family_s_affirms": true,
+      "item_key": "26536999b72447d8e2dea2731bf93dcf2c92b379049d41dff4be91c99d853e1c",
+      "knn": 0.5661517483230825,
+      "rep": 0.9665876968857647
+    },
+    {
+      "c_score": -0.9716974137874939,
+      "detector_service_ns": 21929208,
+      "family_s_affirms": true,
+      "item_key": "530e7b91cc3cf09cf25873c7bae12129755cae602ecd3a3485c7afa741caaff9",
+      "knn": 0.5799797619238513,
+      "rep": 0.3255346726893672
+    },
+    {
+      "c_score": 1.5810686390348567,
+      "detector_service_ns": 19219833,
+      "family_s_affirms": true,
+      "item_key": "1a7284fa673392b2cc2199bd191c3557557c0a053daf8d4e3dbb8a17d7fa6edc",
+      "knn": 0.5270284966861501,
+      "rep": 0.8301658366763452
+    },
+    {
+      "c_score": -0.5655765146014698,
+      "detector_service_ns": 19012458,
+      "family_s_affirms": true,
+      "item_key": "cdc6267744c5584d7e24a04a4b69893e51ff2f1cb037873956a10106886cb927",
+      "knn": 0.59088025268045,
+      "rep": 0.37065594659535106
+    },
+    {
+      "c_score": -0.828379374546735,
+      "detector_service_ns": 19123334,
+      "family_s_affirms": true,
+      "item_key": "4eb584362b2f52d53707c29fdd90679df0725a23aade7478c5bdf7a14553104e",
+      "knn": 0.5308546061758467,
+      "rep": 0.43783946429929094
+    },
+    {
+      "c_score": 0.32719664656807945,
+      "detector_service_ns": 19340417,
+      "family_s_affirms": true,
+      "item_key": "9fa6d6995c8d44285b7035c9a8fb7e79d992e9a16765744721ae10b883ed6cf2",
+      "knn": 0.6084986429996427,
+      "rep": 0.481388778910549
+    },
+    {
+      "c_score": 3.892757831490748,
+      "detector_service_ns": 19088250,
+      "family_s_affirms": true,
+      "item_key": "41922160fbc0d97564dba9e4d7768bbb89b6d0f092f15a1d1a68fd374655845e",
+      "knn": 0.6775630426048241,
+      "rep": 0.925999364828038
+    },
+    {
+      "c_score": -1.7148172439552414,
+      "detector_service_ns": 23385333,
+      "family_s_affirms": true,
+      "item_key": "0d97e0f2181c27256b620a6252f88c4859f149afbad562235b527aa2e3ebb289",
+      "knn": 0.5178713967608803,
+      "rep": 0.31968623550632647
+    },
+    {
+      "c_score": -1.4477084301961833,
+      "detector_service_ns": 23954875,
+      "family_s_affirms": true,
+      "item_key": "cba014a26ba0431ba85a2ef54e94f9208a01c3c75591acc66c654066006f4a9a",
+      "knn": 0.5855351161968605,
+      "rep": 0.23929402432911864
+    },
+    {
+      "c_score": -1.655804724784316,
+      "detector_service_ns": 33640375,
+      "family_s_affirms": true,
+      "item_key": "8076e7d1374b5ca1bdd7851171633800f8911dbf7820f3e4a7256f463d38b02d",
+      "knn": 0.6320597096021107,
+      "rep": 0.12136035301170472
+    },
+    {
+      "c_score": 2.491570840379736,
+      "detector_service_ns": 21563042,
+      "family_s_affirms": true,
+      "item_key": "8c78f5c02c6284502c520d99ebea8a75820f2b6502a828fa0e53fb01a14ecb3a",
+      "knn": 0.718800318964801,
+      "rep": 0.6268641193869838
+    },
+    {
+      "c_score": 1.2915793379673959,
+      "detector_service_ns": 25208250,
+      "family_s_affirms": true,
+      "item_key": "d8dd66f5ec4efa68650a39fa9e92fde1057a0a12a43a4af75ea08c00bd097548",
+      "knn": 0.6169991867281989,
+      "rep": 0.6201645853430664
+    },
+    {
+      "c_score": 2.9649020170177733,
+      "detector_service_ns": 18543292,
+      "family_s_affirms": true,
+      "item_key": "944122ca33756b1aa4660a720aaca2af29fb8ae29c80b15fa3bdfb8c991e7d73",
+      "knn": 0.6000276617088698,
+      "rep": 0.9186737041334636
+    },
+    {
+      "c_score": 1.5915428498320332,
+      "detector_service_ns": 27884917,
+      "family_s_affirms": true,
+      "item_key": "1a15936bf68ccd8290e4730ffb155b308dd5100de3f4986b2dcdf6819b29afc3",
+      "knn": 0.6406118698836443,
+      "rep": 0.6251774641011589
+    },
+    {
+      "c_score": -0.8217369761178814,
+      "detector_service_ns": 26438583,
+      "family_s_affirms": true,
+      "item_key": "39588e0cc871f3d9b5afb8d480018420d3373b2c1fdd63f2e7b806f2811b0e26",
+      "knn": 0.42006705094219265,
+      "rep": 0.6404784931775935
+    },
+    {
+      "c_score": 0.5999501252280381,
+      "detector_service_ns": 17734542,
+      "family_s_affirms": true,
+      "item_key": "7a565dbbf07a587fff4a82d4c01e1dac95cfea20873cccde7fea84cb0b77263d",
+      "knn": 0.7537019267571886,
+      "rep": 0.26081704732421246
+    },
+    {
+      "c_score": -0.8042008702941952,
+      "detector_service_ns": 20436291,
+      "family_s_affirms": true,
+      "item_key": "1687ef2a5082b307755ceed1b15a2ceb249ef614939386322844b64889db6465",
+      "knn": 0.6169344088012003,
+      "rep": 0.2850853655703882
+    },
+    {
+      "c_score": 1.61317790788022,
+      "detector_service_ns": 25315291,
+      "family_s_affirms": true,
+      "item_key": "2c18ab2a782165d2e1bc78580319259a5a38775ebff3c30bfd3f68ed6f1c7aa4",
+      "knn": 0.5848697756915946,
+      "rep": 0.7300598375100693
+    },
+    {
+      "c_score": 0.01731000852128195,
+      "detector_service_ns": 22224833,
+      "family_s_affirms": true,
+      "item_key": "ca4296d3c965e7bfd82db9535046c04439bdca9618a4a04962810cb089e2cfbe",
+      "knn": 0.5326461441770092,
+      "rep": 0.5698385332855243
+    },
+    {
+      "c_score": 3.7214076814778787,
+      "detector_service_ns": 19961291,
+      "family_s_affirms": true,
+      "item_key": "52c0692bdcc675d84f4f2e4a0b5e0e104a6a1dd803e8788cf3a6300a10d0fc6b",
+      "knn": 0.6676651136007483,
+      "rep": 0.9166029507646823
+    },
+    {
+      "c_score": 1.8881125107038637,
+      "detector_service_ns": 22898875,
+      "family_s_affirms": true,
+      "item_key": "af467ce63540ecc1673456fdd5435fd80b714098cd5a5c0793eb0d39d79d4f31",
+      "knn": 0.6459097141176725,
+      "rep": 0.6629711669735716
+    },
+    {
+      "c_score": -1.3398332797617585,
+      "detector_service_ns": 24045667,
+      "family_s_affirms": true,
+      "item_key": "5963e42dbbf92dc39fa6d79279f8792e79f37ed445cb43ad335ed63636c74a40",
+      "knn": 0.43688896372538644,
+      "rep": 0.5270073938985177
+    },
+    {
+      "c_score": 1.3241917955662101,
+      "detector_service_ns": 23267666,
+      "family_s_affirms": true,
+      "item_key": "cc3ad55189211490a54a6eeff01a3d0f21c94acd6d8d34c26bb03ba376de8c44",
+      "knn": 0.6453476218559838,
+      "rep": 0.5738009472766511
+    },
+    {
+      "c_score": 2.897925418828995,
+      "detector_service_ns": 17730500,
+      "family_s_affirms": true,
+      "item_key": "3ad24d1d8a1ecb391a79847720e800ceee41795b517ba1f303f14e895bb5cea4",
+      "knn": 0.5901213899797944,
+      "rep": 0.9259858756327379
+    },
+    {
+      "c_score": 1.9366869618075226,
+      "detector_service_ns": 18784125,
+      "family_s_affirms": true,
+      "item_key": "2733379cb21206d4fbac31b2becd10ac3ad5c6c952271e423b0799b9d17e7be0",
+      "knn": 0.483259670939576,
+      "rep": 0.9666799533644723
+    },
+    {
+      "c_score": 1.5128266386585012,
+      "detector_service_ns": 27851542,
+      "family_s_affirms": true,
+      "item_key": "9767f45f193b1fd65da716647999fb3a334133a30fdf8a1093953e7f832a1f48",
+      "knn": 0.5945462833891204,
+      "rep": 0.6964034598476287
+    },
+    {
+      "c_score": 3.8321914653128393,
+      "detector_service_ns": 18942417,
+      "family_s_affirms": true,
+      "item_key": "f4a00106fedb8da94d90655ef41b191c019117a3229be53c6024207e5760aabc",
+      "knn": 0.6630650741807254,
+      "rep": 0.9426913206836619
+    },
+    {
+      "c_score": 0.8982295510550882,
+      "detector_service_ns": 17860375,
+      "family_s_affirms": true,
+      "item_key": "28527d478265a97cd8a772da451dca8f7a653d3d4997c89d0ed64bab940bce16",
+      "knn": 0.626845558809717,
+      "rep": 0.5393372386940634
+    },
+    {
+      "c_score": -0.3317881864596832,
+      "detector_service_ns": 28644583,
+      "family_s_affirms": true,
+      "item_key": "82f930084761a5379dfcce0e38527af0294e44c69dd70c5ba570ac55f81bf920",
+      "knn": 0.6565255379150072,
+      "rep": 0.2886070060331627
+    },
+    {
+      "c_score": 2.624706155297565,
+      "detector_service_ns": 19821875,
+      "family_s_affirms": true,
+      "item_key": "cdfd0550c71af801b694aa420a01dd03194b0a46d9dee401bd654ecb03684a99",
+      "knn": 0.6053047942403403,
+      "rep": 0.8546614229197629
+    },
+    {
+      "c_score": 3.5974570142822446,
+      "detector_service_ns": 17540666,
+      "family_s_affirms": true,
+      "item_key": "c610a046547238bf3c3dc834aac7c19050b1e0bd3a18f6f6ee5a6c451e46159a",
+      "knn": 0.6691094453075962,
+      "rep": 0.8941504550746879
+    },
+    {
+      "c_score": 2.230164151752129,
+      "detector_service_ns": 15812333,
+      "family_s_affirms": true,
+      "item_key": "388475f01a6b001cac37efc70155a52e9c1e9b72650c6a0f5a3eee24904492ae",
+      "knn": 0.6538119437134147,
+      "rep": 0.7033005658165417
+    },
+    {
+      "c_score": 1.4259349859246973,
+      "detector_service_ns": 20488833,
+      "family_s_affirms": true,
+      "item_key": "29d893146b4be985cf81ef4d07aeb30121edf43e736a021d9ff7beedbe4cb348",
+      "knn": 0.6209440725599343,
+      "rep": 0.6344756259600018
+    },
+    {
+      "c_score": 1.1680220626229523,
+      "detector_service_ns": 23217000,
+      "family_s_affirms": true,
+      "item_key": "01653b4fccc43cafe8b18d653d428ee0a0e3748c2f7e794cfff0a0f77ca53044",
+      "knn": 0.6127845511842767,
+      "rep": 0.6080714325356952
+    },
+    {
+      "c_score": 1.0039808176529883,
+      "detector_service_ns": 15948833,
+      "family_s_affirms": true,
+      "item_key": "c0860fd7df74805a3c7da13fb93b34593c8a5c1ce89857c23a192ea66f4a2e49",
+      "knn": 0.6720745566145705,
+      "rep": 0.4739573671136662
+    },
+    {
+      "c_score": 2.066056234704627,
+      "detector_service_ns": 21637584,
+      "family_s_affirms": true,
+      "item_key": "c72235a01c95d5c3b394f40fee5e8f950287e945f0e794130f8fbb1660d4b52f",
+      "knn": 0.5135828981618287,
+      "rep": 0.9321983968909078
+    },
+    {
+      "c_score": 1.149775961073423,
+      "detector_service_ns": 27234709,
+      "family_s_affirms": true,
+      "item_key": "c66a9dc7a2b847796426017f63e47ad92fd66aa0c8583c33da2c86dbdae94a52",
+      "knn": 0.5327369471025237,
+      "rep": 0.7507988399789158
+    },
+    {
+      "c_score": 2.4042133603263953,
+      "detector_service_ns": 20427833,
+      "family_s_affirms": true,
+      "item_key": "babc9cb86a79479a18a50f3b64486af7bceb8a782b56053353c7c3481fd47a64",
+      "knn": 0.5979890960696934,
+      "rep": 0.8327068426693869
+    },
+    {
+      "c_score": 2.594230666080111,
+      "detector_service_ns": 19631083,
+      "family_s_affirms": true,
+      "item_key": "8c8368e6d24ba7e7f2521308c367c1265fd28199e6752feb183b467a3dd76a13",
+      "knn": 0.5523205124050435,
+      "rep": 0.9461914781739043
+    },
+    {
+      "c_score": 2.1976079605349947,
+      "detector_service_ns": 19485875,
+      "family_s_affirms": true,
+      "item_key": "2f2fe652ef40bde5bd4a0ca190f3864c0faff6174b174635782586b7a1d6e995",
+      "knn": 0.5450579750095332,
+      "rep": 0.8959701230449283
+    },
+    {
+      "c_score": 2.8294224891944046,
+      "detector_service_ns": 23993625,
+      "family_s_affirms": true,
+      "item_key": "13408e7b3f62b5ec035b908fac897d12aa33c330d2f2ba2c9b443752d3e0ced9",
+      "knn": 0.6873367632843729,
+      "rep": 0.7381473574848526
+    },
+    {
+      "c_score": 0.6672607866983684,
+      "detector_service_ns": 23063500,
+      "family_s_affirms": true,
+      "item_key": "28682b3d05f60a452990b6cce0d122fa8410b19ea76ba72bcbd353b0ae7849e8",
+      "knn": 0.630034808050306,
+      "rep": 0.4965935140071823
+    },
+    {
+      "c_score": 1.1314442829547922,
+      "detector_service_ns": 19086250,
+      "family_s_affirms": true,
+      "item_key": "9c7207f4d8a4de3c4e15a26eea2ed9b7f33e1b32ba70aa662837b11f7f5075cd",
+      "knn": 0.5869936955473538,
+      "rep": 0.6491473750647638
+    },
+    {
+      "c_score": 4.782750807973322,
+      "detector_service_ns": 21136833,
+      "family_s_affirms": true,
+      "item_key": "aba347315e5536ab4b2b9d747942547ebad508b2615a014ea252216bcf2e37ec",
+      "knn": 0.7292439363586437,
+      "rep": 0.9743112138256514
+    },
+    {
+      "c_score": -1.8132826308691568,
+      "detector_service_ns": 25893416,
+      "family_s_affirms": true,
+      "item_key": "64dab8af46c7ed5dffef26d64f45216d61478a9b19207946c7158a9d9db6e8e7",
+      "knn": 0.37234991033218945,
+      "rep": 0.5687124038328017
+    },
+    {
+      "c_score": 0.7315764047032688,
+      "detector_service_ns": 18135542,
+      "family_s_affirms": true,
+      "item_key": "b071fb369b18e60ceff4bf3bed24a1a189e83855231e2c0fdc39bb3440e1cf33",
+      "knn": 0.6960653068451088,
+      "rep": 0.3867383787124426
+    },
+    {
+      "c_score": 3.0606553897216706,
+      "detector_service_ns": 17361292,
+      "family_s_affirms": true,
+      "item_key": "adc2f5a462272d428ca2a08a78cf9f3ed0937a8468010670b6c7ca9a27153e53",
+      "knn": 0.7704503012750937,
+      "rep": 0.6239064244191324
+    },
+    {
+      "c_score": -0.4995210907671651,
+      "detector_service_ns": 28015334,
+      "family_s_affirms": true,
+      "item_key": "bcbcd541894cdc4bb83651b2ed107ea39fa6fa9396b69d8d08c394f690c513fb",
+      "knn": 0.624448597295244,
+      "rep": 0.3201435808256628
+    },
+    {
+      "c_score": -0.13518199460812208,
+      "detector_service_ns": 21050375,
+      "family_s_affirms": true,
+      "item_key": "c6374736c87d6d04f724d091cd4603630b08afddb57785f54cd916cd8acbefc1",
+      "knn": 0.6699089829065266,
+      "rep": 0.29570099204941397
+    },
+    {
+      "c_score": 0.8566682904691879,
+      "detector_service_ns": 16904250,
+      "family_s_affirms": true,
+      "item_key": "32ff45352695c722d99083240648b8395c41b52d1dfd13d6f5c7d72513e7b3ab",
+      "knn": 0.6510339482549596,
+      "rep": 0.4886794811211184
+    },
+    {
+      "c_score": -1.2912610012042716,
+      "detector_service_ns": 15499416,
+      "family_s_affirms": true,
+      "item_key": "3c73b9d3bd3626cd8a21287f6cbfb506be037e88de98537189b3fbe1484c2f60",
+      "knn": 0.6189867532986619,
+      "rep": 0.20345121737150212
+    },
+    {
+      "c_score": 3.214025520228105,
+      "detector_service_ns": 20314083,
+      "family_s_affirms": true,
+      "item_key": "4969ba17079900aff45d744bcdeb84735c0bf6b5a19814233291e4b481574b1a",
+      "knn": 0.6107009185437768,
+      "rep": 0.9390984140941407
+    },
+    {
+      "c_score": -1.1229926418449436,
+      "detector_service_ns": 16107250,
+      "family_s_affirms": true,
+      "item_key": "9d43b0350935aff5105b01affd164a49947b12b4bc460f43b69f990ed84f8715",
+      "knn": 0.5801712824099864,
+      "rep": 0.30098818932238386
+    },
+    {
+      "c_score": 2.031863502278642,
+      "detector_service_ns": 29176542,
+      "family_s_affirms": true,
+      "item_key": "b5a8f4713c5acf0e646e005743d9b01d875a369ea6305ba34e9bb5027e2745cb",
+      "knn": 0.7479457745470559,
+      "rep": 0.5003091546545503
+    },
+    {
+      "c_score": 2.1647843851922577,
+      "detector_service_ns": 24711917,
+      "family_s_affirms": true,
+      "item_key": "32e07be03e9bdd700738bb7793f2ad3f8799eb4f73be2b0cd461c51941e0e09d",
+      "knn": 0.6009677127759785,
+      "rep": 0.7889932433725193
+    },
+    {
+      "c_score": 1.0450751674309702,
+      "detector_service_ns": 17836000,
+      "family_s_affirms": true,
+      "item_key": "b470bbd6644db45f611d82ad836960bdd091d5c16e5ba62e114ce2023f293f68",
+      "knn": 0.6611994879506264,
+      "rep": 0.5003170172854876
+    },
+    {
+      "c_score": 3.297131792784277,
+      "detector_service_ns": 18786333,
+      "family_s_affirms": true,
+      "item_key": "736e77a62be17daa4578ccec3ca97983e094db4bd1a201b655439a6ed46b0c11",
+      "knn": 0.6367579920480649,
+      "rep": 0.904979813955643
+    },
+    {
+      "c_score": 2.0238493885712305,
+      "detector_service_ns": 18205500,
+      "family_s_affirms": true,
+      "item_key": "5c692003a886a991b36b76af2f1a63e6df747ae97bd490731f3ed49da59a5d31",
+      "knn": 0.5171550124990378,
+      "rep": 0.918948454376072
+    },
+    {
+      "c_score": 3.4155178886245596,
+      "detector_service_ns": 20004417,
+      "family_s_affirms": true,
+      "item_key": "590a7334f04b2ee2d47cd7bac31fc6455d36fef86880d2747237b2fa497245cc",
+      "knn": 0.6201361401435104,
+      "rep": 0.9541576364073003
+    },
+    {
+      "c_score": 0.5181508327346425,
+      "detector_service_ns": 19511084,
+      "family_s_affirms": true,
+      "item_key": "450142bf470d3f45ce2c76f2b822cbe55addf765b378625ac4198c1d826148e4",
+      "knn": 0.5626999097689352,
+      "rep": 0.595260063772765
+    },
+    {
+      "c_score": 2.4942557730038764,
+      "detector_service_ns": 21321291,
+      "family_s_affirms": true,
+      "item_key": "f2c2f5606a98ed9a898e77aa6fa6ef7017db96f406a05d8be14ce7fbc9589bfe",
+      "knn": 0.7089562954504728,
+      "rep": 0.6452046296190197
+    },
+    {
+      "c_score": 1.782788241451183,
+      "detector_service_ns": 17875833,
+      "family_s_affirms": true,
+      "item_key": "014e7952c6db54fa0749fc4deac35db0ddedf4fbc477ead3f24987626ad81b44",
+      "knn": 0.7152822191967683,
+      "rep": 0.5199032493109731
+    },
+    {
+      "c_score": 1.1086118193413956,
+      "detector_service_ns": 28678291,
+      "family_s_affirms": true,
+      "item_key": "94717315bab32b9b9ffe52ef69c79b9d5ac6a7d2bb56ca336fea04e96212f510",
+      "knn": 0.6941406696166204,
+      "rep": 0.45054291713088745
+    },
+    {
+      "c_score": 4.005262290144003,
+      "detector_service_ns": 18021125,
+      "family_s_affirms": true,
+      "item_key": "b808699ce6801e00f1bb8c9676362d380ca232a06884b13f3f674834212b8232",
+      "knn": 0.6764150170455908,
+      "rep": 0.9460820393283534
+    },
+    {
+      "c_score": 0.2576257846569078,
+      "detector_service_ns": 22352667,
+      "family_s_affirms": true,
+      "item_key": "e59a0bebc1b36fb4a52e500a54635bfc80644bef5db52525f9bafa932ec6d1b7",
+      "knn": 0.5371735767679242,
+      "rep": 0.6000367985230302
+    },
+    {
+      "c_score": 2.7155499680281396,
+      "detector_service_ns": 16861334,
+      "family_s_affirms": true,
+      "item_key": "ebd1fd0d89ac50c8599fa83c7dfb035d75e341e7ef6e4c90464a6d8b3fb3aa4d",
+      "knn": 0.5435243299955866,
+      "rep": 0.9815997214618436
+    },
+    {
+      "c_score": 0.6225227923222547,
+      "detector_service_ns": 24661375,
+      "family_s_affirms": true,
+      "item_key": "1bb70970ec42a52027000c6352fc01aa4bd9aee2f9cbae4097f6365a5d9fe135",
+      "knn": 0.5909210162871128,
+      "rep": 0.5606052447387071
+    },
+    {
+      "c_score": 3.063662269642429,
+      "detector_service_ns": 17444041,
+      "family_s_affirms": true,
+      "item_key": "d85535cb9c07667abe48fb94533f6a035d56e46ccf5bb54acf6477a3abf14271",
+      "knn": 0.5907076366811181,
+      "rep": 0.9514270001097636
+    },
+    {
+      "c_score": 1.3949977024385387,
+      "detector_service_ns": 31549792,
+      "family_s_affirms": true,
+      "item_key": "fad1d986aad0bb46894813c4d4a0c2013b0397107b74b9336d61b96cd42dcf84",
+      "knn": 0.6465925904054736,
+      "rep": 0.582860370723002
+    },
+    {
+      "c_score": 1.2274457915148724,
+      "detector_service_ns": 31076500,
+      "family_s_affirms": true,
+      "item_key": "9fcd5be7ca78999cafc0a57cb8e3ba6c819f5696a175e2d088baf1ebd6fa7f35",
+      "knn": 0.6407274667554874,
+      "rep": 0.5667338016121153
+    },
+    {
+      "c_score": -2.283757782134782,
+      "detector_service_ns": 20336750,
+      "family_s_affirms": true,
+      "item_key": "7ad9f03253feb26da916ab861b5df20121fa1f19872d4a295a07569ed1c0dccc",
+      "knn": 0.5251961683299216,
+      "rep": 0.2153630943965712
+    },
+    {
+      "c_score": 0.3811039327358401,
+      "detector_service_ns": 30664875,
+      "family_s_affirms": true,
+      "item_key": "d55153291cc3351f4e81110747cffe641fa3ad800d6dd7d0434f7ac2ae6c8e7a",
+      "knn": 0.5200199858255447,
+      "rep": 0.6509965318480702
+    },
+    {
+      "c_score": -0.76572955151518,
+      "detector_service_ns": 21780875,
+      "family_s_affirms": true,
+      "item_key": "f5d376ab844655a99749b217f70d0c157d773b5da6730b61d1a820b5bf90bcaf",
+      "knn": 0.5256236037547055,
+      "rep": 0.4573773642932696
+    },
+    {
+      "c_score": -2.714846509607538,
+      "detector_service_ns": 30850167,
+      "family_s_affirms": true,
+      "item_key": "e7a9de2e745d8757ffeb72d6fa34348169ac65bd1b3693d6b6edc8d3b9f45961",
+      "knn": 0.4674084512665331,
+      "rep": 0.25155924514708156
+    },
+    {
+      "c_score": -2.782677067026568,
+      "detector_service_ns": 24817000,
+      "family_s_affirms": true,
+      "item_key": "24ad4614c64386b700e52d800e7339391341f23b822772d8aae387765ce25d8b",
+      "knn": 0.5680796203553057,
+      "rep": 0.057540485899649496
+    },
+    {
+      "c_score": 2.353320418108118,
+      "detector_service_ns": 16597375,
+      "family_s_affirms": true,
+      "item_key": "904077e8cb6f070288fa31fc8defe6502b1600ffa59c3818e7dc0d90d47d4160",
+      "knn": 0.5719138523826388,
+      "rep": 0.8720106724917787
+    },
+    {
+      "c_score": 2.9803804862412973,
+      "detector_service_ns": 19874541,
+      "family_s_affirms": true,
+      "item_key": "ebc1024dd615e44e53632e526f68e4aff3e60242de581927a0c14a34cb3e7bb9",
+      "knn": 0.5959429930665414,
+      "rep": 0.9285813221166614
+    },
+    {
+      "c_score": 2.087254925299455,
+      "detector_service_ns": 21127250,
+      "family_s_affirms": true,
+      "item_key": "4273bd0df208c29e5d2c0c334955d8b21096d2ce54d9fde62c923481ea5a4e34",
+      "knn": 0.6607180140486636,
+      "rep": 0.6678782872738511
+    },
+    {
+      "c_score": -1.0942854511628228,
+      "detector_service_ns": 17359292,
+      "family_s_affirms": true,
+      "item_key": "64e33aa6fd9364c8595a5d8541321d766d2c8bbf5cee5ce74cc301c8edc8adde",
+      "knn": 0.4416936798256833,
+      "rep": 0.5575379545291198
+    },
+    {
+      "c_score": 1.4240882037597553,
+      "detector_service_ns": 29104209,
+      "family_s_affirms": true,
+      "item_key": "01ee4fdb1767c31f7fead57aa453ff60835e7e039d15c9ed9142064a0af9c5cc",
+      "knn": 0.6223830146902837,
+      "rep": 0.631562115152435
+    },
+    {
+      "c_score": 3.495239068412267,
+      "detector_service_ns": 18859334,
+      "family_s_affirms": true,
+      "item_key": "99e5845dd005d345c558d6fba76be814e0f6a8f91e90f0b5fb6780265cb5e2f0",
+      "knn": 0.6179028118855364,
+      "rep": 0.9709716800938226
+    },
+    {
+      "c_score": 2.599740636755829,
+      "detector_service_ns": 17571917,
+      "family_s_affirms": true,
+      "item_key": "c36839155762c283a5bed58189344bfbd957fa768f3bcfbb3b2eeffe9c0896ef",
+      "knn": 0.6356217038400432,
+      "rep": 0.7955072023238202
+    },
+    {
+      "c_score": -1.3747140024191515,
+      "detector_service_ns": 17399875,
+      "family_s_affirms": true,
+      "item_key": "b15aa38137f587ef51b645db126dfa302df608363ae91b78e345fb41f5f5301f",
+      "knn": 0.5178315771103325,
+      "rep": 0.3741544741228148
+    },
+    {
+      "c_score": -0.38799707896507024,
+      "detector_service_ns": 17258291,
+      "family_s_affirms": true,
+      "item_key": "9165dffd7e86102d86c80e7793fb5abff0c9c73d0dfd1fbe68b9aa50ebec46ac",
+      "knn": 0.6096819145202336,
+      "rep": 0.3648484297682628
+    },
+    {
+      "c_score": -0.3872678677806725,
+      "detector_service_ns": 16752708,
+      "family_s_affirms": true,
+      "item_key": "f95af24f0b62d88a9f60042aa8876ad1bd1268caf4b4d88b11d7a60da6c388f1",
+      "knn": 0.5331878919469505,
+      "rep": 0.5041450309445434
+    },
+    {
+      "c_score": 2.8683690891404963,
+      "detector_service_ns": 20926667,
+      "family_s_affirms": true,
+      "item_key": "73974a48baded33908119844b112d0a0d8a9ed5a137e05f340694b7f57f444a1",
+      "knn": 0.6383995643762609,
+      "rep": 0.8334170956445557
+    },
+    {
+      "c_score": 2.759358441489262,
+      "detector_service_ns": 21205041,
+      "family_s_affirms": true,
+      "item_key": "8173317ade66c19901fd60a7d1e1c771d9d53ae06b1abb73e1b7c33fe94b13ef",
+      "knn": 0.5924659198954048,
+      "rep": 0.89955776125181
+    },
+    {
+      "c_score": 3.5190783666813457,
+      "detector_service_ns": 20362750,
+      "family_s_affirms": true,
+      "item_key": "7c98058c6943e60ace0b47565178fb0d7101ac64700dc11009f8f5dca1136ae1",
+      "knn": 0.6276722225893668,
+      "rep": 0.9570091871160517
+    },
+    {
+      "c_score": -0.8206156622609546,
+      "detector_service_ns": 19480875,
+      "family_s_affirms": true,
+      "item_key": "a65ab4bd96941413a6c6eda2488d7b732354f895f1620dd414605fb54e4b1627",
+      "knn": 0.6959197184645086,
+      "rep": 0.13874716012695998
+    },
+    {
+      "c_score": 1.5388887586115483,
+      "detector_service_ns": 21058917,
+      "family_s_affirms": true,
+      "item_key": "efeaff48bb1e6ff8b265f8baa6dd7390dab6a311a2f7a505c5dbbb65b1b1d309",
+      "knn": 0.6635006875832752,
+      "rep": 0.5751100852667832
+    },
+    {
+      "c_score": 2.003564581220779,
+      "detector_service_ns": 22244042,
+      "family_s_affirms": true,
+      "item_key": "84fb12b7679226b4d790ebec91b133100eb36bb53a73c6418b58accf6dfc1b42",
+      "knn": 0.783302412041233,
+      "rep": 0.43145206738652797
+    },
+    {
+      "c_score": 2.5862474656797274,
+      "detector_service_ns": 21643417,
+      "family_s_affirms": true,
+      "item_key": "5902ca240084e32fa99cdfaca2f8eb86631f7d6f63d1a7b7e856e6bf49cb4fa6",
+      "knn": 0.5510289821927667,
+      "rep": 0.9472645767235339
+    },
+    {
+      "c_score": 2.003121006560731,
+      "detector_service_ns": 16924083,
+      "family_s_affirms": true,
+      "item_key": "407240f47d09ebfcc8197eeb4d5b6c7bb12e089850869d805a93e088d60f07d4",
+      "knn": 0.7420115151634246,
+      "rep": 0.5065094223288971
+    },
+    {
+      "c_score": 0.15112950020835159,
+      "detector_service_ns": 18962959,
+      "family_s_affirms": true,
+      "item_key": "50b68b9ea326c91ee9b1ee8d3653f88a4516e7ad32f8b35a9668349a619b7237",
+      "knn": 0.5509370109974487,
+      "rep": 0.5579614783810042
+    },
+    {
+      "c_score": 0.041525554196890635,
+      "detector_service_ns": 27642375,
+      "family_s_affirms": true,
+      "item_key": "56f62ea343c6125b11725ef84ffecb863dd1cbed40f0027359a261594a4a2484",
+      "knn": 0.47304400479327247,
+      "rep": 0.6821569341156364
+    },
+    {
+      "c_score": 1.2746126646279776,
+      "detector_service_ns": 18329000,
+      "family_s_affirms": true,
+      "item_key": "8ba20eb1e5db34cad62cb32ca1c9750a52ce9d4974bedc966864125ac7d8bf1f",
+      "knn": 0.6514965867394772,
+      "rep": 0.5546833394043768
+    },
+    {
+      "c_score": 2.464326036363051,
+      "detector_service_ns": 29352917,
+      "family_s_affirms": true,
+      "item_key": "18f425d4e720188e79f1d20e41abd6f11ec7e67e737e10184c9b3e6c9990cf92",
+      "knn": 0.6742537474183893,
+      "rep": 0.7035585729937164
+    },
+    {
+      "c_score": 3.1970994792401157,
+      "detector_service_ns": 16627750,
+      "family_s_affirms": true,
+      "item_key": "191f1b486b1bc73ccbcd22c9cf2f4c3b701237d2b2d6351dee39079e64fa3654",
+      "knn": 0.606938794008083,
+      "rep": 0.9432364205028373
+    },
+    {
+      "c_score": 3.001193850643379,
+      "detector_service_ns": 21885958,
+      "family_s_affirms": true,
+      "item_key": "cd13fd3093d70dbba04538b93f9dd7fa9f606af7009b0d9fdfb4b45963402fd0",
+      "knn": 0.6320236949722826,
+      "rep": 0.8662617801655073
+    },
+    {
+      "c_score": -0.010169129511008207,
+      "detector_service_ns": 25934125,
+      "family_s_affirms": true,
+      "item_key": "a34dee16ee044ff6ffa30b50da0381964b916bd75d5a346c5c56b88443ad63e6",
+      "knn": 0.5931095675695913,
+      "rep": 0.45543106051927157
+    },
+    {
+      "c_score": 3.7380882140630143,
+      "detector_service_ns": 19882625,
+      "family_s_affirms": true,
+      "item_key": "73eadfdb87a8e473613effbb344a9c3e5ad052ea36246b26340fdff31d0c7c90",
+      "knn": 0.6595628193999661,
+      "rep": 0.9340128479288043
+    },
+    {
+      "c_score": 3.216477472063459,
+      "detector_service_ns": 19515625,
+      "family_s_affirms": true,
+      "item_key": "dd992e6f42a4ec0de1ee29f578a0e2b62b4e3a4af2a971f09ac78b8b4b5cbd93",
+      "knn": 0.6669555672089866,
+      "rep": 0.8371359071947011
+    },
+    {
+      "c_score": 0.14147635790947877,
+      "detector_service_ns": 18274667,
+      "family_s_affirms": true,
+      "item_key": "6a3b587e275d17fd8cdd4a0ebded3879403f201e8d455f025a5f026aa4cdeedd",
+      "knn": 0.626764065867194,
+      "rep": 0.418451132065472
+    },
+    {
+      "c_score": 3.047912750272208,
+      "detector_service_ns": 20767083,
+      "family_s_affirms": true,
+      "item_key": "92e9fd4ce654ac57c99e026289796615bf25b140deda7178e0a086743d98a23d",
+      "knn": 0.5910979813400875,
+      "rep": 0.9481978095390243
+    },
+    {
+      "c_score": 1.5919112541741722,
+      "detector_service_ns": 19555875,
+      "family_s_affirms": true,
+      "item_key": "334ca75c8e4504a3da9c0eeb715e4848ba92e222186d19a5d28003fe16da78c3",
+      "knn": 0.718687198112342,
+      "rep": 0.4831792475138443
+    },
+    {
+      "c_score": 1.9379350615799673,
+      "detector_service_ns": 22167459,
+      "family_s_affirms": true,
+      "item_key": "24b3240a25b8f6019aa0211b5359163166e01bf7f314e0b3ef7abf037270a037",
+      "knn": 0.574498384854164,
+      "rep": 0.8008718094277347
+    },
+    {
+      "c_score": 3.0718670376407666,
+      "detector_service_ns": 18363041,
+      "family_s_affirms": true,
+      "item_key": "2996b8c2d3d2891f2360ad2ed55fbc8ae9c418c2c4e36554a70473cd1be54cf3",
+      "knn": 0.5975560722362533,
+      "rep": 0.9402786151414005
+    },
+    {
+      "c_score": 3.58869336601411,
+      "detector_service_ns": 19142208,
+      "family_s_affirms": true,
+      "item_key": "29ccd6c86e755d6b7d7a7920227e8da524d8087ad77f8ded247bf728c178e5b2",
+      "knn": 0.648721541938275,
+      "rep": 0.9298443552590729
+    },
+    {
+      "c_score": 0.6645589012280537,
+      "detector_service_ns": 26976292,
+      "family_s_affirms": true,
+      "item_key": "7e2cdc9163109bb3f8fe26fc3c76770ef60b41deaa1abb530d2b655b1ef2a57e",
+      "knn": 0.5527700176442615,
+      "rep": 0.63674375184607
+    },
+    {
+      "c_score": 1.2186755505450466,
+      "detector_service_ns": 25941791,
+      "family_s_affirms": true,
+      "item_key": "51fae4da3f187e206588609e0081ef9a00a71e5dff6cc789cbef2b14a0711670",
+      "knn": 0.6626194175794212,
+      "rep": 0.5254989513459072
+    },
+    {
+      "c_score": 2.3831674718351215,
+      "detector_service_ns": 17207166,
+      "family_s_affirms": true,
+      "item_key": "9181a5623c40f4726b343d306ce25757d9ab999d9273bb40cf63cf07b0c15384",
+      "knn": 0.5345417750885608,
+      "rep": 0.944782435562636
+    },
+    {
+      "c_score": 0.7262559943015514,
+      "detector_service_ns": 26114417,
+      "family_s_affirms": true,
+      "item_key": "3daba2a2cecdd69502e8f375e35de80cbe60797667d71172cc6b25128d9b9740",
+      "knn": 0.6555071675966306,
+      "rep": 0.45968249334589806
+    },
+    {
+      "c_score": -1.610878871616527,
+      "detector_service_ns": 24669000,
+      "family_s_affirms": true,
+      "item_key": "8b13b6e88b63beca47cb0fa1835db8b8b18578546f15f2a93248e5f47a25be63",
+      "knn": 0.3414661885563023,
+      "rep": 0.65727723504414
+    },
+    {
+      "c_score": 0.8219767622941467,
+      "detector_service_ns": 20922708,
+      "family_s_affirms": true,
+      "item_key": "328cb7f6a89300c8fe9712f4b9022ff245c3d214066749c0d2141ef142a33617",
+      "knn": 0.564146179412848,
+      "rep": 0.6412222218583514
+    },
+    {
+      "c_score": 0.7469925793981893,
+      "detector_service_ns": 24939333,
+      "family_s_affirms": true,
+      "item_key": "add6bd18f65864cec5c9941f558c6ce58f63e3900b5b6896f243e1d3382063e4",
+      "knn": 0.46997217014220305,
+      "rep": 0.8005778224484683
+    },
+    {
+      "c_score": -0.5735093380749975,
+      "detector_service_ns": 16342917,
+      "family_s_affirms": true,
+      "item_key": "5014ab126b5b6b04ad4db84499abf1aadb911df06745420931da2c6bc8cd6dcd",
+      "knn": 0.6412115592560373,
+      "rep": 0.27780995973046574
+    },
+    {
+      "c_score": -0.4655343062361499,
+      "detector_service_ns": 18597334,
+      "family_s_affirms": true,
+      "item_key": "b3482993c883d9cc00293d754afe265a34bb5142c4aa81d6cef3c7075381cdb6",
+      "knn": 0.5339285603038448,
+      "rep": 0.49027953427993887
+    },
+    {
+      "c_score": 2.7910869526153164,
+      "detector_service_ns": 18473417,
+      "family_s_affirms": true,
+      "item_key": "017a3c1dfc5f81a4ca7dbb5a5c5de6d1d875754ff2882e6ede12f82163470e70",
+      "knn": 0.5799809080448274,
+      "rep": 0.9273487207846481
+    },
+    {
+      "c_score": -0.24099227216414687,
+      "detector_service_ns": 19655542,
+      "family_s_affirms": true,
+      "item_key": "9831441b3ca2ecd57587c60e52e5d06a0142fccd9d51233e6bd46910fd83b1f6",
+      "knn": 0.45676803018695666,
+      "rep": 0.6665852469449981
+    },
+    {
+      "c_score": 1.9172404085982615,
+      "detector_service_ns": 20529125,
+      "family_s_affirms": true,
+      "item_key": "d562036cc3715b5826e9303365bc3c011508be9e562540c73487e3729b02b32b",
+      "knn": 0.5574633195550982,
+      "rep": 0.8285570268044838
+    },
+    {
+      "c_score": 2.3423300632214463,
+      "detector_service_ns": 17091250,
+      "family_s_affirms": true,
+      "item_key": "3b80c11e281ec6dc6f546a5eeb30d5e46fa41793bd61dbc5452edf366586b0cb",
+      "knn": 0.6731818451152802,
+      "rep": 0.6859969673040925
+    },
+    {
+      "c_score": -0.08076726758415415,
+      "detector_service_ns": 18579625,
+      "family_s_affirms": true,
+      "item_key": "52c72173a87d64e2d790cbd2b50462261acb2ebcc47302963316814f9a58e426",
+      "knn": 0.6210704199817532,
+      "rep": 0.39326522065446917
+    },
+    {
+      "c_score": 1.0745510812223793,
+      "detector_service_ns": 20680584,
+      "family_s_affirms": true,
+      "item_key": "f26dbb4f639cc5d50c2bf90dc88c5b7cc4ffa7fee54b098e08328986ed2bd144",
+      "knn": 0.671878301982057,
+      "rep": 0.48560139057612317
+    },
+    {
+      "c_score": -0.6180944144569909,
+      "detector_service_ns": 18267250,
+      "family_s_affirms": true,
+      "item_key": "c61e0ab1a13c89856235fc137f2001238563f79ca7aac66f7e83f4f738ae66ee",
+      "knn": 0.5887667617843573,
+      "rep": 0.3661017556691549
+    },
+    {
+      "c_score": 3.254038782434182,
+      "detector_service_ns": 20059083,
+      "family_s_affirms": true,
+      "item_key": "009bf9da05be0af57a9ebbe31789ed9ac27c42c5ec47a6de8c1dfcb3bc6d6e97",
+      "knn": 0.6297638174948392,
+      "rep": 0.91081337719175
+    },
+    {
+      "c_score": 0.4175353444066786,
+      "detector_service_ns": 31043625,
+      "family_s_affirms": true,
+      "item_key": "c31d1921c9e161abcb971915d4a26f64fafe0f249120f0058f9f36b1c91f9097",
+      "knn": 0.589753373671057,
+      "rep": 0.5299442603034163
+    },
+    {
+      "c_score": 3.6367431381831565,
+      "detector_service_ns": 20446875,
+      "family_s_affirms": true,
+      "item_key": "7867559a056de650cbf1e1af9dfff6dbbc4970a0391d291df183b526d4137fc1",
+      "knn": 0.6256280613534831,
+      "rep": 0.9795477054127646
+    },
+    {
+      "c_score": 0.905821334873455,
+      "detector_service_ns": 21883417,
+      "family_s_affirms": true,
+      "item_key": "3411aaf50e52d3918ac646c7987934f0fbcfd11af507b9811db60f0dec9b6366",
+      "knn": 0.6340080564032046,
+      "rep": 0.5275193814476458
+    },
+    {
+      "c_score": 2.1358178786181634,
+      "detector_service_ns": 26696334,
+      "family_s_affirms": true,
+      "item_key": "463cb28bc8d7e862388fcb6dcedc06fab8a44fd2d51e909f4620afdc08425b89",
+      "knn": 0.6779922683672865,
+      "rep": 0.6442150976044165
+    },
+    {
+      "c_score": -0.057896871117369644,
+      "detector_service_ns": 18818917,
+      "family_s_affirms": true,
+      "item_key": "5669872bfdaf9c29491403bdc18bf0438ea2dc764e004ab81dd8e4f5e786314c",
+      "knn": 0.5894980179294191,
+      "rep": 0.4543687031383975
+    },
+    {
+      "c_score": 1.3882361470533735,
+      "detector_service_ns": 17661709,
+      "family_s_affirms": true,
+      "item_key": "8d75baafe3793d07b2e14c57eb5ee46e1c7a0b9d9851329f4b41031040438b38",
+      "knn": 0.6756581121291542,
+      "rep": 0.5288945600675116
+    },
+    {
+      "c_score": 3.5706289456892812,
+      "detector_service_ns": 21013334,
+      "family_s_affirms": true,
+      "item_key": "7144e91a4b9c5d8e3e1ce346a7699e554328ccd1f936a1dd43c4e3e852d0c8d3",
+      "knn": 0.6432160536445521,
+      "rep": 0.9369723201602199
+    },
+    {
+      "c_score": -0.7695399950608964,
+      "detector_service_ns": 24438334,
+      "family_s_affirms": true,
+      "item_key": "b70c747920267d762bc43bdec102fd64c73a6837e952eaa426e73c41b435ef19",
+      "knn": 0.45569774412339115,
+      "rep": 0.5839972024305706
+    },
+    {
+      "c_score": 0.29590178367628295,
+      "detector_service_ns": 18924708,
+      "family_s_affirms": true,
+      "item_key": "3112194366ed7471cd906e7d14699bcb9fa40ba7af585573d5a497a5b39e9aad",
+      "knn": 0.6063928530092381,
+      "rep": 0.48021496851500967
+    },
+    {
+      "c_score": 0.3708964522142565,
+      "detector_service_ns": 29645208,
+      "family_s_affirms": true,
+      "item_key": "af618694c27d118ae22404dd58891683b7f1f6eaff8fffd38d0cc1d7a6cae7f8",
+      "knn": 0.5716910327986431,
+      "rep": 0.5553490966587925
+    },
+    {
+      "c_score": 3.798109338122665,
+      "detector_service_ns": 17038708,
+      "family_s_affirms": true,
+      "item_key": "5c6c5d3de23143386732bfbed6152a4a3d2850b2c60d7433484eabb947397b89",
+      "knn": 0.6651121124239483,
+      "rep": 0.9335156959124161
+    },
+    {
+      "c_score": 3.4771389426015493,
+      "detector_service_ns": 19036958,
+      "family_s_affirms": true,
+      "item_key": "1a4e9c4c5a3b344ad63e92dabff30df078f1807524728ea3997509908e522bd4",
+      "knn": 0.6241917774744328,
+      "rep": 0.9566340645680602
+    },
+    {
+      "c_score": 2.268339437440183,
+      "detector_service_ns": 22010708,
+      "family_s_affirms": true,
+      "item_key": "c3f70b79f261178776c0e96b0f771701735380fe820380a35c905ebf3ff56c82",
+      "knn": 0.6617687834374579,
+      "rep": 0.6949289084766843
+    },
+    {
+      "c_score": 0.7148718200482772,
+      "detector_service_ns": 24452042,
+      "family_s_affirms": true,
+      "item_key": "50a67d92f00ec9b2664b7d7a5992c33dc453b20282e40c00d1c828153755f2b1",
+      "knn": 0.6253377154719416,
+      "rep": 0.5127546816985783
+    },
+    {
+      "c_score": 0.48305381299950934,
+      "detector_service_ns": 23104958,
+      "family_s_affirms": true,
+      "item_key": "0bffa4dd6bf7a03acc341185d3d7a473419d0602afec4cb991992e2065b68853",
+      "knn": 0.6360754147334217,
+      "rep": 0.4561408141674149
+    },
+    {
+      "c_score": 0.9382847291260757,
+      "detector_service_ns": 29944458,
+      "family_s_affirms": true,
+      "item_key": "a2898a42551880b12dd2747db750e3bb50726f19a097cb22c0656d7d230af3dd",
+      "knn": 0.7117040336182402,
+      "rep": 0.391344631551168
+    },
+    {
+      "c_score": -0.029355817053050737,
+      "detector_service_ns": 16706750,
+      "family_s_affirms": true,
+      "item_key": "ddd9a6a305d04fad2169e52871792fbc2b66c667b83cd00bf6f825c804928c16",
+      "knn": 0.6166071479374409,
+      "rep": 0.40960878973189574
+    },
+    {
+      "c_score": 2.1019013525508603,
+      "detector_service_ns": 21065042,
+      "family_s_affirms": true,
+      "item_key": "0864f459b4dd7a0584d09d093c5a2809728c7aaab5c8f677963cd0fb6bf83b71",
+      "knn": 0.6500291900605166,
+      "rep": 0.6896690120163684
+    },
+    {
+      "c_score": 2.867899734721656,
+      "detector_service_ns": 19794958,
+      "family_s_affirms": true,
+      "item_key": "4e855f1a5f0daf3c0b5cf34409dc9b5facb7cb1a459f8c4d83546d06d0f98c92",
+      "knn": 0.6213476305803463,
+      "rep": 0.864367819964326
+    },
+    {
+      "c_score": 1.1534216223555904,
+      "detector_service_ns": 20255000,
+      "family_s_affirms": true,
+      "item_key": "f4b9ea01c7f08fd55d9ce71453ed01bd8b58c2bafbc273b8693a2e43128bb35f",
+      "knn": 0.6507760013476078,
+      "rep": 0.5366112566119997
+    },
+    {
+      "c_score": 2.3469914450777924,
+      "detector_service_ns": 20653375,
+      "family_s_affirms": true,
+      "item_key": "51dd7a2b44b4c465969b306b4daabecb76a40317bc626093bdc90f711e2b69df",
+      "knn": 0.63888218253437,
+      "rep": 0.7491503357674826
+    },
+    {
+      "c_score": 1.8206770141117823,
+      "detector_service_ns": 19573916,
+      "family_s_affirms": true,
+      "item_key": "1104797fe838773f9f5ca6ad4f6203307680345d95d69d820f89c534714329cf",
+      "knn": 0.5666199331726738,
+      "rep": 0.7964524193514896
+    },
+    {
+      "c_score": 1.482485250146023,
+      "detector_service_ns": 20384917,
+      "family_s_affirms": true,
+      "item_key": "4b0c882403ad89677c8e65c0c72b6f76a711e9e5b037eb64223b51253c3f35a7",
+      "knn": 0.6476262439032183,
+      "rep": 0.5949723250971469
+    },
+    {
+      "c_score": 1.3620456831877246,
+      "detector_service_ns": 19878292,
+      "family_s_affirms": true,
+      "item_key": "64a5d46e5bc80d90c4fafe6f031c235ee50ea831a843c1966f52012914019c35",
+      "knn": 0.4371710268836101,
+      "rep": 0.9586301210065622
+    },
+    {
+      "c_score": 2.0142587616996988,
+      "detector_service_ns": 19045625,
+      "family_s_affirms": true,
+      "item_key": "d2400bc32cc779acacce49e1b5e819d2a7094f5b6b2fc117882eee6d3e7fb292",
+      "knn": 0.5056445523063557,
+      "rep": 0.9383576852416122
+    },
+    {
+      "c_score": -2.3792843448790615,
+      "detector_service_ns": 21211250,
+      "family_s_affirms": true,
+      "item_key": "863064333782d74dd0213da8ad5022f2a817541ce76b1606a1ca6db3feac063b",
+      "knn": 0.45709640019331343,
+      "rep": 0.32399139219545253
+    },
+    {
+      "c_score": 0.9072296791168702,
+      "detector_service_ns": 19581708,
+      "family_s_affirms": true,
+      "item_key": "5c70d12ae58b6751146a73fa642f6cb36d742fddb0b345f840cb417b6a8576a7",
+      "knn": 0.6023332106167387,
+      "rep": 0.5853766389877212
+    },
+    {
+      "c_score": -0.6385935867850517,
+      "detector_service_ns": 21207250,
+      "family_s_affirms": true,
+      "item_key": "091a943a199e5d731a800e59066c6555c22ebea63a57ef82aeed08cbf6f31e8b",
+      "knn": 0.4669302487584046,
+      "rep": 0.5845032360566841
+    },
+    {
+      "c_score": 3.449178961681069,
+      "detector_service_ns": 18398166,
+      "family_s_affirms": true,
+      "item_key": "a81c78060424b3d37a2c74e2ded05f42e7f51b640520f8946d65373b7d40a7cc",
+      "knn": 0.6456691835285164,
+      "rep": 0.9130842849633335
+    },
+    {
+      "c_score": -1.723527015636375,
+      "detector_service_ns": 28222000,
+      "family_s_affirms": true,
+      "item_key": "2bc9c334a6f32e64ee431d48313f9294d15c28952bea369722743214e6385afb",
+      "knn": 0.5153143299433164,
+      "rep": 0.3229457558665959
+    },
+    {
+      "c_score": 3.9785389308030297,
+      "detector_service_ns": 21545500,
+      "family_s_affirms": true,
+      "item_key": "360b486b2b478b3e63c7fc509124d83873b08074939d4f150e5581ecc30a59f6",
+      "knn": 0.6725403330526791,
+      "rep": 0.9488578726130182
+    },
+    {
+      "c_score": -1.1158624970372533,
+      "detector_service_ns": 20793083,
+      "family_s_affirms": true,
+      "item_key": "a177255c049d03ee3ee2c560c468a3bafe0f1e942b95d8d45e4791f50e4e0b71",
+      "knn": 0.5731176138769627,
+      "rep": 0.3149626445637086
+    },
+    {
+      "c_score": 4.223431447677768,
+      "detector_service_ns": 20768542,
+      "family_s_affirms": true,
+      "item_key": "343bd1aab3c75329959d63b93ed783b8478d8dca8aae25a8c6165c7d487d9a31",
+      "knn": 0.7094646838170107,
+      "rep": 0.9208423268880719
+    },
+    {
+      "c_score": 0.3989906290629288,
+      "detector_service_ns": 30190583,
+      "family_s_affirms": true,
+      "item_key": "ca46b5f9998ab12de21b50243bed77c27823ce103f5cf756a84804294c5b2c4a",
+      "knn": 0.5829302493737847,
+      "rep": 0.5393928304456551
+    },
+    {
+      "c_score": 4.3458312921026465,
+      "detector_service_ns": 19456916,
+      "family_s_affirms": true,
+      "item_key": "6a8896717f72c95d38c90b831ee953478e88a387d929759911a336b9a0835a07",
+      "knn": 0.7041637489579001,
+      "rep": 0.9500638294145609
+    },
+    {
+      "c_score": 4.716741403769377,
+      "detector_service_ns": 17397333,
+      "family_s_affirms": true,
+      "item_key": "3411f53f3e0c20ee78121572421843f761bd913d74d59cdf1a4831af6bcf7beb",
+      "knn": 0.7213809549846293,
+      "rep": 0.9780603347052581
+    },
+    {
+      "c_score": 2.35405103008016,
+      "detector_service_ns": 22283250,
+      "family_s_affirms": true,
+      "item_key": "c7c5aeffaf12a92d30b8484ed18795e517c2228a391a8512e576b4b44c8e19dd",
+      "knn": 0.5320292973179546,
+      "rep": 0.9446970033798915
+    },
+    {
+      "c_score": -0.5708963934133517,
+      "detector_service_ns": 27273042,
+      "family_s_affirms": true,
+      "item_key": "bf8c2c08e06538fa86551e730f975a7469304cbc9282288e18b81c61aab08af1",
+      "knn": 0.5284820740948659,
+      "rep": 0.48333784022470416
+    },
+    {
+      "c_score": 2.989172237460936,
+      "detector_service_ns": 23625083,
+      "family_s_affirms": true,
+      "item_key": "0956dca8bd5dc4247844b0b006d3b06bb43ead060380f54f0f884fa58d11e54f",
+      "knn": 0.6360670298319261,
+      "rep": 0.8569822547620158
+    },
+    {
+      "c_score": 3.7130983689172457,
+      "detector_service_ns": 18811167,
+      "family_s_affirms": true,
+      "item_key": "1c8e52911c076b158ea4b415aab230f0c746bb8baf4b551c5397f4e06849dc26",
+      "knn": 0.6407297672232979,
+      "rep": 0.964282512294871
+    },
+    {
+      "c_score": -0.3754169866528292,
+      "detector_service_ns": 20815875,
+      "family_s_affirms": true,
+      "item_key": "882b8c83ad976b82a6aa776d2c364e87dda3ef5ade114f815c862fe94d68ed82",
+      "knn": 0.4710350517313002,
+      "rep": 0.6191268092289746
+    },
+    {
+      "c_score": -1.4026956048875385,
+      "detector_service_ns": 18981584,
+      "family_s_affirms": true,
+      "item_key": "84ed33306b6411adcc70357d2bed37bb629372200e0f191a3927c4cf8c3a9daa",
+      "knn": 0.4925933868390393,
+      "rep": 0.41559971289907305
+    },
+    {
+      "c_score": -1.988210717854226,
+      "detector_service_ns": 17010291,
+      "family_s_affirms": true,
+      "item_key": "4150cf4351b19210606c66fa303e3b3e3daa3a126d75858caa07b44cf96cf5f9",
+      "knn": 0.5958427069907606,
+      "rep": 0.13409206541633228
+    },
+    {
+      "c_score": 2.725368713085304,
+      "detector_service_ns": 29201042,
+      "family_s_affirms": true,
+      "item_key": "13deded4f8ecf9c44b675db822cb3bca91b08a6ab30f1d9a293c2090cbe4a3a9",
+      "knn": 0.6737624750936548,
+      "rep": 0.7462033532903829
+    },
+    {
+      "c_score": 2.447951698303355,
+      "detector_service_ns": 19109167,
+      "family_s_affirms": true,
+      "item_key": "bc035bab41ac4e908db75b93d7a9eb9077d44bf28ed2fedacb79f216384a09cb",
+      "knn": 0.7427089057910853,
+      "rep": 0.5763863237812392
+    },
+    {
+      "c_score": 1.1694669400277617,
+      "detector_service_ns": 22038750,
+      "family_s_affirms": true,
+      "item_key": "100c96a7e7b6decf11bcd33a2c7b664adda5fa646696551c3a2a9ad38d5d2561",
+      "knn": 0.6942047162504367,
+      "rep": 0.46015949484673907
+    },
+    {
+      "c_score": 2.879047463523037,
+      "detector_service_ns": 29124417,
+      "family_s_affirms": true,
+      "item_key": "7f2dbf0ea1a6e85a9a852c01cf34a9be1225637a730bcb4b8e08c0355bae4bd9",
+      "knn": 0.7262375152475692,
+      "rep": 0.675304869057145
+    },
+    {
+      "c_score": 0.713012555758489,
+      "detector_service_ns": 21933041,
+      "family_s_affirms": true,
+      "item_key": "5baddb1edf77fb3f9f86e8e1aba4825a6f2a86704903679d3d124f3a84b238d0",
+      "knn": 0.6861042525017208,
+      "rep": 0.40189331535232964
+    },
+    {
+      "c_score": 0.6246585034959915,
+      "detector_service_ns": 28333750,
+      "family_s_affirms": true,
+      "item_key": "d3ea5003c7dda6787c41347976fa1ec6cb236c1b3149d4be16e022a58454714c",
+      "knn": 0.5439564066208274,
+      "rep": 0.6463983816889791
+    },
+    {
+      "c_score": 1.855847780784591,
+      "detector_service_ns": 25206833,
+      "family_s_affirms": true,
+      "item_key": "5f80bf58b43a60a0f234a8788d56ae45ea9750f0924b429380959bb74ef3d8d6",
+      "knn": 0.6164768711657467,
+      "rep": 0.711363487518142
+    },
+    {
+      "c_score": 1.9014692617432756,
+      "detector_service_ns": 24438541,
+      "family_s_affirms": true,
+      "item_key": "4218852847f226561681aaa19ad4c08fd1c57c63b58469b841f0ac63f0af38fe",
+      "knn": 0.490872426065717,
+      "rep": 0.9471959499319373
+    },
+    {
+      "c_score": 0.963392000997529,
+      "detector_service_ns": 20961750,
+      "family_s_affirms": true,
+      "item_key": "f26c4748fb5b94736a6a356b4dd3654455eb504aaf5d9e6583c8bc052f0195a9",
+      "knn": 0.6410210923814171,
+      "rep": 0.5239670424916629
+    },
+    {
+      "c_score": 0.3389480495410811,
+      "detector_service_ns": 22427209,
+      "family_s_affirms": true,
+      "item_key": "773de4fa62b0b373df93d3864f0e3c811b3804e5cd4b6cf6489b368bd26bfca5",
+      "knn": 0.6013408842037081,
+      "rep": 0.49629174476945326
+    },
+    {
+      "c_score": 0.41018372229907274,
+      "detector_service_ns": 18737791,
+      "family_s_affirms": true,
+      "item_key": "807902a21e3bcde2aeaa8b0a0f704ec510e908d5fc564956bf5c7a033235a3be",
+      "knn": 0.6715269716053514,
+      "rep": 0.379982351959099
+    },
+    {
+      "c_score": 0.834443879215524,
+      "detector_service_ns": 19963416,
+      "family_s_affirms": true,
+      "item_key": "80970f0e4796e0bd7fd11db440d0fdeba6ce65b5178451bf3f5f1c260d242f26",
+      "knn": 0.6278774071780314,
+      "rep": 0.5272579833986084
+    },
+    {
+      "c_score": 3.361214287534282,
+      "detector_service_ns": 19306667,
+      "family_s_affirms": true,
+      "item_key": "820f09751238365ef91b3275ce1cd4e7c2ef2195667cb01bfa95d0996bd80659",
+      "knn": 0.6219469932785027,
+      "rep": 0.9421775444556517
+    },
+    {
+      "c_score": -1.4712409845882974,
+      "detector_service_ns": 19275583,
+      "family_s_affirms": true,
+      "item_key": "4e8d0bc6b346714d4fb0c91e4222a08f6e10163b3a2a8d4ed46eba89ce2c162b",
+      "knn": 0.5060509988238856,
+      "rep": 0.38015066413941623
+    },
+    {
+      "c_score": 2.9054606528971765,
+      "detector_service_ns": 22062083,
+      "family_s_affirms": true,
+      "item_key": "cf85bdcf9016264bbeda8cf92d9f284df012706d584e86edc614a0a0343478f4",
+      "knn": 0.5764816153761354,
+      "rep": 0.9520084627764275
+    },
+    {
+      "c_score": -1.5040243286002484,
+      "detector_service_ns": 30779000,
+      "family_s_affirms": true,
+      "item_key": "fb3076f1635830da601c7b9b581e8e483ebe6a92213845ca356ee399b7fa42d0",
+      "knn": 0.584891827179455,
+      "rep": 0.2314573701693909
+    },
+    {
+      "c_score": -0.8216552822852281,
+      "detector_service_ns": 19442167,
+      "family_s_affirms": true,
+      "item_key": "6acecb44b95bb4cb950268abe9d4d1ac377ac92cdec48e646bab63783eb7134c",
+      "knn": 0.38717790774570326,
+      "rep": 0.7003329673346488
+    },
+    {
+      "c_score": 2.1150219243852195,
+      "detector_service_ns": 19735041,
+      "family_s_affirms": true,
+      "item_key": "a2e99c07087fcf5a9bd0ceed1cb51c461d89a93793e7fe2ee4c24bded60e9350",
+      "knn": 0.6402767032724774,
+      "rep": 0.7095120384109213
+    },
+    {
+      "c_score": 4.130660341739176,
+      "detector_service_ns": 72636959,
+      "family_s_affirms": true,
+      "item_key": "758da00bdd7eacc651dcc425e9438fb147ae64419c36f9f674810d7a5ea2c580",
+      "knn": 0.6830057758705291,
+      "rep": 0.9541462758452514
+    },
+    {
+      "c_score": 2.0275398201784895,
+      "detector_service_ns": 29933083,
+      "family_s_affirms": true,
+      "item_key": "e0d7041e3f385e1a468f46ae23b83c969c7323d0ec44bfc111f175ef0a1217d4",
+      "knn": 0.6234108520531713,
+      "rep": 0.7262074516811028
+    },
+    {
+      "c_score": 3.7558913609099474,
+      "detector_service_ns": 20920250,
+      "family_s_affirms": true,
+      "item_key": "25e21ce620253b14821e82e1095ec4a9ec305c90d7049e054915bb25e8c3952f",
+      "knn": 0.7266287664410465,
+      "rep": 0.8148345666028569
+    },
+    {
+      "c_score": 0.586961138214832,
+      "detector_service_ns": 20584583,
+      "family_s_affirms": true,
+      "item_key": "9d537e537550eb3dd6aca75401a42dd21881ba391642f1ad153fb64b67b47891",
+      "knn": 0.5675033360286724,
+      "rep": 0.5975257408083964
+    },
+    {
+      "c_score": 2.644217924926675,
+      "detector_service_ns": 16424584,
+      "family_s_affirms": true,
+      "item_key": "79c636b61e65073a006b3d6233232084661d6bc98d2af67d0b4f1748ec3b3722",
+      "knn": 0.7506620838429879,
+      "rep": 0.5933062427314343
+    },
+    {
+      "c_score": 1.8279571519371167,
+      "detector_service_ns": 19114083,
+      "family_s_affirms": true,
+      "item_key": "bb6db5d0d665fff0f947fb51e3a040389c773dec626bf4bba0d78c4022569248",
+      "knn": 0.702293562538603,
+      "rep": 0.5507602292522158
+    },
+    {
+      "c_score": 0.12705573990339347,
+      "detector_service_ns": 22691250,
+      "family_s_affirms": true,
+      "item_key": "f0d07d36d469ed61b0a0d3a5f52952cbaaf810be6e44ceea30f1b8d3509a9131",
+      "knn": 0.6594474025575306,
+      "rep": 0.35667776659801625
+    },
+    {
+      "c_score": 0.19715202922763753,
+      "detector_service_ns": 23366917,
+      "family_s_affirms": true,
+      "item_key": "b19a308003088a3605cd9cda4058da9b97290b83ecee35201692ee425deed71a",
+      "knn": 0.5334260440248828,
+      "rep": 0.5971832755313005
+    },
+    {
+      "c_score": -0.6611369002819717,
+      "detector_service_ns": 26242791,
+      "family_s_affirms": true,
+      "item_key": "0ae3a66d9fb097c023db5a47eff84976afddb73c20d226e36842458940fbec89",
+      "knn": 0.5770114887159187,
+      "rep": 0.38060616234149364
+    },
+    {
+      "c_score": 2.377764423264956,
+      "detector_service_ns": 19192792,
+      "family_s_affirms": true,
+      "item_key": "eda4a7ede56ed8686bb5d21f710017aad7abf85acf14bf500b87bc7e5532aa11",
+      "knn": 0.546649208512926,
+      "rep": 0.9218889448306188
+    },
+    {
+      "c_score": 2.5310659178923975,
+      "detector_service_ns": 19463667,
+      "family_s_affirms": true,
+      "item_key": "763b7882667437a9d2108f590cf6fe02d1b9aba7ac9eb3fc21724ccff9294d55",
+      "knn": 0.5888066019197074,
+      "rep": 0.8697029592251659
+    },
+    {
+      "c_score": 2.7060856076612874,
+      "detector_service_ns": 17670834,
+      "family_s_affirms": true,
+      "item_key": "93acf43d16ed1c10747eb27b15458217f7d0199131596af0bc46515faac5a902",
+      "knn": 0.5541786676178996,
+      "rep": 0.9607005590774312
+    },
+    {
+      "c_score": 3.0386599659675415,
+      "detector_service_ns": 20868042,
+      "family_s_affirms": true,
+      "item_key": "ee92f7aed057412628e0acb615a5abb6d29e4930b1aed515866065ef0dfaf205",
+      "knn": 0.6031958132706763,
+      "rep": 0.9247060655595687
+    },
+    {
+      "c_score": 1.3576383262865233,
+      "detector_service_ns": 18338542,
+      "family_s_affirms": true,
+      "item_key": "55b051b5aef495a4e8a5a2b4b3d77601763978e828c58f4eaaadb53c4718b1d0",
+      "knn": 0.48228090668864076,
+      "rep": 0.8758483183171679
+    },
+    {
+      "c_score": 1.6468458915480004,
+      "detector_service_ns": 24013209,
+      "family_s_affirms": true,
+      "item_key": "9581f8dba6130b9250b671754c79f26c1728530205408f5c6f7728f8a37ae38f",
+      "knn": 0.6074855949482215,
+      "rep": 0.6942954462360326
+    },
+    {
+      "c_score": 1.8751936138236789,
+      "detector_service_ns": 19508208,
+      "family_s_affirms": true,
+      "item_key": "0f9046d9f8d4bf62fe9e40562bf6e5669fc7f379ea4ca55962cbb5ad03abfb96",
+      "knn": 0.708636658051826,
+      "rep": 0.5467739963266365
+    },
+    {
+      "c_score": 0.9399965276759298,
+      "detector_service_ns": 20035083,
+      "family_s_affirms": true,
+      "item_key": "61e1924b666cd247b54fb82c8d6a638668112f9875d73f0167be14d606a85afc",
+      "knn": 0.6575331902643148,
+      "rep": 0.4901816255199698
+    },
+    {
+      "c_score": 1.6458579686739012,
+      "detector_service_ns": 29552292,
+      "family_s_affirms": true,
+      "item_key": "90cc03c2be1a1a6d8c964c4bb13b281d23696528e2000d8d25ca8c440e365d2a",
+      "knn": 0.6009477084908854,
+      "rep": 0.7060330460919859
+    },
+    {
+      "c_score": -0.19102968366769157,
+      "detector_service_ns": 26128875,
+      "family_s_affirms": true,
+      "item_key": "77600aed9bf39e1b698aab271035dd3f7f18de0ec4b7e5c803b12622ef58d58c",
+      "knn": 0.6415088121627831,
+      "rep": 0.3384425417574066
+    },
+    {
+      "c_score": 0.257451861182445,
+      "detector_service_ns": 21001500,
+      "family_s_affirms": true,
+      "item_key": "6130a4e1089b8fe4124d1c89e6a5ffbc75dfca293db39d9a8feb6c4a2aa7b375",
+      "knn": 0.6299815482349514,
+      "rep": 0.43114597194046406
+    },
+    {
+      "c_score": 1.259171776761273,
+      "detector_service_ns": 29163125,
+      "family_s_affirms": true,
+      "item_key": "ed1425bc73cefb7e82d5abec9fb2e42625b6f7236ee965c96762ea7a7f41d3e0",
+      "knn": 0.6159089118916357,
+      "rep": 0.616965093198569
+    },
+    {
+      "c_score": 2.874352676738119,
+      "detector_service_ns": 20742125,
+      "family_s_affirms": true,
+      "item_key": "a16e630551d1e86673b7ce8de1a505ddb0afa4ae20445208294d36a615a47285",
+      "knn": 0.6039522935659067,
+      "rep": 0.8970505078623201
+    },
+    {
+      "c_score": 2.984957713950576,
+      "detector_service_ns": 24392959,
+      "family_s_affirms": true,
+      "item_key": "3920649bcd9dc303fdafb5e0f5d18a677b645270215b2b6c8712f2f509ac7e3a",
+      "knn": 0.6006806025666853,
+      "rep": 0.9206933749334395
+    },
+    {
+      "c_score": 3.3346422293872537,
+      "detector_service_ns": 19981417,
+      "family_s_affirms": true,
+      "item_key": "6b23c4a3d2f05bb90d27800c0bf7db07043e5b5342d99ea6e2fe48a15812225b",
+      "knn": 0.6110968399851153,
+      "rep": 0.957669360826214
+    },
+    {
+      "c_score": 3.28898909699184,
+      "detector_service_ns": 21319541,
+      "family_s_affirms": true,
+      "item_key": "2bdfb0d5a4ddd44bddb7f4cf3bf5974ff7ea7aa29c8fc0dd8a0de05aaf9092d8",
+      "knn": 0.6000429609459621,
+      "rep": 0.9704800450190255
+    },
+    {
+      "c_score": 0.1894294837859387,
+      "detector_service_ns": 18888584,
+      "family_s_affirms": true,
+      "item_key": "747ccded8b1d96e78ab80c67fae3bda98f004e41dfc4adbe1e55eb80e0dc86ad",
+      "knn": 0.6549479595318561,
+      "rep": 0.3748404470654794
+    },
+    {
+      "c_score": 0.9167390101945446,
+      "detector_service_ns": 19922166,
+      "family_s_affirms": true,
+      "item_key": "cad4406b7c0c52869954075f3539701b25d60f3d4852c27525104f961c6ee150",
+      "knn": 0.6874988434471057,
+      "rep": 0.4319396878879213
+    },
+    {
+      "c_score": -0.09147627233978461,
+      "detector_service_ns": 17932208,
+      "family_s_affirms": true,
+      "item_key": "f224cf0479c38d58a16b3060d02b90d0c8aefa23a949388e70afd7ae7500b896",
+      "knn": 0.7206964823387201,
+      "rep": 0.21028398728992548
+    },
+    {
+      "c_score": 1.5635724628098895,
+      "detector_service_ns": 23392542,
+      "family_s_affirms": true,
+      "item_key": "d1cddcf2c288f1e25e5a7c6fc057bbb79606d0ccf6750cac38878b1df4a4a9ee",
+      "knn": 0.5782436078857136,
+      "rep": 0.7341822242282428
+    },
+    {
+      "c_score": 2.4087206543586466,
+      "detector_service_ns": 31808042,
+      "family_s_affirms": true,
+      "item_key": "4eca750829a077d94beb166cf7298d773c81c9a63fe5980827660f7fb9756b7c",
+      "knn": 0.727261114732562,
+      "rep": 0.5982188217535389
+    },
+    {
+      "c_score": 1.9914912667779028,
+      "detector_service_ns": 29992542,
+      "family_s_affirms": true,
+      "item_key": "a36cc29162a6786c3bbc245a95837960d20a241b5e62a2f97032e3e9dd2238e3",
+      "knn": 0.6449805240254203,
+      "rep": 0.6811961167786605
+    },
+    {
+      "c_score": -0.373940060527594,
+      "detector_service_ns": 44386541,
+      "family_s_affirms": true,
+      "item_key": "c54db9979faa759a86540bed22609eaa34d2882e60da111628ac37c6d098654b",
+      "knn": 0.572765865296158,
+      "rep": 0.4342650119993411
+    },
+    {
+      "c_score": -0.1676759526413511,
+      "detector_service_ns": 55164333,
+      "family_s_affirms": true,
+      "item_key": "e607c5535be79280db77ff431d83e3581313f5a070efb635a62216c950e5fb8c",
+      "knn": 0.6076709312318082,
+      "rep": 0.4037453404073169
+    },
+    {
+      "c_score": 2.1037906202404315,
+      "detector_service_ns": 53994250,
+      "family_s_affirms": true,
+      "item_key": "73adbf8a384e4f4f70618c05980b307fec15e434ce78fecebeb116d7170e984e",
+      "knn": 0.607106864968149,
+      "rep": 0.7680678439273287
+    },
+    {
+      "c_score": 2.8047821856350246,
+      "detector_service_ns": 38275375,
+      "family_s_affirms": true,
+      "item_key": "f31021eb895fd2c601e5f017184cf5d72d4fec3559ab0fd43c8b6cc6098ce0c9",
+      "knn": 0.620097435476671,
+      "rep": 0.8565475747640215
+    },
+    {
+      "c_score": 2.212354737282026,
+      "detector_service_ns": 78926250,
+      "family_s_affirms": true,
+      "item_key": "6c1f329b9f992405e2369104461077b8c486a90b85c144db42d765c6ef466d70",
+      "knn": 0.6696975138936214,
+      "rep": 0.671548537521208
+    },
+    {
+      "c_score": 0.33469238214141805,
+      "detector_service_ns": 23963666,
+      "family_s_affirms": true,
+      "item_key": "8721956c6867a011c95bca3e1c47dbc93167bbb291ddebd26d81e933d67a3b93",
+      "knn": 0.6104770813258482,
+      "rep": 0.4789878944912969
+    },
+    {
+      "c_score": 0.8062233227991078,
+      "detector_service_ns": 39106625,
+      "family_s_affirms": true,
+      "item_key": "25ac87f3b99552aa2783d9a62abe324a03ffbcde0c8441d41ac22a419600737f",
+      "knn": 0.6156044392159863,
+      "rep": 0.5450749350400605
+    },
+    {
+      "c_score": -1.509633639774884,
+      "detector_service_ns": 59993416,
+      "family_s_affirms": true,
+      "item_key": "4b75e3d6839583de91e5888cd128ad7fd2d692c2b94b8f51062c5ab37338a1fe",
+      "knn": 0.5971657163125471,
+      "rep": 0.20822802579494168
+    },
+    {
+      "c_score": 1.6956617488687282,
+      "detector_service_ns": 29565250,
+      "family_s_affirms": true,
+      "item_key": "edf09122990cfd5822b08c628bf3dbf1fffa4d4e4ebb93b405b99a25d7482d67",
+      "knn": 0.6599027460770822,
+      "rep": 0.6067306195497308
+    },
+    {
+      "c_score": 0.0600116756214526,
+      "detector_service_ns": 23963208,
+      "family_s_affirms": true,
+      "item_key": "a05ee16c2adfe3fa5224e1fca6ab3201cbf39307abe7e486fa53d626c07da7f7",
+      "knn": 0.6589859997434857,
+      "rep": 0.3467943200447556
+    },
+    {
+      "c_score": 2.785769412523057,
+      "detector_service_ns": 112418250,
+      "family_s_affirms": true,
+      "item_key": "a800fe31a159215a7ac8edc3d623fab94bd2a6e739b64bf85695d5da0befd5e5",
+      "knn": 0.6233278422951802,
+      "rep": 0.8476290029090889
+    },
+    {
+      "c_score": -0.15448190043883575,
+      "detector_service_ns": 40678334,
+      "family_s_affirms": true,
+      "item_key": "9e19e89c4225581694e26c297198eeaec431998d053e7b6cb350460ae4c40833",
+      "knn": 0.6226666342202656,
+      "rep": 0.37857107978448024
+    },
+    {
+      "c_score": 2.993670889587575,
+      "detector_service_ns": 31012083,
+      "family_s_affirms": true,
+      "item_key": "a986e59cd07dc252bd17e2b7381aefd523c01a8dba5aaefdf68f6532f99891fb",
+      "knn": 0.616309935488543,
+      "rep": 0.8936495650072408
+    },
+    {
+      "c_score": 0.3805019005621425,
+      "detector_service_ns": 27826083,
+      "family_s_affirms": true,
+      "item_key": "7901557aeab91ee610c32816aaf5b9bc05faec6b35ebe72f1f3ff5e7320a9c15",
+      "knn": 0.5202701611869439,
+      "rep": 0.6504450522786087
+    },
+    {
+      "c_score": 2.3625814359008905,
+      "detector_service_ns": 38246583,
+      "family_s_affirms": true,
+      "item_key": "425e198868a44d7fc87d3c37bf5d918d807303cc6e167507ebfe4f847c706f30",
+      "knn": 0.6753598301671984,
+      "rep": 0.685273134372368
+    },
+    {
+      "c_score": -0.9259227333516384,
+      "detector_service_ns": 23431333,
+      "family_s_affirms": true,
+      "item_key": "f6012a1fc857fbb7aff954026246b60409b3e896383c2cd57769469bbd7e0244",
+      "knn": 0.5525619861746462,
+      "rep": 0.38274215089402625
+    },
+    {
+      "c_score": 2.781709487636421,
+      "detector_service_ns": 33955458,
+      "family_s_affirms": true,
+      "item_key": "760688f3efe669cfdfcf4e19fd58d0c7bdb8bb511bd2c703c8fbbdb3fce2e079",
+      "knn": 0.5766509104020525,
+      "rep": 0.9319077894372165
+    },
+    {
+      "c_score": 0.3112861494885686,
+      "detector_service_ns": 49101042,
+      "family_s_affirms": true,
+      "item_key": "dff4fc040b9b890d76b2cc8a194e5bb138f31217750e13c4b7afe30adcf2ecd6",
+      "knn": 0.5697552565365077,
+      "rep": 0.5493372039191915
+    },
+    {
+      "c_score": 1.131404348412942,
+      "detector_service_ns": 27611542,
+      "family_s_affirms": true,
+      "item_key": "c04e1abd80b7869775cdf0b61938d12a5957a9239079201528a424e81f104316",
+      "knn": 0.6256075593973938,
+      "rep": 0.5788835181418205
+    },
+    {
+      "c_score": 2.4748470385802195,
+      "detector_service_ns": 31760917,
+      "family_s_affirms": true,
+      "item_key": "ec5595e2e8d6d36e9ae7e08ecb798557ffe53d9b79fa303243c0bf593a1e3736",
+      "knn": 0.547210811014637,
+      "rep": 0.9363944163623072
+    },
+    {
+      "c_score": 2.6644870749098315,
+      "detector_service_ns": 27616792,
+      "family_s_affirms": true,
+      "item_key": "29f7c44164cbf3b661e7616a2a4588296bc9b7987f236ef52525cb80ed826616",
+      "knn": 0.5636503873102342,
+      "rep": 0.9368136472645069
+    }
+  ],
+  "keys_source": "safe input frozen sets",
+  "measurement_name": "promotion-path replay driven by real D1 outputs and measured service times",
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "phase": "calibration",
+  "safe_inputs_sha256": "5784dbf469f004068f3f6b183f44ff51e36de0035ae8cc146ddb7291d22cf39b",
+  "schema_version": "W2D-score-v1",
+  "score_order_rule": "SHA256(\"W2D-score-order|\" + item_key)",
+  "scorer_py_sha256": "ef3d480c6dba8be60bdb5f2c5440760e38ec3b52f59837b27a8012557b9e7783",
+  "threshold": null,
+  "warmup_item_key": "002d88ec99bd2ec2761081b25c47161f6b692788c62863936fc75454c19a9b34",
+  "z_statistics": {
+    "knn": {
+      "mean": 0.5820851655784148,
+      "std": 0.08790331441012
+    },
+    "rep": {
+      "mean": 0.47711627076096824,
+      "std": 0.1599390437630126
+    }
+  }
+}

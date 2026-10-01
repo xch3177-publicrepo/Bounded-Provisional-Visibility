@@ -1,0 +1,3612 @@
+{
+  "detector_py_sha256": "f0510df5cb8805bb21fec20351662a4de11ea987f0c978651fe62e5ddf7a9ca3",
+  "embeddings_sha256": "1249c7cd23a03d3cde4e4c46ff3ec67ff9d59e6a3fd05978bb7c6da00bba1c45",
+  "items": [
+    {
+      "c_score": 1.261958839055667,
+      "detector_service_ns": 26693708,
+      "family_s_affirms": true,
+      "item_key": "47dabe199e207189f848552075e65a605a92285be6cd29642ad6a8184c065954",
+      "promote": true
+    },
+    {
+      "c_score": -0.4467773751141797,
+      "detector_service_ns": 19645209,
+      "family_s_affirms": true,
+      "item_key": "48cb15bee23059af3eed56d9ac354b3e2d3c3333d0222cf3dc2bb0ce3e801539",
+      "promote": true
+    },
+    {
+      "c_score": 1.420672817755984,
+      "detector_service_ns": 27223334,
+      "family_s_affirms": true,
+      "item_key": "62b5a15e7de4ca96e2b3b4a226cff4a3c49a98a3a1d0d111efb9614255935d85",
+      "promote": false
+    },
+    {
+      "c_score": 1.7459392660204511,
+      "detector_service_ns": 28315083,
+      "family_s_affirms": true,
+      "item_key": "58b6eedf77fa8b3759fed9e1932bb5549d9eb4729c259cb2d4b49917bcbe8646",
+      "promote": false
+    },
+    {
+      "c_score": 1.8491831316144876,
+      "detector_service_ns": 17753667,
+      "family_s_affirms": true,
+      "item_key": "4e5d74bb39932d0fcb3b6ce387448a48daa95c47fd84c6c5b88a7aebff09c2d8",
+      "promote": false
+    },
+    {
+      "c_score": 2.165288139324475,
+      "detector_service_ns": 28275500,
+      "family_s_affirms": true,
+      "item_key": "77b1b456f633e30d1908e4d6a1a104f0f57958e7dd27fc823133dce2f4c483ec",
+      "promote": false
+    },
+    {
+      "c_score": -0.13981928824729506,
+      "detector_service_ns": 21835667,
+      "family_s_affirms": true,
+      "item_key": "0ce71a084ee0bb0386cb5141c2d12c81c2d89bc73380e3694d55c4b96ba748f9",
+      "promote": true
+    },
+    {
+      "c_score": -2.961527665915124,
+      "detector_service_ns": 37013458,
+      "family_s_affirms": true,
+      "item_key": "c3997a9070d618d78d145a1f15074432b8d36044313474f9fc2a82a8bc3c1829",
+      "promote": true
+    },
+    {
+      "c_score": -1.0346255873262036,
+      "detector_service_ns": 22095084,
+      "family_s_affirms": true,
+      "item_key": "a90317cb4aaa340df3a0d1922307a1d39d0496c28a411db4cdf415ab6c1f45f0",
+      "promote": true
+    },
+    {
+      "c_score": 0.5039598801156477,
+      "detector_service_ns": 28008667,
+      "family_s_affirms": true,
+      "item_key": "547656dc5fc357958820529714843882933411dc3ebe2dd29d1eb3187f427b90",
+      "promote": true
+    },
+    {
+      "c_score": 1.280734018879753,
+      "detector_service_ns": 37385625,
+      "family_s_affirms": true,
+      "item_key": "fc687f231da23a397712875861fab06834cd2c6a8f7896851c93a53657f3cc28",
+      "promote": true
+    },
+    {
+      "c_score": 3.2244023037730383,
+      "detector_service_ns": 20761500,
+      "family_s_affirms": true,
+      "item_key": "703b566af31bcbd080eae83e905b87b5250ce631d5fb23046f408d3dd179faa5",
+      "promote": false
+    },
+    {
+      "c_score": 1.5949105752537132,
+      "detector_service_ns": 26517792,
+      "family_s_affirms": true,
+      "item_key": "9b759430fd85317d21240438d1f146117ec4c5b0b1a5928e26ab6ae21fb21b3f",
+      "promote": false
+    },
+    {
+      "c_score": -0.14743687435036368,
+      "detector_service_ns": 30608250,
+      "family_s_affirms": true,
+      "item_key": "6457222c509f9b51585e2e6eacae15af6f6c7124d399faa5165593b9ae92d98c",
+      "promote": true
+    },
+    {
+      "c_score": 0.16181475577599186,
+      "detector_service_ns": 17132792,
+      "family_s_affirms": true,
+      "item_key": "9c416a03b74289c57e358d540d0a9581f7ed3c587d9557812d68c8b7deb554fd",
+      "promote": true
+    },
+    {
+      "c_score": 4.234176425483305,
+      "detector_service_ns": 16083375,
+      "family_s_affirms": true,
+      "item_key": "0f6f65420134559f94201006d07c3789194336215bb2b5f3e4495f1506141886",
+      "promote": false
+    },
+    {
+      "c_score": 3.55324236881898,
+      "detector_service_ns": 15902542,
+      "family_s_affirms": true,
+      "item_key": "b6cfe22b44697c91680e31b299cb8f422de3860fa97f13ca1bdf82471442a0f5",
+      "promote": false
+    },
+    {
+      "c_score": 3.2303334324304505,
+      "detector_service_ns": 20465791,
+      "family_s_affirms": true,
+      "item_key": "d6dd33d59f248777ccc059a44faa01eba42e5d7df041e2e4ff6c91c626f65403",
+      "promote": false
+    },
+    {
+      "c_score": -0.43799738465568494,
+      "detector_service_ns": 20466000,
+      "family_s_affirms": true,
+      "item_key": "9b11a7393a037fd18fdd4c25032d8ddb9b9ec06f00cb146e0323ccc8238239ec",
+      "promote": true
+    },
+    {
+      "c_score": 1.1669331757602663,
+      "detector_service_ns": 27976667,
+      "family_s_affirms": true,
+      "item_key": "6ac2863d0969a30dd38b2d20d90ccb62cd136ce2ae5e9ff565371cfb1c0f2f9f",
+      "promote": true
+    },
+    {
+      "c_score": -0.034928836207213314,
+      "detector_service_ns": 22875500,
+      "family_s_affirms": true,
+      "item_key": "4ce9ba8716ba4495949cda0f597f01be3f1949220e07c265a3d40ba51b5b86f9",
+      "promote": true
+    },
+    {
+      "c_score": 1.1319151473579625,
+      "detector_service_ns": 27286417,
+      "family_s_affirms": true,
+      "item_key": "7e3812b5929b457c5bc6414922ba6b1e7ad9fae9c5406b028552b14a64fd0aca",
+      "promote": true
+    },
+    {
+      "c_score": 0.826734114058783,
+      "detector_service_ns": 26671875,
+      "family_s_affirms": true,
+      "item_key": "df6fa9da38808290e995f4a0c48b09830844d6e005d8603c33681025760f2391",
+      "promote": true
+    },
+    {
+      "c_score": 2.826094123263541,
+      "detector_service_ns": 20971792,
+      "family_s_affirms": true,
+      "item_key": "011913b533767db9889a6321800a1fd588afbe33bfbb933bba5b99dee444a39d",
+      "promote": false
+    },
+    {
+      "c_score": 3.0109047505740762,
+      "detector_service_ns": 17009459,
+      "family_s_affirms": true,
+      "item_key": "072823da0655848d42dea81237a3ec55730cd65645855d816481814647a45778",
+      "promote": false
+    },
+    {
+      "c_score": 3.3349110343936865,
+      "detector_service_ns": 16725125,
+      "family_s_affirms": true,
+      "item_key": "07aabc5feec4d7562b1daf2137384bc2c4dd78de3ac4c2818cd9759fc6997521",
+      "promote": false
+    },
+    {
+      "c_score": 1.5009801990521812,
+      "detector_service_ns": 26077375,
+      "family_s_affirms": true,
+      "item_key": "16d297e62aada74b2fc7f5cd5ad58c8739d4c3e229f01abe38a9ca76749f38d5",
+      "promote": false
+    },
+    {
+      "c_score": -1.2108272746102609,
+      "detector_service_ns": 30362958,
+      "family_s_affirms": true,
+      "item_key": "f939327b9a8a6e888641930cefaa86bcd54194a976b99c2e1f721f5974689d6a",
+      "promote": true
+    },
+    {
+      "c_score": 1.2796852630855557,
+      "detector_service_ns": 41663292,
+      "family_s_affirms": true,
+      "item_key": "529b08ecd3ebfe00ade41caff759fd3f3eccb84954e441f9afcc231a887bc0f3",
+      "promote": true
+    },
+    {
+      "c_score": -0.24566641221241933,
+      "detector_service_ns": 17893042,
+      "family_s_affirms": true,
+      "item_key": "023bd4c62ee663aafcb1007872f2164d1c458d64c3d7d4b897512ea24df2d065",
+      "promote": true
+    },
+    {
+      "c_score": 0.9187732424864977,
+      "detector_service_ns": 31873291,
+      "family_s_affirms": true,
+      "item_key": "83da4fb811399b89c12ed37e96951e32c2476367b031e93f4810940d717473d6",
+      "promote": true
+    },
+    {
+      "c_score": 3.710374426666366,
+      "detector_service_ns": 18009208,
+      "family_s_affirms": true,
+      "item_key": "a072f3304f4491520f55f3f95ddb77bb346386c1cdac9aed1f0dc322192e4152",
+      "promote": false
+    },
+    {
+      "c_score": 3.699910438419108,
+      "detector_service_ns": 16197542,
+      "family_s_affirms": true,
+      "item_key": "e8efc4dbdc6f1e1bf415ea7e761f46f758fb21bd3168ebf4de20076c8d488b2f",
+      "promote": false
+    },
+    {
+      "c_score": -1.9023421931045292,
+      "detector_service_ns": 24100542,
+      "family_s_affirms": true,
+      "item_key": "099fdd292df53d45e27f226d2f251538eff3bbb0dcfd7240bd7b2e7d96a7c116",
+      "promote": true
+    },
+    {
+      "c_score": 2.170597120060764,
+      "detector_service_ns": 22756666,
+      "family_s_affirms": true,
+      "item_key": "c9a8dee743fa8c98aae240276308e1cb5eed113dc5b5f1d0cddb8c8f0871d979",
+      "promote": false
+    },
+    {
+      "c_score": -0.9267842462644782,
+      "detector_service_ns": 17532125,
+      "family_s_affirms": true,
+      "item_key": "09a6549d93b34bfe54ea48ccbef811c22a4f0321edcd4fb88b5f8aa6580da1b9",
+      "promote": true
+    },
+    {
+      "c_score": -1.1864652444436956,
+      "detector_service_ns": 22333458,
+      "family_s_affirms": true,
+      "item_key": "253f4bfa8414a7dff445006efd124acfcb8e25b03b21957b5535d529c78960b9",
+      "promote": true
+    },
+    {
+      "c_score": -0.0729237836095254,
+      "detector_service_ns": 22393333,
+      "family_s_affirms": true,
+      "item_key": "ed638b15393552a63c53a5889dfcf64c40e29c2c82b51af3d47608ae4259b701",
+      "promote": true
+    },
+    {
+      "c_score": -0.98657499331864,
+      "detector_service_ns": 26196167,
+      "family_s_affirms": true,
+      "item_key": "f726ee48543b61b583898435fb8809095f98a27403290954a8a4f1744d353dde",
+      "promote": true
+    },
+    {
+      "c_score": 1.8031805365524516,
+      "detector_service_ns": 27792875,
+      "family_s_affirms": true,
+      "item_key": "04b2174a42584d3da6808da04563190d533e95a839c66f6e69277b43e327d260",
+      "promote": false
+    },
+    {
+      "c_score": -1.2537086351973095,
+      "detector_service_ns": 37675541,
+      "family_s_affirms": true,
+      "item_key": "aa3cee79f404e19b9638365b4dc3a2055840d1780dc051f11d33220b0d18afc6",
+      "promote": true
+    },
+    {
+      "c_score": 0.4984822448152829,
+      "detector_service_ns": 32849042,
+      "family_s_affirms": true,
+      "item_key": "14c96cc08b7c99f23f96cb44846d56e49f2b584e64cb26131c4f06b7d41d8d63",
+      "promote": true
+    },
+    {
+      "c_score": 2.4736040088615834,
+      "detector_service_ns": 22784500,
+      "family_s_affirms": true,
+      "item_key": "70f02edfafbf60f20357c21ded23f03c00c2a50441337c283f44dfe528d53227",
+      "promote": false
+    },
+    {
+      "c_score": 1.8764788244793187,
+      "detector_service_ns": 25510958,
+      "family_s_affirms": true,
+      "item_key": "08d95bd7889458e57f34c32a33d310bd022f4df82c117cc3da02dc1d4a9473ff",
+      "promote": false
+    },
+    {
+      "c_score": 3.439009539600505,
+      "detector_service_ns": 24235333,
+      "family_s_affirms": true,
+      "item_key": "5ed18f5b73b05ac69b941464a5afba576c8212deb09e6c4ab415f7a62f2c7eda",
+      "promote": false
+    },
+    {
+      "c_score": 0.7247530223627215,
+      "detector_service_ns": 28176709,
+      "family_s_affirms": true,
+      "item_key": "474fd945c959ddd5b57b6275b4ea8da0d592586529853e210d56153bddfbedc0",
+      "promote": true
+    },
+    {
+      "c_score": -0.45874429561804575,
+      "detector_service_ns": 36111500,
+      "family_s_affirms": true,
+      "item_key": "60d8b0e732e6a7bb22814cacae06fe4623f4b61a0524f6fcf783acc27d6261d5",
+      "promote": true
+    },
+    {
+      "c_score": -1.6345412379569213,
+      "detector_service_ns": 24171750,
+      "family_s_affirms": true,
+      "item_key": "630728d964b1e8c2c25ec6279e83fd38b45dfc18b057348677367185acd98298",
+      "promote": true
+    },
+    {
+      "c_score": -0.9120344202002638,
+      "detector_service_ns": 43427541,
+      "family_s_affirms": true,
+      "item_key": "0ed7a1e033a0df172704cd8bd9ef1a33aaaf404c861f10f760b412976b7c231e",
+      "promote": true
+    },
+    {
+      "c_score": 2.689790862844892,
+      "detector_service_ns": 31728083,
+      "family_s_affirms": true,
+      "item_key": "9a7879df23ed99757e065d3f93b4d7c3b8ca055bac0c7fe94f6400793dfce291",
+      "promote": false
+    },
+    {
+      "c_score": -0.5727516302716692,
+      "detector_service_ns": 30104334,
+      "family_s_affirms": true,
+      "item_key": "be7e2f2d9fc078a6569279f53a1667a4e7c5eae571944f787d1e53e5365de682",
+      "promote": true
+    },
+    {
+      "c_score": 3.597147679764077,
+      "detector_service_ns": 24838208,
+      "family_s_affirms": true,
+      "item_key": "48c677f1d64633d23e1eca0b18310a13b9bc43851b9264944c710a0d2566c1a4",
+      "promote": false
+    },
+    {
+      "c_score": -2.3617099040690253,
+      "detector_service_ns": 30762375,
+      "family_s_affirms": true,
+      "item_key": "c27400ae82bf43e156056135bb4d65b284f51ce725d8f49d47e957c580626ea2",
+      "promote": true
+    },
+    {
+      "c_score": -2.574800977662485,
+      "detector_service_ns": 30374291,
+      "family_s_affirms": true,
+      "item_key": "edb094b43be40025cd796022f9f46a49bf4b8005766fffbeb19d6c12dcaf982e",
+      "promote": true
+    },
+    {
+      "c_score": 0.33655999614990867,
+      "detector_service_ns": 25365750,
+      "family_s_affirms": true,
+      "item_key": "400bf80071caba4f9a18199bcc1494b63b3fc7087bad453d00db50bd340d2641",
+      "promote": true
+    },
+    {
+      "c_score": 2.799736221343135,
+      "detector_service_ns": 23266250,
+      "family_s_affirms": true,
+      "item_key": "327da47705fbce36e60a641624e92520818810d326a44d0cd6aa47e025c07d7c",
+      "promote": false
+    },
+    {
+      "c_score": 1.8054852551083544,
+      "detector_service_ns": 32097208,
+      "family_s_affirms": true,
+      "item_key": "ea71b45a26761c1752c399386a34c049b7f8eed735db54f9d089c2e14ae0a4f7",
+      "promote": false
+    },
+    {
+      "c_score": 1.8874149325467768,
+      "detector_service_ns": 27750041,
+      "family_s_affirms": true,
+      "item_key": "5794e59782e674d83794ccc688c06c9194bf0a3a436f5b6dc2744b1f5313fce1",
+      "promote": false
+    },
+    {
+      "c_score": -0.7583047541832455,
+      "detector_service_ns": 27321583,
+      "family_s_affirms": true,
+      "item_key": "8b0166d7d74e13747a253b492ed61fad64e16e7824d9c6dd4359ebedec99f5a6",
+      "promote": true
+    },
+    {
+      "c_score": 3.0734413402350755,
+      "detector_service_ns": 34632584,
+      "family_s_affirms": true,
+      "item_key": "92fb551163eecfe0c09c8a4f4c9545bc92e965922c57508199db8599bd86d511",
+      "promote": false
+    },
+    {
+      "c_score": -0.9523403388578274,
+      "detector_service_ns": 37329250,
+      "family_s_affirms": true,
+      "item_key": "23b7ef5cc7b4317c9f49efae5886511b0807884a07a84e09a473abf4af6a806c",
+      "promote": true
+    },
+    {
+      "c_score": 1.8953161738751874,
+      "detector_service_ns": 27572667,
+      "family_s_affirms": true,
+      "item_key": "aebf2055825f963d23b99951f49b1d90ac6ea30ccbd0cd1a95465c3457a32c97",
+      "promote": false
+    },
+    {
+      "c_score": -1.8729060152503099,
+      "detector_service_ns": 28872167,
+      "family_s_affirms": true,
+      "item_key": "54fa910b2b49bc0edaa8b0a5b20c09b69202c0582f56a5c5b417d83d6d7f5e2b",
+      "promote": true
+    },
+    {
+      "c_score": 0.21927001273292743,
+      "detector_service_ns": 25584916,
+      "family_s_affirms": true,
+      "item_key": "e3e921aeb2cc0be9ddcb1fcae6d244af97db0abeca24dbd37c224ad9404a8f3e",
+      "promote": true
+    },
+    {
+      "c_score": 4.149341944060938,
+      "detector_service_ns": 20743792,
+      "family_s_affirms": true,
+      "item_key": "e92cde48e0385783dbedc958186b265c3ae22b9354b668270519a8aeb3a90642",
+      "promote": false
+    },
+    {
+      "c_score": -0.716527243884975,
+      "detector_service_ns": 26487125,
+      "family_s_affirms": true,
+      "item_key": "29876e111e5f0c08d949289a9852c9087cc48fd3fbebf57f3afccd8bbce0d031",
+      "promote": true
+    },
+    {
+      "c_score": 0.11188120351743114,
+      "detector_service_ns": 25737542,
+      "family_s_affirms": true,
+      "item_key": "f53df99a437e58832a6b43d8c3d75c037366d3970342fbc9eb01f31b6f135aa2",
+      "promote": true
+    },
+    {
+      "c_score": 3.309612825520392,
+      "detector_service_ns": 28710666,
+      "family_s_affirms": true,
+      "item_key": "49b90961b85ba66e275f3233b991779c53d191535b46d203818f0f46f4e5389c",
+      "promote": false
+    },
+    {
+      "c_score": 3.2633628859753703,
+      "detector_service_ns": 20893792,
+      "family_s_affirms": true,
+      "item_key": "b7c798c73824353986572a0f717529e5bdd73681a1280ed6e8d9232921179850",
+      "promote": false
+    },
+    {
+      "c_score": -1.1935292995713045,
+      "detector_service_ns": 35702709,
+      "family_s_affirms": true,
+      "item_key": "e84870575a137fe56f981c7ce87b68ca57aeb9c2713491e071e666eabaaaa1d6",
+      "promote": true
+    },
+    {
+      "c_score": 0.6589702136660351,
+      "detector_service_ns": 23013209,
+      "family_s_affirms": true,
+      "item_key": "c796181e8e6a55674f931738cba2bdcf22a29c97c4fd85eb5d21c7fed8c3c611",
+      "promote": true
+    },
+    {
+      "c_score": -0.5813765568508027,
+      "detector_service_ns": 18307792,
+      "family_s_affirms": true,
+      "item_key": "018a3b921b7f8f999e2aa0c3542d56cd48928f27676d6a56d3daf21629b70069",
+      "promote": true
+    },
+    {
+      "c_score": 0.990770198579587,
+      "detector_service_ns": 36403834,
+      "family_s_affirms": true,
+      "item_key": "c42c8a5af4b05f423d1e13a6912466a3eecbde1beb1113b84b448f36f1dac4e4",
+      "promote": true
+    },
+    {
+      "c_score": 0.44925557571658087,
+      "detector_service_ns": 28689500,
+      "family_s_affirms": true,
+      "item_key": "d1c3c94fea161bd569b25af6459e40ebae6d601abe76545b3ec33dc2de749c57",
+      "promote": true
+    },
+    {
+      "c_score": 1.5914924615179606,
+      "detector_service_ns": 20526250,
+      "family_s_affirms": true,
+      "item_key": "0b82e582f87f5c3aaa22a365cd36331c1e7c8e5b92df627c4e1805e95d3d06bc",
+      "promote": false
+    },
+    {
+      "c_score": 2.5320712497282925,
+      "detector_service_ns": 24291500,
+      "family_s_affirms": true,
+      "item_key": "54eaa9b3df1dcf7431adab18a59a6baefb6bbbd31097477b3fd0857eeabdec1d",
+      "promote": false
+    },
+    {
+      "c_score": -0.057958727773196994,
+      "detector_service_ns": 23464208,
+      "family_s_affirms": true,
+      "item_key": "a94bee144793b3b90f4d23ad6b41109b27afb44c3876b87e5c9276670215b032",
+      "promote": true
+    },
+    {
+      "c_score": 3.000958542776256,
+      "detector_service_ns": 23744042,
+      "family_s_affirms": true,
+      "item_key": "23d9f650325837e776d91d669d6edda7eb795a8c760ab1f9d035952de27359f6",
+      "promote": false
+    },
+    {
+      "c_score": -1.2347355528189645,
+      "detector_service_ns": 21525500,
+      "family_s_affirms": true,
+      "item_key": "aec06b03dabdc35f39b849b41db1794f11e4a5106bc43ed77989686b033d332c",
+      "promote": true
+    },
+    {
+      "c_score": 3.0593526826898474,
+      "detector_service_ns": 26085458,
+      "family_s_affirms": true,
+      "item_key": "ec2a00490a34854f7f6e25e7c4a9ff0aaa8bf274bf29b89422543b531931f4b9",
+      "promote": false
+    },
+    {
+      "c_score": 3.1962194521868725,
+      "detector_service_ns": 22707000,
+      "family_s_affirms": true,
+      "item_key": "20ad87e76b97ed87ef200678995f7d18f54fc4afb06b17a90151d757b7612dea",
+      "promote": false
+    },
+    {
+      "c_score": 2.5652812035919235,
+      "detector_service_ns": 38259584,
+      "family_s_affirms": true,
+      "item_key": "aeb8103965123c4477662b9013a95fb884aaeba16c884c54df08f9a77fdd2f19",
+      "promote": false
+    },
+    {
+      "c_score": 1.6911247003862684,
+      "detector_service_ns": 24939792,
+      "family_s_affirms": true,
+      "item_key": "1e8c9afd469f4fcaec326ef7ea5c7a85539372b144276c8d247f04ab27960128",
+      "promote": false
+    },
+    {
+      "c_score": 2.121653615682404,
+      "detector_service_ns": 31504583,
+      "family_s_affirms": true,
+      "item_key": "b0c6a98ef1f92796d209e6add6c293acb19db482b7cdcffdf77529fff464392e",
+      "promote": false
+    },
+    {
+      "c_score": 0.7701242845901244,
+      "detector_service_ns": 37608625,
+      "family_s_affirms": true,
+      "item_key": "3915e0094ae0f1bd9c5c708495d9458eddae5c5b83e56cc41f08b8a30dd51abb",
+      "promote": true
+    },
+    {
+      "c_score": -0.5046157753719448,
+      "detector_service_ns": 21249667,
+      "family_s_affirms": true,
+      "item_key": "65adccfd084745905cca97b4b843e4ab7d87a4264ed05addace0d196b48736b4",
+      "promote": true
+    },
+    {
+      "c_score": 3.9552791251352186,
+      "detector_service_ns": 28109333,
+      "family_s_affirms": true,
+      "item_key": "71ff4b7a601f7612c547b2f931f22926e641c07549c242e43e62ac456bbe1acd",
+      "promote": false
+    },
+    {
+      "c_score": -3.426525309788858,
+      "detector_service_ns": 29583625,
+      "family_s_affirms": true,
+      "item_key": "e6951f6beb032c31663717564c3bb5338dca6cf1647687106feea86d6f230211",
+      "promote": true
+    },
+    {
+      "c_score": 0.9698431589229983,
+      "detector_service_ns": 33697292,
+      "family_s_affirms": true,
+      "item_key": "82c3c2864b351c8bfee9d2f62d84ed351e7a082177341e9cf2094a1ae43ee438",
+      "promote": true
+    },
+    {
+      "c_score": 2.5822639000650653,
+      "detector_service_ns": 20849333,
+      "family_s_affirms": true,
+      "item_key": "2ff6a6241d5c3918e403d4d0bef8581c737f703a717310c4af5bf078ddf24398",
+      "promote": false
+    },
+    {
+      "c_score": 3.700160956269265,
+      "detector_service_ns": 21861334,
+      "family_s_affirms": true,
+      "item_key": "64c65cb3c136a16ccf93f813b651314ede5de30a22b1b80c5c7c22215443c0d8",
+      "promote": false
+    },
+    {
+      "c_score": 2.507141409844746,
+      "detector_service_ns": 21721709,
+      "family_s_affirms": true,
+      "item_key": "16c8c0dbb5f223a9dc42aa08991924159768c207ce0cdcfbb5e9effa5f73b47b",
+      "promote": false
+    },
+    {
+      "c_score": 0.12995119126246757,
+      "detector_service_ns": 34426750,
+      "family_s_affirms": true,
+      "item_key": "a0d15120ed1e146379c2df464d56e58c2b02d51db6146638a41edfd1915f7755",
+      "promote": true
+    },
+    {
+      "c_score": 1.51512984987001,
+      "detector_service_ns": 26287333,
+      "family_s_affirms": true,
+      "item_key": "ca1de83b9a3bd8d856825dec201ba2921cec7564b9d8ff86df31205f6a3389ed",
+      "promote": false
+    },
+    {
+      "c_score": -1.2108265505471911,
+      "detector_service_ns": 25826417,
+      "family_s_affirms": true,
+      "item_key": "b80698e84ac9a6ca0ad9a3586ccbb5d4f578fa92fb8408ec4c1aee7207a4bafd",
+      "promote": true
+    },
+    {
+      "c_score": -1.3921194288292336,
+      "detector_service_ns": 20029875,
+      "family_s_affirms": true,
+      "item_key": "67d01f1a33204f2e9f5e5e17171db59fa9a7201143f86e0c9c08c8166d60970a",
+      "promote": true
+    },
+    {
+      "c_score": 0.3264927520482002,
+      "detector_service_ns": 32313833,
+      "family_s_affirms": true,
+      "item_key": "27dd4cf775688b93ad5010e40ee881adece64da01d7efe98b64d6244a9b7b5fb",
+      "promote": true
+    },
+    {
+      "c_score": 3.663401915515372,
+      "detector_service_ns": 24503542,
+      "family_s_affirms": true,
+      "item_key": "c5a0be4934a5b99c50f509e667c0d976f7ae04f23222a3cffb0286eda27d92d0",
+      "promote": false
+    },
+    {
+      "c_score": -1.1330127819207574,
+      "detector_service_ns": 32977500,
+      "family_s_affirms": true,
+      "item_key": "04123b731fcb9d68b7d3b4e61ed952b11138d688e11a23adea5659e59d14d2bf",
+      "promote": true
+    },
+    {
+      "c_score": 1.0197590132089416,
+      "detector_service_ns": 25109666,
+      "family_s_affirms": true,
+      "item_key": "2b3cad1ab84b8a64b69e664c10cc2b264d791527d300e081db50c900efe56f1a",
+      "promote": true
+    },
+    {
+      "c_score": -0.16648858236474529,
+      "detector_service_ns": 20807583,
+      "family_s_affirms": true,
+      "item_key": "d37c7e71886185ed9e77ec798de5dd5eaa2d5551c41a6b51fc90c55e300ddccc",
+      "promote": true
+    },
+    {
+      "c_score": -0.8510111441946211,
+      "detector_service_ns": 18960000,
+      "family_s_affirms": true,
+      "item_key": "17634749b5e7dbb67cb042ae43ec865efa08f9292478da5528197efe460929e3",
+      "promote": true
+    },
+    {
+      "c_score": -0.16910733445057635,
+      "detector_service_ns": 29518750,
+      "family_s_affirms": true,
+      "item_key": "50e5acdfd082bbe389db99d73155557240850eaec5b59156b625f6d2f7958a99",
+      "promote": true
+    },
+    {
+      "c_score": -0.8061510209693543,
+      "detector_service_ns": 29156542,
+      "family_s_affirms": true,
+      "item_key": "7119fcd08d6c3d7fe91ad189860c6023fc6cc7dc85d16a9de16b1978ebd84e2d",
+      "promote": true
+    },
+    {
+      "c_score": -1.6987478126398528,
+      "detector_service_ns": 36291792,
+      "family_s_affirms": true,
+      "item_key": "d0b0546daeb617587f0aca5efc664599cab7f054d26fcd16e38f616e0ca23ff2",
+      "promote": true
+    },
+    {
+      "c_score": 1.287337655570623,
+      "detector_service_ns": 36672625,
+      "family_s_affirms": true,
+      "item_key": "4af19a150521059c5c83371cb71e364ddc9c3f237ede240a55691e2a6f399cb5",
+      "promote": true
+    },
+    {
+      "c_score": -2.3184823842210966,
+      "detector_service_ns": 30809250,
+      "family_s_affirms": true,
+      "item_key": "14e4ed62e1c14b5e12a275040b65b6c875a9ef54d0979d480a1cc7c6a01c78e6",
+      "promote": true
+    },
+    {
+      "c_score": 0.13967032088550768,
+      "detector_service_ns": 19002125,
+      "family_s_affirms": true,
+      "item_key": "d066aa89d6a1b074685f33c2a15ecd343506a25fadfe9072cd64191b7d615eff",
+      "promote": true
+    },
+    {
+      "c_score": 1.8621615760632861,
+      "detector_service_ns": 24473125,
+      "family_s_affirms": true,
+      "item_key": "caa896661ede3be252e364e345c794a114ce3f7a61473f720a00e57cb07587d7",
+      "promote": false
+    },
+    {
+      "c_score": 1.2662618275729567,
+      "detector_service_ns": 20468666,
+      "family_s_affirms": true,
+      "item_key": "a643fc62445a7536fe7e6dd5e29093d5134df97e913dd279c58005160559aeb3",
+      "promote": true
+    },
+    {
+      "c_score": 2.447148811974251,
+      "detector_service_ns": 26872083,
+      "family_s_affirms": true,
+      "item_key": "2204fdd011089c419840dec5852a8cd3f2f2a61b95d638973a4ae02359b5cfea",
+      "promote": false
+    },
+    {
+      "c_score": 0.647273989494578,
+      "detector_service_ns": 24857125,
+      "family_s_affirms": true,
+      "item_key": "dea4983d6db9047e5cc05799bd06aadff00dc70310f1b203c204070c8e7ddabd",
+      "promote": true
+    },
+    {
+      "c_score": 2.537041163425296,
+      "detector_service_ns": 20196416,
+      "family_s_affirms": true,
+      "item_key": "04448506ddbeb788b1ae1044a142615c9ae98c1f466b1847b3bd1ed2c020d8e7",
+      "promote": false
+    },
+    {
+      "c_score": -0.5228484373747083,
+      "detector_service_ns": 39318000,
+      "family_s_affirms": true,
+      "item_key": "9f36ea242397f52b5a3def1af5341d3cb5829de43661d5f80500e1f1515beb24",
+      "promote": true
+    },
+    {
+      "c_score": -0.11352410773640531,
+      "detector_service_ns": 31365875,
+      "family_s_affirms": true,
+      "item_key": "d988d6d51af4dddad982ba2e145b845330381dd7ce4cd95ce15d7001fc869487",
+      "promote": true
+    },
+    {
+      "c_score": 1.7421277528351622,
+      "detector_service_ns": 23349500,
+      "family_s_affirms": true,
+      "item_key": "1d8c5e94e0a470ce03e47d64305575d471562331e03215cb190d634af4737f96",
+      "promote": false
+    },
+    {
+      "c_score": 0.43519805798095496,
+      "detector_service_ns": 29013416,
+      "family_s_affirms": true,
+      "item_key": "5914ef0bf096a748d8bc3d960349b405fa5976fc9a4247f9fd900c2b1b792c9d",
+      "promote": true
+    },
+    {
+      "c_score": 2.606272739534633,
+      "detector_service_ns": 25740208,
+      "family_s_affirms": true,
+      "item_key": "75bd24aa53740704c248814c79431b880d48f2eb11ee717d6071e8820b9f9f25",
+      "promote": false
+    },
+    {
+      "c_score": -1.4772244408832267,
+      "detector_service_ns": 32455375,
+      "family_s_affirms": true,
+      "item_key": "fb17ca199d47010afe0aeac57da44226ae86f9f5db9bb09a4943a04293be6bf4",
+      "promote": true
+    },
+    {
+      "c_score": -0.5033569422776694,
+      "detector_service_ns": 22386458,
+      "family_s_affirms": true,
+      "item_key": "c1d3d2305828ef3a1dab91d4d93d414bb5692aa7c8e0d8ddb4561b391f0707e0",
+      "promote": true
+    },
+    {
+      "c_score": 0.3296233890871315,
+      "detector_service_ns": 21867250,
+      "family_s_affirms": true,
+      "item_key": "e4df7c945bb32b457c09b45f9aa03cb900b953effbcd6627554a834a2de6b7e4",
+      "promote": true
+    },
+    {
+      "c_score": 0.25928063525059003,
+      "detector_service_ns": 29187417,
+      "family_s_affirms": true,
+      "item_key": "1bd60b423e67c51ab5b01e6ec91bd954c827d1791a81b61aa067b6ad79137c54",
+      "promote": true
+    },
+    {
+      "c_score": -0.1379653768614741,
+      "detector_service_ns": 33137250,
+      "family_s_affirms": true,
+      "item_key": "da3a443f4d558dd40c00b0d48ca833eecb6f3497b6ae22c198e9c07a245ebad9",
+      "promote": true
+    },
+    {
+      "c_score": 1.3279547291803528,
+      "detector_service_ns": 36753041,
+      "family_s_affirms": true,
+      "item_key": "a88169cee9ed2d60c68a216cd5fb40374d9b4062b05786997dc034565227f09e",
+      "promote": true
+    },
+    {
+      "c_score": -0.6629057154061332,
+      "detector_service_ns": 21199916,
+      "family_s_affirms": true,
+      "item_key": "c61e80d096d02e14485e72071f1540ba4a054d41cc0f3a50235325e64fa1d037",
+      "promote": true
+    },
+    {
+      "c_score": -0.8787174252295201,
+      "detector_service_ns": 22194959,
+      "family_s_affirms": true,
+      "item_key": "0dca5644625a5232dac99ae573d71ebded63e50af89bd6a0460729e2ed0ee32d",
+      "promote": true
+    },
+    {
+      "c_score": 0.37626017965746145,
+      "detector_service_ns": 21378541,
+      "family_s_affirms": true,
+      "item_key": "da5777f94fafcbdc376b254c4227ae780b2a45ce72fa54896044731c3cb1ee5b",
+      "promote": true
+    },
+    {
+      "c_score": -0.4593014701653512,
+      "detector_service_ns": 26737458,
+      "family_s_affirms": true,
+      "item_key": "bda53cdd5e64e8f79195db5fd200d4e398b27c24c59588c42e1dc7a27e2d0647",
+      "promote": true
+    },
+    {
+      "c_score": 0.049239142232228805,
+      "detector_service_ns": 27723542,
+      "family_s_affirms": true,
+      "item_key": "209340796e5e456c384df70d29a2d38b3627434b4e65e17fe9fed982c10f0809",
+      "promote": true
+    },
+    {
+      "c_score": -0.5994429769542172,
+      "detector_service_ns": 35445542,
+      "family_s_affirms": true,
+      "item_key": "d18426b76a8892f6784c1711a2b23bd041e3fc6f6f83ddae78b2c83ee354c037",
+      "promote": true
+    },
+    {
+      "c_score": 1.4029454730627888,
+      "detector_service_ns": 22565792,
+      "family_s_affirms": true,
+      "item_key": "eb9992f94198dd7160dcc29707595b5f537638b6c31c02ccd15f5b7442916053",
+      "promote": false
+    },
+    {
+      "c_score": 3.9043958081597383,
+      "detector_service_ns": 34172667,
+      "family_s_affirms": true,
+      "item_key": "012232fb9cdeefdaf23db24acfaf92aa77a3eebfb228e12554a3e709d70e393b",
+      "promote": false
+    },
+    {
+      "c_score": -1.073960716469026,
+      "detector_service_ns": 28860750,
+      "family_s_affirms": true,
+      "item_key": "1392aedebb5bfe7d73b4e9663f3d235e8204538db798f925ec5cc379ec0be92b",
+      "promote": true
+    },
+    {
+      "c_score": 0.18524054979472365,
+      "detector_service_ns": 22349708,
+      "family_s_affirms": true,
+      "item_key": "1aef03377bc8a62e34a4a949b5a0ecd90a9c9762e5e7fc7a0ed1b102a06f0a38",
+      "promote": true
+    },
+    {
+      "c_score": 1.9970955642957857,
+      "detector_service_ns": 26844875,
+      "family_s_affirms": true,
+      "item_key": "0dfd46d4b9a11773bedeefe9ca3874673d192595ed63ccbbfdac18ac3b5715cc",
+      "promote": false
+    },
+    {
+      "c_score": 2.8937109654323727,
+      "detector_service_ns": 21120666,
+      "family_s_affirms": true,
+      "item_key": "3832e8aa8f1252541611143f1e4f58dd148ec7af90d4ee75c3cfdc9de96bee44",
+      "promote": false
+    },
+    {
+      "c_score": 0.39031882050103095,
+      "detector_service_ns": 24071292,
+      "family_s_affirms": true,
+      "item_key": "d6dbcb7bf8e769ba98cd410039fbc581a3b5c4e83dba0c5fa3075821e4a2e0f7",
+      "promote": true
+    },
+    {
+      "c_score": -0.05337104502304907,
+      "detector_service_ns": 27671167,
+      "family_s_affirms": true,
+      "item_key": "99c26ad48d1a724716e9ea9861d1c88bb0463a47676ec54e5c68f5404354a8ee",
+      "promote": true
+    },
+    {
+      "c_score": -1.7673831247720309,
+      "detector_service_ns": 23266542,
+      "family_s_affirms": true,
+      "item_key": "a2199a2f8e6dbaa0f91d5f7104ed9d6ba5a60e0e035f10fe08ca05b19b197ab3",
+      "promote": true
+    },
+    {
+      "c_score": -1.389904236711495,
+      "detector_service_ns": 28469750,
+      "family_s_affirms": true,
+      "item_key": "77d0215db265e77b2512322a1728dab42a93601344a5748a2348fdaf22e421e2",
+      "promote": true
+    },
+    {
+      "c_score": 0.8373362100941775,
+      "detector_service_ns": 25566750,
+      "family_s_affirms": true,
+      "item_key": "22fee000c6dd9973fc7c7078b1225d90b345818337d40d441dcbb91e190b6987",
+      "promote": true
+    },
+    {
+      "c_score": 2.9978722177618176,
+      "detector_service_ns": 21643500,
+      "family_s_affirms": true,
+      "item_key": "4611b808ba0696af0d5023d25d46e752bb6cf5528450f96732774ba6e3eec953",
+      "promote": false
+    },
+    {
+      "c_score": -0.4703951024826647,
+      "detector_service_ns": 28157750,
+      "family_s_affirms": true,
+      "item_key": "0399debf2eeb10d3ac008a3463656b19cac2497644ea139ec7e503cdfeeeed7d",
+      "promote": true
+    },
+    {
+      "c_score": -1.8967149549090327,
+      "detector_service_ns": 20065792,
+      "family_s_affirms": true,
+      "item_key": "e67f4671f8d85dd828c9a0bba271375e41cc4f576f9af2ee676868d14f16f2ca",
+      "promote": true
+    },
+    {
+      "c_score": 2.3676630080642695,
+      "detector_service_ns": 23645750,
+      "family_s_affirms": true,
+      "item_key": "defe23e08092ba27d68d1d7a5bd520dd936e331827e187ce08214bd0020abcab",
+      "promote": false
+    },
+    {
+      "c_score": -0.17597171491045294,
+      "detector_service_ns": 39161875,
+      "family_s_affirms": true,
+      "item_key": "51ff5f10f6145999e19663655cf90008120e584eec6690482d7ee2cf33c3f766",
+      "promote": true
+    },
+    {
+      "c_score": 1.9251615824101638,
+      "detector_service_ns": 31480834,
+      "family_s_affirms": true,
+      "item_key": "563c6bdfec48e240d5bc863b2faf1f733f2a2045e952cdaa2652c311233c7a55",
+      "promote": false
+    },
+    {
+      "c_score": -0.4293663321740088,
+      "detector_service_ns": 21943750,
+      "family_s_affirms": true,
+      "item_key": "d23157e26ec310da2e2f581d7524fab346bbf65c282529130b4f130caba6c19c",
+      "promote": true
+    },
+    {
+      "c_score": 2.0358964678302067,
+      "detector_service_ns": 25994833,
+      "family_s_affirms": true,
+      "item_key": "95f8a4fac28dbcc5216bbce71d42c380f3b23fb007ae34b7bb31d0d66edbeaef",
+      "promote": false
+    },
+    {
+      "c_score": 1.1783810245562114,
+      "detector_service_ns": 21236791,
+      "family_s_affirms": true,
+      "item_key": "da5572f8fcdcdedc0da91410e71e65987d0d8d562ddd4d9cac880dd416c15acc",
+      "promote": true
+    },
+    {
+      "c_score": 1.1251723514883984,
+      "detector_service_ns": 21560166,
+      "family_s_affirms": true,
+      "item_key": "c4a1b5ccd6ecf6c5ec41388f78e004a80970600eaf315185b2ccf96e9d10db5b",
+      "promote": true
+    },
+    {
+      "c_score": 3.648386944424786,
+      "detector_service_ns": 29556375,
+      "family_s_affirms": true,
+      "item_key": "90b5b061ab39985772444a553322eb6dfe8e49e1d6f007828be6a5e189193dfb",
+      "promote": false
+    },
+    {
+      "c_score": 2.635322709132649,
+      "detector_service_ns": 22743916,
+      "family_s_affirms": true,
+      "item_key": "95e1056504b6bee3d524c90daaa6739aedf307c667b044ccec8a6892f6d54ca8",
+      "promote": false
+    },
+    {
+      "c_score": -0.5773008359992042,
+      "detector_service_ns": 28743959,
+      "family_s_affirms": true,
+      "item_key": "ec648b07157a0e0ba1cf065eca98c3c893ad83c8cf416a5fa5c45e832f8658c1",
+      "promote": true
+    },
+    {
+      "c_score": 0.740596298332423,
+      "detector_service_ns": 16460917,
+      "family_s_affirms": true,
+      "item_key": "bcd75cee7eac08efe10c14e47d8e506acc6b84aaa3d585ab44c78592ff684f5b",
+      "promote": true
+    },
+    {
+      "c_score": 4.280711433972251,
+      "detector_service_ns": 22200666,
+      "family_s_affirms": true,
+      "item_key": "8fee89f94f21d90c22360ecd0c27502633eb633393f1c3cd46d3e101d25faa2a",
+      "promote": false
+    },
+    {
+      "c_score": 0.5451002984659425,
+      "detector_service_ns": 22038625,
+      "family_s_affirms": true,
+      "item_key": "0838598890057e350981b5dbf7847d4f02854869cd8e42375377ca13fc19e67a",
+      "promote": true
+    },
+    {
+      "c_score": 1.5493477345796576,
+      "detector_service_ns": 24042750,
+      "family_s_affirms": true,
+      "item_key": "23544963bd2846a9d6c33d288790436c03948a1af944cabb56d6cd45567758b6",
+      "promote": false
+    },
+    {
+      "c_score": 1.172289396054443,
+      "detector_service_ns": 34982250,
+      "family_s_affirms": true,
+      "item_key": "178b86408595b2cdb6faa6c96ea511bf4810e725eda0a1a40d6e8ad54331cb7d",
+      "promote": true
+    },
+    {
+      "c_score": -0.769703122923345,
+      "detector_service_ns": 36710583,
+      "family_s_affirms": true,
+      "item_key": "6351520f6c87b2115a39d4ed0e57a5b6a1e534484b44347b09326b76bb309e61",
+      "promote": true
+    },
+    {
+      "c_score": 4.3523546802813655,
+      "detector_service_ns": 19480125,
+      "family_s_affirms": true,
+      "item_key": "4f78420803a226ac8980d3f696c7304d24b868e784ca2c3cddde343cbf02c042",
+      "promote": false
+    },
+    {
+      "c_score": 0.6166808560351185,
+      "detector_service_ns": 19125958,
+      "family_s_affirms": true,
+      "item_key": "7615b2640f935efd3b45ec3147bcedf37f87b14585750b26626d0f38835dff56",
+      "promote": true
+    },
+    {
+      "c_score": -1.2337393289911032,
+      "detector_service_ns": 29445875,
+      "family_s_affirms": true,
+      "item_key": "d4e5c97cfe4a5b6baf2b61911d2ac8c20dc7b82e8fd763a86ef7cb1e9032ead0",
+      "promote": true
+    },
+    {
+      "c_score": 0.5213768109693251,
+      "detector_service_ns": 21872750,
+      "family_s_affirms": true,
+      "item_key": "9aadd8702372d2dd8f7c16dcb9a0f7137ecb49fa6f45f6600a225dc9557746dd",
+      "promote": true
+    },
+    {
+      "c_score": 3.9193928485028833,
+      "detector_service_ns": 20598833,
+      "family_s_affirms": true,
+      "item_key": "6bff4989084f969002d220947c915c2abbc53a1ad82012034b888b2a68370fa1",
+      "promote": false
+    },
+    {
+      "c_score": -0.8524933075793042,
+      "detector_service_ns": 29991916,
+      "family_s_affirms": true,
+      "item_key": "b6549e9b6c33dee613602246e929f723a9a2d7c4328eb53c20fd623c7381f728",
+      "promote": true
+    },
+    {
+      "c_score": -0.42728977707385285,
+      "detector_service_ns": 27714333,
+      "family_s_affirms": true,
+      "item_key": "39b41be47f1f5e7124f719ff3fff59e4e46129201ce119b9f264522d9d622a5f",
+      "promote": true
+    },
+    {
+      "c_score": 3.3872208824507166,
+      "detector_service_ns": 23555000,
+      "family_s_affirms": true,
+      "item_key": "54de7778b886379586b50d4da0c82ba4d13e1e3e27e1caa99a44533497d6fa20",
+      "promote": false
+    },
+    {
+      "c_score": 2.9467495044508154,
+      "detector_service_ns": 21846875,
+      "family_s_affirms": true,
+      "item_key": "c3da5840ac6972a706d286aade5ece2be37f5750dfbc8c6248a0784b02e5cd8d",
+      "promote": false
+    },
+    {
+      "c_score": 0.456228496192843,
+      "detector_service_ns": 25214208,
+      "family_s_affirms": true,
+      "item_key": "2c4f915eda0775919fd00272ba1b17416f4f661f46abf4b0445b6a4dc06467a9",
+      "promote": true
+    },
+    {
+      "c_score": 2.459320063330959,
+      "detector_service_ns": 19133792,
+      "family_s_affirms": true,
+      "item_key": "4ed8ea52c654b4079d05c316e36346961abdec9a27858142b9d171f348c4b8f7",
+      "promote": false
+    },
+    {
+      "c_score": -1.4276401921280624,
+      "detector_service_ns": 20965666,
+      "family_s_affirms": true,
+      "item_key": "685995bbd1ef99181b12d01d986cf9ee0c36dd84eee5a01b4d94a810bdeec794",
+      "promote": true
+    },
+    {
+      "c_score": -1.3250131009810184,
+      "detector_service_ns": 21867875,
+      "family_s_affirms": true,
+      "item_key": "486c801beb7351d42fb7313bf447ee6e875777725e37f31d53d7b3b196124494",
+      "promote": true
+    },
+    {
+      "c_score": 0.9148383413725527,
+      "detector_service_ns": 29405625,
+      "family_s_affirms": true,
+      "item_key": "8845527dcfafb55230a38fb94ac475fd3d9dfbe0bccba38be892cca97ba33cf9",
+      "promote": true
+    },
+    {
+      "c_score": 2.8183493652581717,
+      "detector_service_ns": 37967625,
+      "family_s_affirms": true,
+      "item_key": "14da07c906d3a323b6addfc6bfa70be5e710c460003ede824954c93c8b8d516d",
+      "promote": false
+    },
+    {
+      "c_score": -0.14127484510682292,
+      "detector_service_ns": 23250042,
+      "family_s_affirms": true,
+      "item_key": "6622e359847115316424696b89b44b0d91a81c1fbdc5d006eaa654571730dc13",
+      "promote": true
+    },
+    {
+      "c_score": -0.7242437325885352,
+      "detector_service_ns": 23921125,
+      "family_s_affirms": true,
+      "item_key": "8050f7b7ee96c85530ea6b5c5c9b0225d7b3e1a3ae861f1ff330231494c8d0d2",
+      "promote": true
+    },
+    {
+      "c_score": 0.7381628324114221,
+      "detector_service_ns": 22966041,
+      "family_s_affirms": true,
+      "item_key": "5d84429d01d9a3c8335414d3c430a663ca13ad14b267478e21704864c3c9d935",
+      "promote": true
+    },
+    {
+      "c_score": -0.8959697134022014,
+      "detector_service_ns": 34619083,
+      "family_s_affirms": true,
+      "item_key": "5845008471a4e95fe7a0383d1154d0c71e2edbc42d9a827ca6e9e644142156b2",
+      "promote": true
+    },
+    {
+      "c_score": 3.6544371255531782,
+      "detector_service_ns": 21119458,
+      "family_s_affirms": true,
+      "item_key": "5f06530efb621dcd45f947bd4d45f2e2d47364cb6adbf56c50d1db15a8c21cfc",
+      "promote": false
+    },
+    {
+      "c_score": 1.3444381358102466,
+      "detector_service_ns": 28290500,
+      "family_s_affirms": true,
+      "item_key": "f71372a1e47dd8bd5b7652c2bdbb7dd1e910be40ae1d1b30930bde1e428593dd",
+      "promote": true
+    },
+    {
+      "c_score": -0.4529446571602005,
+      "detector_service_ns": 26213167,
+      "family_s_affirms": true,
+      "item_key": "9f6e8ec9deab976e02db2ad1a7c738f5816dbc27d7b2a05b6ecba2e3060d7f1c",
+      "promote": true
+    },
+    {
+      "c_score": -1.3857927769220444,
+      "detector_service_ns": 21966708,
+      "family_s_affirms": true,
+      "item_key": "5c5707a957f84c223419dd3c2a9704a1c229d9c737903ae7bd4eb09060da6402",
+      "promote": true
+    },
+    {
+      "c_score": 2.898573398459083,
+      "detector_service_ns": 24737917,
+      "family_s_affirms": true,
+      "item_key": "be9fdd01871c51c3490b3d0315228d7e425666c612e5ec5e62efb16fc3f3c7f9",
+      "promote": false
+    },
+    {
+      "c_score": -0.5883654102582135,
+      "detector_service_ns": 32945084,
+      "family_s_affirms": true,
+      "item_key": "3cbad267323b8e430c8f7f7e64ea1d24e6b634df9a427a9bd6a669922294afcc",
+      "promote": true
+    },
+    {
+      "c_score": 2.1351504601593407,
+      "detector_service_ns": 18954875,
+      "family_s_affirms": true,
+      "item_key": "65dfb7ce3a58445565a8a8cb4c04d25758c0ce185bee7c20f6791ca08b5ab325",
+      "promote": false
+    },
+    {
+      "c_score": 0.7562839215662047,
+      "detector_service_ns": 33734875,
+      "family_s_affirms": true,
+      "item_key": "ad3be21f3ff754bedabca8ce5c08706eb1b61c9b58c3103e4b8ab7e112e896a0",
+      "promote": true
+    },
+    {
+      "c_score": 0.17505412085528005,
+      "detector_service_ns": 28687625,
+      "family_s_affirms": true,
+      "item_key": "0677b01e5cb6ec070bb11ab82d39f6c9ebed9f67170d1a1317d9e821d7005291",
+      "promote": true
+    },
+    {
+      "c_score": 1.2514853691404857,
+      "detector_service_ns": 28401208,
+      "family_s_affirms": true,
+      "item_key": "3d8cda8ba9784f0dfd629a343f8decd5f0e51d4c7b4f34bd798bc249181d42c0",
+      "promote": true
+    },
+    {
+      "c_score": -1.2071149276074844,
+      "detector_service_ns": 26975042,
+      "family_s_affirms": true,
+      "item_key": "8975b715385c19d36c9a4562c7b7c0aa4f3a57b3945e3e33348c0dd779c56253",
+      "promote": true
+    },
+    {
+      "c_score": 3.4098727138171196,
+      "detector_service_ns": 23815833,
+      "family_s_affirms": true,
+      "item_key": "516d683bc56a6393b2ab23702720f251f6c9c2e0a869c7cd856594d2db47bff3",
+      "promote": false
+    },
+    {
+      "c_score": 0.9712965394778169,
+      "detector_service_ns": 19367917,
+      "family_s_affirms": true,
+      "item_key": "52362d91f4cd443be039694dd7fec0fdd0d547b339179b2a986422be43c92593",
+      "promote": true
+    },
+    {
+      "c_score": 3.472632110961056,
+      "detector_service_ns": 22609417,
+      "family_s_affirms": true,
+      "item_key": "b77651f9e30427e0f33b5fc0a436f128edfdc607be677e806ba2e7ab7b8b6fe3",
+      "promote": false
+    },
+    {
+      "c_score": 2.3341817732844543,
+      "detector_service_ns": 23690209,
+      "family_s_affirms": true,
+      "item_key": "8ebd4dac77899e5881ce5fcf29e6200a43a4675423748e4e95c9182fdbca787e",
+      "promote": false
+    },
+    {
+      "c_score": -1.000133603089339,
+      "detector_service_ns": 32459667,
+      "family_s_affirms": true,
+      "item_key": "34e1ed29faef6f4ecde3474d7a0a6789007b19f192470a0d27bde131b8df875e",
+      "promote": true
+    },
+    {
+      "c_score": -0.7437412792103189,
+      "detector_service_ns": 32990833,
+      "family_s_affirms": true,
+      "item_key": "9b2bade6c5a06107b99e92353e7275461df23422338f93814af3479439ef68c9",
+      "promote": true
+    },
+    {
+      "c_score": -1.1240830004132247,
+      "detector_service_ns": 21051292,
+      "family_s_affirms": true,
+      "item_key": "58dffba759884d12d151352bca7333c00b16832721c6ee32500498a28fa08f16",
+      "promote": true
+    },
+    {
+      "c_score": 3.818979504188748,
+      "detector_service_ns": 20528792,
+      "family_s_affirms": true,
+      "item_key": "6e4cff9cf939e3a2e92abd57b46534b88f0e8a664fe7bdd5c5660c09c00d2e91",
+      "promote": false
+    },
+    {
+      "c_score": 3.548141737783596,
+      "detector_service_ns": 25787542,
+      "family_s_affirms": true,
+      "item_key": "7c2aa0f3ffdb94bc59433a917892e42ecd6434d1d21dfc8aba33390386afcb58",
+      "promote": false
+    },
+    {
+      "c_score": -1.1602175570604931,
+      "detector_service_ns": 33623708,
+      "family_s_affirms": true,
+      "item_key": "36092f5396f5dacb079d855b2295c04029c6aad0bc057dd3f462cc1d13f207c3",
+      "promote": true
+    },
+    {
+      "c_score": 3.493215713793872,
+      "detector_service_ns": 27881666,
+      "family_s_affirms": true,
+      "item_key": "b830b4e072a28ae9b45fa5bab7915364788d7765918ce826ad8412e57dfb8940",
+      "promote": false
+    },
+    {
+      "c_score": 0.643226636357287,
+      "detector_service_ns": 18982542,
+      "family_s_affirms": true,
+      "item_key": "60db35b0a2f60dfa9ca52dd313b1a8baf0fa2e18ddb810f88b4c21b7437a494e",
+      "promote": true
+    },
+    {
+      "c_score": 0.3359942410782843,
+      "detector_service_ns": 27766417,
+      "family_s_affirms": true,
+      "item_key": "62cc101ebbc319765064b997276925594d216134cb54185634b68816c00f1a98",
+      "promote": true
+    },
+    {
+      "c_score": -1.2506797839871466,
+      "detector_service_ns": 25829625,
+      "family_s_affirms": true,
+      "item_key": "340a1bb8f3459d0ba7f6541c317c123c6c2b08fb6d96424b5837feb339715481",
+      "promote": true
+    },
+    {
+      "c_score": 1.6556395485692628,
+      "detector_service_ns": 30228000,
+      "family_s_affirms": true,
+      "item_key": "648200edaf4f5b92af441b3dd75d36bc5b62ce58f5c8f10d204fbd807216e539",
+      "promote": false
+    },
+    {
+      "c_score": 1.7894235883919838,
+      "detector_service_ns": 29352708,
+      "family_s_affirms": true,
+      "item_key": "4152fff9134218a9306ea88049fc4f9a23fba85fe2dc2d7b58bc63b7287336b5",
+      "promote": false
+    },
+    {
+      "c_score": -0.281154951362682,
+      "detector_service_ns": 19266625,
+      "family_s_affirms": true,
+      "item_key": "0e1a67335a51c67ae7c998409e9cc559e2db5c6ee0582bb457e4bc54caa9cc8d",
+      "promote": true
+    },
+    {
+      "c_score": -1.1818061204077628,
+      "detector_service_ns": 23532583,
+      "family_s_affirms": true,
+      "item_key": "de831aebfa460541436c6b222e213b1c00d4c1176b716d253bfea3eb3fc3f56b",
+      "promote": true
+    },
+    {
+      "c_score": 1.2753749696149979,
+      "detector_service_ns": 24106791,
+      "family_s_affirms": true,
+      "item_key": "1b742fb29deeb755efb99afb6701c44cf628d75021e35433bde6db5b45ecacac",
+      "promote": true
+    },
+    {
+      "c_score": -0.755734269588438,
+      "detector_service_ns": 19363458,
+      "family_s_affirms": true,
+      "item_key": "8b9b32df6a99550c9dbd0cdabc9a07da623f298b3338c6aa52ea0c40e8b7656a",
+      "promote": true
+    },
+    {
+      "c_score": 1.904421398053392,
+      "detector_service_ns": 20242459,
+      "family_s_affirms": true,
+      "item_key": "febb2ed3e52d1630b9bba37d3649288dab2ac2f6d77fabb5afe3559f08422ae8",
+      "promote": false
+    },
+    {
+      "c_score": 4.045883468182059,
+      "detector_service_ns": 23218542,
+      "family_s_affirms": true,
+      "item_key": "c0ea7e6ee6dca82f3056460f344df5d8844447101930c6ba28e4ebd7a017fa65",
+      "promote": false
+    },
+    {
+      "c_score": 3.751369026598803,
+      "detector_service_ns": 21974625,
+      "family_s_affirms": true,
+      "item_key": "806a506c42ad1192398aeb5946d32b86c8d033b6c70b46ff6c7cfc63d462ef2c",
+      "promote": false
+    },
+    {
+      "c_score": 2.1709178189478364,
+      "detector_service_ns": 20126292,
+      "family_s_affirms": true,
+      "item_key": "e21e2a91e3e7f00851cd38a0a342661b2aa9c7e0db7ea48b1ee716e877604066",
+      "promote": false
+    },
+    {
+      "c_score": 2.584812414604244,
+      "detector_service_ns": 21389333,
+      "family_s_affirms": true,
+      "item_key": "3fbb79194a4ac7aa068f4bd297f8d1591e0dcad67cd5a949f361f6a696666518",
+      "promote": false
+    },
+    {
+      "c_score": 1.9822282288716677,
+      "detector_service_ns": 24254166,
+      "family_s_affirms": true,
+      "item_key": "2fc26bd966fae38dcca800d9b34d87f8c6c42fc64f24163f8feb0940c6ea7fe6",
+      "promote": false
+    },
+    {
+      "c_score": 3.041244293645356,
+      "detector_service_ns": 25661625,
+      "family_s_affirms": true,
+      "item_key": "05854e6ec3ad39b03a8befc7bd0234bd6ab1ea0b7fb922a148cc07b046e0c3bf",
+      "promote": false
+    },
+    {
+      "c_score": 3.22034720959335,
+      "detector_service_ns": 19309292,
+      "family_s_affirms": true,
+      "item_key": "71423a5c56ab662c34c84aaa35df55e6d17b58093eb875cbbbec47f5f779adca",
+      "promote": false
+    },
+    {
+      "c_score": -1.9167842831684274,
+      "detector_service_ns": 30886625,
+      "family_s_affirms": true,
+      "item_key": "4e1825a618ef595f0ebcf93415d35d8472839781fd6e846d76771431506a7145",
+      "promote": true
+    },
+    {
+      "c_score": 0.4601042114904478,
+      "detector_service_ns": 24051125,
+      "family_s_affirms": true,
+      "item_key": "e6b9abf29a11ad684f7cd1e01a97786cf9d7755b45cebcb3156b983fe9dc429c",
+      "promote": true
+    },
+    {
+      "c_score": 1.1525674453395762,
+      "detector_service_ns": 21031666,
+      "family_s_affirms": true,
+      "item_key": "c7d891fda516cbfcabe0e9ad32e7794f49e3805517ea28ff4c97aeaa1087fb9d",
+      "promote": true
+    },
+    {
+      "c_score": -0.1119874233916607,
+      "detector_service_ns": 30475792,
+      "family_s_affirms": true,
+      "item_key": "b122b4fda569c3d92e374c95ec5921e430ba61def2106f191e77552cca8a273e",
+      "promote": true
+    },
+    {
+      "c_score": 3.201772108928905,
+      "detector_service_ns": 22653250,
+      "family_s_affirms": true,
+      "item_key": "56bb6f463884b609484f53eade59f9730780f0a838d9ebde161c797b80cc451d",
+      "promote": false
+    },
+    {
+      "c_score": -0.6364560092967304,
+      "detector_service_ns": 24921666,
+      "family_s_affirms": true,
+      "item_key": "6d5b234f0995bb02807df2fbd8685d754dd7109aafe0b7abeefd3d314a8d7402",
+      "promote": true
+    },
+    {
+      "c_score": 2.1168404570382218,
+      "detector_service_ns": 22733709,
+      "family_s_affirms": true,
+      "item_key": "826a1a826db501f09d7b8e17e82d52f3d837bb610a30be4deb327979ffb60ea2",
+      "promote": false
+    },
+    {
+      "c_score": -0.054567221204529615,
+      "detector_service_ns": 35775125,
+      "family_s_affirms": true,
+      "item_key": "d1a259e0c1ffd21cd8a1ddd244504a446579654026a1fddd7f29f1e96d519b78",
+      "promote": true
+    },
+    {
+      "c_score": 2.064644909006739,
+      "detector_service_ns": 23707083,
+      "family_s_affirms": true,
+      "item_key": "f97b595a847859476a368630898391ecd857320895b027cb5764fe252103b0d0",
+      "promote": false
+    },
+    {
+      "c_score": -0.15278305896409433,
+      "detector_service_ns": 28069250,
+      "family_s_affirms": true,
+      "item_key": "b2c6f4be90bef72d135f6cc3480826137837b210596af03401a9b2b34ec21b37",
+      "promote": true
+    },
+    {
+      "c_score": 1.1294967175783348,
+      "detector_service_ns": 35359583,
+      "family_s_affirms": true,
+      "item_key": "ce4085514ba48d449dbc828bb377fa2463799bf4960344871cd26690436d6e43",
+      "promote": true
+    },
+    {
+      "c_score": -0.19114853016963607,
+      "detector_service_ns": 33327750,
+      "family_s_affirms": true,
+      "item_key": "96bdc0950c60be7ceb1d95f5b8d3f6e7e711b24420f7ce0ef316e0e6a52f11b6",
+      "promote": true
+    },
+    {
+      "c_score": 0.46320338682100637,
+      "detector_service_ns": 21519917,
+      "family_s_affirms": true,
+      "item_key": "fb22b1c90e9fdf76f601d82755cb96685678459ed7e63a651ee6138c8dbb02c5",
+      "promote": true
+    },
+    {
+      "c_score": 1.1245817775690152,
+      "detector_service_ns": 28312834,
+      "family_s_affirms": true,
+      "item_key": "444197f6691bb7ebc172fee90dfd0086128a1e05b568888a6d5fc71ad9399e3d",
+      "promote": true
+    },
+    {
+      "c_score": -1.926328759115564,
+      "detector_service_ns": 21928125,
+      "family_s_affirms": true,
+      "item_key": "80204a7df9472f1c14bf565a9ac2031d715555b4c95c024a386ec346a4636aac",
+      "promote": true
+    },
+    {
+      "c_score": 0.299060268402172,
+      "detector_service_ns": 27258167,
+      "family_s_affirms": true,
+      "item_key": "c62b39e1b0e21c1ccc629fdf9c4d2bbe847542d408c03065f12bc56198a0510e",
+      "promote": true
+    },
+    {
+      "c_score": 2.486801804287431,
+      "detector_service_ns": 20968833,
+      "family_s_affirms": true,
+      "item_key": "7d250ea0404dd60a3853710afee38a50e9beac8be656a5e1dda32bfc9a730b08",
+      "promote": false
+    },
+    {
+      "c_score": 0.3594400239908435,
+      "detector_service_ns": 18951333,
+      "family_s_affirms": true,
+      "item_key": "de9d0bbd84121526c94368fef513ebfe6d343aa92cbf344968c9be78d03600dd",
+      "promote": true
+    },
+    {
+      "c_score": -0.8157410119205879,
+      "detector_service_ns": 35095500,
+      "family_s_affirms": true,
+      "item_key": "254e86478f27af60d4eb20552fc9b984ab354a1c5ea8431384d3d9a60ff32f6a",
+      "promote": true
+    },
+    {
+      "c_score": -0.3290040651987237,
+      "detector_service_ns": 27838083,
+      "family_s_affirms": true,
+      "item_key": "acbe58f26ed0592e8a8820eaed9e65611f230c4711fb0dbba3f79762e7c4359f",
+      "promote": true
+    },
+    {
+      "c_score": 1.0286893949313796,
+      "detector_service_ns": 20029750,
+      "family_s_affirms": true,
+      "item_key": "176bdbc0824f9a134c5763d6c74ef64f2d3b7a80fed1374c6f12de0f909e03cc",
+      "promote": true
+    },
+    {
+      "c_score": -1.7139055750442829,
+      "detector_service_ns": 26554417,
+      "family_s_affirms": true,
+      "item_key": "33bb659f47468d02923a16864c35d643d8b1c23bbc5f0e26ac8d0903c1a9b861",
+      "promote": true
+    },
+    {
+      "c_score": 1.9676043661889493,
+      "detector_service_ns": 29048250,
+      "family_s_affirms": true,
+      "item_key": "fafaa6e82859fee02c343bd8c96c374e4669c5f0e0f488af9ef8cec2cad3465c",
+      "promote": false
+    },
+    {
+      "c_score": -0.0471884789374063,
+      "detector_service_ns": 31601459,
+      "family_s_affirms": true,
+      "item_key": "018c09edce6975be0a8baaaa29fa1525a9fd6b7fc62e188015c5a9f8848ef9dd",
+      "promote": true
+    },
+    {
+      "c_score": -0.45751060265429794,
+      "detector_service_ns": 33943958,
+      "family_s_affirms": true,
+      "item_key": "d64a09c66ce17aef63c9550a2c9e770ad8c5eccaa73274003a76ecd1eefdf27e",
+      "promote": true
+    },
+    {
+      "c_score": 3.841848132896651,
+      "detector_service_ns": 26035667,
+      "family_s_affirms": true,
+      "item_key": "5e56c3f56f0a6ae1d7cfdeb3743cb03e9fae09c62553109235a766857c68555b",
+      "promote": false
+    },
+    {
+      "c_score": 1.3645895871629197,
+      "detector_service_ns": 33277333,
+      "family_s_affirms": true,
+      "item_key": "fc60479337a133342128b0a268e0371be6aba8c7908cc7e1bd250b364e575824",
+      "promote": false
+    },
+    {
+      "c_score": 2.7044647228941128,
+      "detector_service_ns": 23756334,
+      "family_s_affirms": true,
+      "item_key": "cc0dbf3f9fb9f5942101fb547e45f7f1405101d3e83ca2ae02fc951eba6738fd",
+      "promote": false
+    },
+    {
+      "c_score": -1.1247237099935679,
+      "detector_service_ns": 22623584,
+      "family_s_affirms": true,
+      "item_key": "0a9b56f4883e8650ea8553e13336b06542148468f04693f418fcf2e6fc3ca795",
+      "promote": true
+    },
+    {
+      "c_score": 0.3493853406056371,
+      "detector_service_ns": 26799875,
+      "family_s_affirms": true,
+      "item_key": "fe9e561b1ca0b17878d95bb3d5f49dead8fe32b280a5581cd454110c72c60a5c",
+      "promote": true
+    },
+    {
+      "c_score": -1.3517473483356315,
+      "detector_service_ns": 23373584,
+      "family_s_affirms": true,
+      "item_key": "3c8d0d1c34fc2b5b8748b873e44dce4daed362cc1be2c2577e3df0b9bcc624e5",
+      "promote": true
+    },
+    {
+      "c_score": -2.7779341354835334,
+      "detector_service_ns": 20971584,
+      "family_s_affirms": true,
+      "item_key": "420ca90241df9886459511536b893de80dc0c70eb76c9ac610909127f4fa8446",
+      "promote": true
+    },
+    {
+      "c_score": -1.0983607524658203,
+      "detector_service_ns": 30756042,
+      "family_s_affirms": true,
+      "item_key": "931e19d6eef2841b59d2ff60b57445a9ff0520d81119092718c506ffc6478333",
+      "promote": true
+    },
+    {
+      "c_score": 1.334030081161158,
+      "detector_service_ns": 34030000,
+      "family_s_affirms": true,
+      "item_key": "0b21b9cc186f68d19b6e8abb90c368d63aca97d402f138e85b996ce8af4d24c2",
+      "promote": true
+    },
+    {
+      "c_score": -0.5651645396815881,
+      "detector_service_ns": 33779292,
+      "family_s_affirms": true,
+      "item_key": "3ff019e1c2f2f61bafc34f06de0cc570b9acd9b9f39ce79c800a2a681faa7746",
+      "promote": true
+    },
+    {
+      "c_score": -0.1651995233696533,
+      "detector_service_ns": 25974458,
+      "family_s_affirms": true,
+      "item_key": "5c2a2e819729c4a3a47ae70407bf43917b715e68bca5025c9fa868f3e18dc2e2",
+      "promote": true
+    },
+    {
+      "c_score": -0.3016308245481627,
+      "detector_service_ns": 20456958,
+      "family_s_affirms": true,
+      "item_key": "180ed0532d0dc29f3649d6eab215795a6768c9c220a8e87892392d2aa0ecdf44",
+      "promote": true
+    },
+    {
+      "c_score": -0.10254336926219376,
+      "detector_service_ns": 35997708,
+      "family_s_affirms": true,
+      "item_key": "74d0fbba4a781535f5b7717ebf14a51771360bc316414757790c6caff28346b7",
+      "promote": true
+    },
+    {
+      "c_score": 0.6976536583053837,
+      "detector_service_ns": 29720000,
+      "family_s_affirms": true,
+      "item_key": "dfd59f4540646267ff1e78adbe932eb5a70fbaf0679392262ba13e2ea1f178c0",
+      "promote": true
+    },
+    {
+      "c_score": 1.3987469319478525,
+      "detector_service_ns": 24612667,
+      "family_s_affirms": true,
+      "item_key": "96210cea3d85aba64ad83d34017e82c33bd47b067853d811d86c02534fc15471",
+      "promote": false
+    },
+    {
+      "c_score": -0.46911336204509674,
+      "detector_service_ns": 21176959,
+      "family_s_affirms": true,
+      "item_key": "e74618b950f875407317892394b443052e4f6b93073131da44ab59386e873358",
+      "promote": true
+    },
+    {
+      "c_score": -0.2709466132718712,
+      "detector_service_ns": 40000917,
+      "family_s_affirms": true,
+      "item_key": "c587b0ee37aa8879b45dd701780f85c60472b5b5f5fae7596b3839a82f374bea",
+      "promote": true
+    },
+    {
+      "c_score": 0.05556916948177515,
+      "detector_service_ns": 31612417,
+      "family_s_affirms": true,
+      "item_key": "3a29e51afcdd1cd6c561c0f7e1e31d9581e9be1c02028f9738151c22a79cfaa2",
+      "promote": true
+    },
+    {
+      "c_score": 2.1500477445071065,
+      "detector_service_ns": 35608875,
+      "family_s_affirms": true,
+      "item_key": "306865a71009ee12b74dc9fb9d890be8dc6ff5a4e32b7b5976939625209aaa5a",
+      "promote": false
+    },
+    {
+      "c_score": -0.14122575801812995,
+      "detector_service_ns": 125933125,
+      "family_s_affirms": true,
+      "item_key": "8519121a5b5cd1dec36c3760039a5a836a05b3bd0e19a7311b4ed3216cdb3af0",
+      "promote": true
+    },
+    {
+      "c_score": 2.1552862988144197,
+      "detector_service_ns": 55704958,
+      "family_s_affirms": true,
+      "item_key": "558113cefca7f00e60a7c0ca5564ec230748ca5a6fa0af36d1e231bba624d20a",
+      "promote": false
+    },
+    {
+      "c_score": 2.0407489250270148,
+      "detector_service_ns": 26174000,
+      "family_s_affirms": true,
+      "item_key": "d4c9f1ac62e5c85a56a5c777ebd5371b0f3bdc799ccbb215509f323a0c9f8c39",
+      "promote": false
+    },
+    {
+      "c_score": -1.3993460484189606,
+      "detector_service_ns": 31821667,
+      "family_s_affirms": true,
+      "item_key": "857d8e1976ac6b3bf130455741a951c73cc9634e7e4552984a5c2baafd714c56",
+      "promote": true
+    },
+    {
+      "c_score": 1.4699067077613592,
+      "detector_service_ns": 39606083,
+      "family_s_affirms": true,
+      "item_key": "185ef8777730a0048551d600c104e615b6c70b3a68ab91f9c3fadf837f19ea69",
+      "promote": false
+    },
+    {
+      "c_score": 1.4244156572180127,
+      "detector_service_ns": 28009000,
+      "family_s_affirms": true,
+      "item_key": "9bdecc6b1a2dd1a75f85e049ef89ab24ebd089689eee808d8866b0ecf6febc10",
+      "promote": false
+    },
+    {
+      "c_score": 1.1819767079569732,
+      "detector_service_ns": 29128541,
+      "family_s_affirms": true,
+      "item_key": "000af9e3f3cdd4042821659603033e37ff534e264e45a91c49d501e9734d086b",
+      "promote": true
+    },
+    {
+      "c_score": 0.2521100370972552,
+      "detector_service_ns": 31453125,
+      "family_s_affirms": true,
+      "item_key": "71fa72ebee0a8238a8d60e1047654c8aca47d939ec0ffefc57807dc48ce0e859",
+      "promote": true
+    },
+    {
+      "c_score": 2.371371201156287,
+      "detector_service_ns": 23137458,
+      "family_s_affirms": true,
+      "item_key": "65d5bd6149b6f57fc75efd05f3ea4367542b24c3796e00b5a95f7dd5bdfd2a2b",
+      "promote": false
+    },
+    {
+      "c_score": 0.02480826071456027,
+      "detector_service_ns": 34699708,
+      "family_s_affirms": true,
+      "item_key": "b95196eef8494486b138257ee12b5260b2e0af10292ff4b3c9881c001be7c45a",
+      "promote": true
+    },
+    {
+      "c_score": 1.39003343628839,
+      "detector_service_ns": 31539083,
+      "family_s_affirms": true,
+      "item_key": "bbce7055a33dd92d68908ed20b2825764d169993d6d42303f875fb36c30275bf",
+      "promote": false
+    },
+    {
+      "c_score": 1.8834614322491143,
+      "detector_service_ns": 22703625,
+      "family_s_affirms": true,
+      "item_key": "8eb9e57ca50976ca91388cee38b6aa1388c3b4ad6ace4e8da7d2ad69c81dd19e",
+      "promote": false
+    },
+    {
+      "c_score": -0.5990299373169713,
+      "detector_service_ns": 39726041,
+      "family_s_affirms": true,
+      "item_key": "43960e22c669e640c766ba70236d0898f04276d54a7d5704903cf8c5b1597e73",
+      "promote": true
+    },
+    {
+      "c_score": -1.642195380434633,
+      "detector_service_ns": 34502916,
+      "family_s_affirms": true,
+      "item_key": "658fb0ff215f8ecc42f689dc0c621aeb4f8b24228f17487ca4afea34ba2e9a1a",
+      "promote": true
+    },
+    {
+      "c_score": -1.6706148025540304,
+      "detector_service_ns": 22312750,
+      "family_s_affirms": true,
+      "item_key": "3deb7f3692344e56e8f135fce4647cd8db430e651a6baba75f4a44499dcddcdc",
+      "promote": true
+    },
+    {
+      "c_score": -0.7060372271217212,
+      "detector_service_ns": 35638000,
+      "family_s_affirms": true,
+      "item_key": "d198569c06ee3e770a2a2e0fa7d72de51a7f5b63805a6dbdcab34bbd96cb0b64",
+      "promote": true
+    },
+    {
+      "c_score": 1.2865054618111138,
+      "detector_service_ns": 37450792,
+      "family_s_affirms": true,
+      "item_key": "f0c213b26811adf835810171813a438b4788f3f915a5a6b264f832981364fadf",
+      "promote": true
+    },
+    {
+      "c_score": 3.5046948889081895,
+      "detector_service_ns": 24781833,
+      "family_s_affirms": true,
+      "item_key": "1d91b9a95583c6ef120442be1e3579d665ca0fb4dffa3bba94e0ef120551e7d1",
+      "promote": false
+    },
+    {
+      "c_score": -0.8529408938433911,
+      "detector_service_ns": 23587291,
+      "family_s_affirms": true,
+      "item_key": "7dc0f7e1c6c35991a05b8a6be1c2b1cab62cb8041b00ef6f7705528d22028d1b",
+      "promote": true
+    },
+    {
+      "c_score": -1.756062026305143,
+      "detector_service_ns": 32328458,
+      "family_s_affirms": true,
+      "item_key": "8d481081c964670fd66f43e0579705d3ef6c663bc08217fa848ec508c5f64388",
+      "promote": true
+    },
+    {
+      "c_score": 3.523627004490579,
+      "detector_service_ns": 25413167,
+      "family_s_affirms": true,
+      "item_key": "71d96e852826c4cc22f749488ba1425aabe460dc223d8640883aa794b971a7d1",
+      "promote": false
+    },
+    {
+      "c_score": 3.7467487956328553,
+      "detector_service_ns": 26069875,
+      "family_s_affirms": true,
+      "item_key": "19dc8b334eabd0719eb1715c09c81843fd6251d830d9d61b29df0daa680ca35d",
+      "promote": false
+    },
+    {
+      "c_score": 0.6049219483676731,
+      "detector_service_ns": 24908541,
+      "family_s_affirms": true,
+      "item_key": "b28d4cee5b21630263bbf3199f4645019de125a5596541a343ff02093b1acd2c",
+      "promote": true
+    },
+    {
+      "c_score": 3.587283581978642,
+      "detector_service_ns": 26687208,
+      "family_s_affirms": true,
+      "item_key": "efc614cbe42ef8b82a04f92677a4b55958d51c834dc09d2a9d4b2eed13fc739c",
+      "promote": false
+    },
+    {
+      "c_score": 0.598567372887277,
+      "detector_service_ns": 25767708,
+      "family_s_affirms": true,
+      "item_key": "e88696f4c0494cba2d39d4a7377d9219894d69d4919a7be49dd800c8835cc5f7",
+      "promote": true
+    },
+    {
+      "c_score": 2.1075678188417424,
+      "detector_service_ns": 28503292,
+      "family_s_affirms": true,
+      "item_key": "bc56e395615adbf0392890a481d70818b63b471113f48f23ab2804a34ab545fb",
+      "promote": false
+    },
+    {
+      "c_score": -1.3846656712144112,
+      "detector_service_ns": 39056875,
+      "family_s_affirms": true,
+      "item_key": "a641bacdfe72445a58282ca2a8a1ea9475106c2c45bf276817891b27d9142049",
+      "promote": true
+    },
+    {
+      "c_score": -0.7326335600258524,
+      "detector_service_ns": 22309250,
+      "family_s_affirms": true,
+      "item_key": "65ee198967b96604b6a07768b75de1750c996e608afa8b7ee72463bebdc80b4d",
+      "promote": true
+    },
+    {
+      "c_score": 1.0163799524432258,
+      "detector_service_ns": 25808583,
+      "family_s_affirms": true,
+      "item_key": "98e01ab1886bffa03311eb0c689fdc2ea555e2e98fe3f32a8e556b2e6e142fb2",
+      "promote": true
+    },
+    {
+      "c_score": 1.1268737978905707,
+      "detector_service_ns": 21364209,
+      "family_s_affirms": true,
+      "item_key": "c0cdc0ad809c61d38549e1f95228579bf80405d6b5f6ffb55df7f000d254956f",
+      "promote": true
+    },
+    {
+      "c_score": -1.2089583737977083,
+      "detector_service_ns": 28588833,
+      "family_s_affirms": true,
+      "item_key": "349b1ff4dccbd9686ba3813f4d1f44b93f545ea522381f63fb030d415b77e745",
+      "promote": true
+    },
+    {
+      "c_score": 2.467424776643074,
+      "detector_service_ns": 28302834,
+      "family_s_affirms": true,
+      "item_key": "8a440c39f6044de029bc76b7b0565616fc5096df33a1a4acbadcdc043a9815a1",
+      "promote": false
+    },
+    {
+      "c_score": 2.868185489379759,
+      "detector_service_ns": 32258750,
+      "family_s_affirms": true,
+      "item_key": "896a649792ac28bfa2b641878f754cff2ce00956f3f931169fa9ce72133b897a",
+      "promote": false
+    },
+    {
+      "c_score": -0.3794400095885788,
+      "detector_service_ns": 21751000,
+      "family_s_affirms": true,
+      "item_key": "732144c354984d0d677d16184d7f4259ab1c68d8e75910c093fbcb6ccb3700f2",
+      "promote": true
+    },
+    {
+      "c_score": 0.07608922376397942,
+      "detector_service_ns": 21168250,
+      "family_s_affirms": true,
+      "item_key": "a5b8345a6be5eb511c178c29d0b6817855383cf601c0529b440eb45f9172a442",
+      "promote": true
+    },
+    {
+      "c_score": 0.4999397246178652,
+      "detector_service_ns": 19022291,
+      "family_s_affirms": true,
+      "item_key": "d39cb86d7bb1268934925c4fc578a59cc28e483e76b2df33c613bb17ecb09fc2",
+      "promote": true
+    },
+    {
+      "c_score": -0.34132893650485135,
+      "detector_service_ns": 26467667,
+      "family_s_affirms": true,
+      "item_key": "4b51a6b63d8e9620550dc64a529b4b02c5496412a679a529245c3eef907ddc29",
+      "promote": true
+    },
+    {
+      "c_score": 1.1047516660160868,
+      "detector_service_ns": 31012417,
+      "family_s_affirms": true,
+      "item_key": "f52e3778fb10118fb9da291f320de3692d40f0bd4c39b1e30b5ffd0bab303268",
+      "promote": true
+    },
+    {
+      "c_score": 2.9143092514445907,
+      "detector_service_ns": 21738959,
+      "family_s_affirms": true,
+      "item_key": "58549e031e25a841aded4d6f0cc0748661ec80171ad3c808e607e22f3a17bd1a",
+      "promote": false
+    },
+    {
+      "c_score": 3.0960338625047212,
+      "detector_service_ns": 31432000,
+      "family_s_affirms": true,
+      "item_key": "8c017cf25752b8d28ad0b9c8184fa5d239491d27ea6b103976ca4fc0da2aab7b",
+      "promote": false
+    },
+    {
+      "c_score": -0.2752547731927273,
+      "detector_service_ns": 31933250,
+      "family_s_affirms": true,
+      "item_key": "52a70fd46c75dfe2e9455534bb436946609c3acbc72c722afc0965e32d8c9ed5",
+      "promote": true
+    },
+    {
+      "c_score": 4.029972552593437,
+      "detector_service_ns": 21866500,
+      "family_s_affirms": true,
+      "item_key": "fb374f8fe152aacbf87c2ab84952a1ce51adb9fd7eb4e6ffeda44c0da48e16d5",
+      "promote": false
+    },
+    {
+      "c_score": 2.0960607946753664,
+      "detector_service_ns": 18493041,
+      "family_s_affirms": true,
+      "item_key": "dac20f016e789482a375832951c2e4ed978d9cfcd6bf8043fd141868a7c1c906",
+      "promote": false
+    },
+    {
+      "c_score": 1.3656528651159148,
+      "detector_service_ns": 35488958,
+      "family_s_affirms": true,
+      "item_key": "025ec854f6cec122b9c1e7794e7e38994e4fbafc0a9a77aff4650c277dc20797",
+      "promote": false
+    },
+    {
+      "c_score": 1.368967879570757,
+      "detector_service_ns": 26131875,
+      "family_s_affirms": true,
+      "item_key": "1ff4f624c42a1de389aa14252b021de341239c1d80c4bc21c6bc37ab8a272fb8",
+      "promote": false
+    },
+    {
+      "c_score": 0.5132220240250795,
+      "detector_service_ns": 30172500,
+      "family_s_affirms": true,
+      "item_key": "f0c533b42f9c345e10dfc4959c221707e4ed1bd0f47d3e8e2092ed906b0a21cf",
+      "promote": true
+    },
+    {
+      "c_score": 2.587848001487761,
+      "detector_service_ns": 30452458,
+      "family_s_affirms": true,
+      "item_key": "dc77b70e7f7f0b217b28a285c50334971bce162d6f6e63af9cb911eb8f8ebe28",
+      "promote": false
+    },
+    {
+      "c_score": -2.014432225277618,
+      "detector_service_ns": 23367750,
+      "family_s_affirms": true,
+      "item_key": "cd92320c6ea298fe498e50c139ad8a87f4d383e7a8d4421fd9ce4ebba4e2e8f1",
+      "promote": true
+    },
+    {
+      "c_score": -1.1202873839400795,
+      "detector_service_ns": 27426375,
+      "family_s_affirms": true,
+      "item_key": "7166162a106d93fc29f2c2900af472e30772a61b08ffcbe11cffab12818fb7f6",
+      "promote": true
+    },
+    {
+      "c_score": 0.4714313341024441,
+      "detector_service_ns": 23987958,
+      "family_s_affirms": true,
+      "item_key": "1203aad79a548028842cd97a383d7842b80a7378eeed8f84c0f2ebf073f62cb9",
+      "promote": true
+    },
+    {
+      "c_score": 3.565367710413785,
+      "detector_service_ns": 22156708,
+      "family_s_affirms": true,
+      "item_key": "49a5cf05ea410661ee15438c89d11e54337a1b9c63d3d30e9ad2fe3b7a1ece05",
+      "promote": false
+    },
+    {
+      "c_score": 4.579957152591081,
+      "detector_service_ns": 20573042,
+      "family_s_affirms": true,
+      "item_key": "b2223353ab8fdbad5c745cd4781aab32c08b0babeaac9efe1e19fbbc7d91e634",
+      "promote": false
+    },
+    {
+      "c_score": 2.4029130081953802,
+      "detector_service_ns": 20617167,
+      "family_s_affirms": true,
+      "item_key": "422c254a568353a2e8aafe513fee74b303e37053c18342774a3c1525ed8f66e6",
+      "promote": false
+    },
+    {
+      "c_score": 3.7378223980216796,
+      "detector_service_ns": 30657208,
+      "family_s_affirms": true,
+      "item_key": "c1627b69960cb751e5b80cb6cd327255c0275ec789d7040085a085bc895e4289",
+      "promote": false
+    },
+    {
+      "c_score": 1.882240541872289,
+      "detector_service_ns": 25788166,
+      "family_s_affirms": true,
+      "item_key": "185064a5fa227eaa40a9807790122b086ebcda22e1ba0710fdad5b6dc601299f",
+      "promote": false
+    },
+    {
+      "c_score": 2.865115432809011,
+      "detector_service_ns": 24201500,
+      "family_s_affirms": true,
+      "item_key": "5f28cd0f34e8ceacadf2a12fdeb843496261f6a65b13bae5a036fae5a9b72a89",
+      "promote": false
+    },
+    {
+      "c_score": -1.607396481965666,
+      "detector_service_ns": 26123167,
+      "family_s_affirms": true,
+      "item_key": "d10815dd9faed5cefb161f1f12ee2ce0d7db5bc46a43e419053683a4c131ce3d",
+      "promote": true
+    },
+    {
+      "c_score": 2.3521446304472042,
+      "detector_service_ns": 29152417,
+      "family_s_affirms": true,
+      "item_key": "dfb088e84a8e4c3b5c93dc59e3e4586da2ee0c44d36e311624a9852767ef1b11",
+      "promote": false
+    },
+    {
+      "c_score": 3.2775614263812773,
+      "detector_service_ns": 20371292,
+      "family_s_affirms": true,
+      "item_key": "a610f8bd14df777b5ae31060f6c6410d4339e5d8071d7c27e4b5de0892bd84c2",
+      "promote": false
+    },
+    {
+      "c_score": 1.8205073540980439,
+      "detector_service_ns": 22931833,
+      "family_s_affirms": true,
+      "item_key": "80b4a82f6fd84dc10912ac53c7f9b3240e0d034507d784f6241738ce478898cb",
+      "promote": false
+    },
+    {
+      "c_score": -1.4747812635896334,
+      "detector_service_ns": 21211792,
+      "family_s_affirms": true,
+      "item_key": "0a23bdeafe39d19f752b9311e98d4492f79ee1a719b43c05b7a1e148e8009933",
+      "promote": true
+    },
+    {
+      "c_score": 1.7538548615292022,
+      "detector_service_ns": 30966500,
+      "family_s_affirms": true,
+      "item_key": "a3e82352467f8df905a0466695a71ca6975f7d1dec6545d225e9c5fd17949d7a",
+      "promote": false
+    },
+    {
+      "c_score": 1.1960026001204325,
+      "detector_service_ns": 19238208,
+      "family_s_affirms": true,
+      "item_key": "f700418d7a3cca6622e1a6c5b79a23aff5f8c26fbad1ce97e2961bf3bb5a7468",
+      "promote": true
+    },
+    {
+      "c_score": -0.38211621980699195,
+      "detector_service_ns": 20437083,
+      "family_s_affirms": true,
+      "item_key": "cb39126c301e447de0f4c80c4725bc69d10289ebad7202383e447bba2c950dc2",
+      "promote": true
+    },
+    {
+      "c_score": 1.2357369162205027,
+      "detector_service_ns": 20793500,
+      "family_s_affirms": true,
+      "item_key": "64ecbc593e03081099b292076d4292d54802c22f8d8777c6a1f1135e072bf377",
+      "promote": true
+    },
+    {
+      "c_score": -1.8729679393062864,
+      "detector_service_ns": 29254292,
+      "family_s_affirms": true,
+      "item_key": "95ddaef9bf533f57fd505160fbeff67364119236623fed4c2281f9471414a68e",
+      "promote": true
+    },
+    {
+      "c_score": 3.968454101254318,
+      "detector_service_ns": 24437500,
+      "family_s_affirms": true,
+      "item_key": "21ae2c2d905a944924fe59472550560bd9ef08747e8e3a2829c53d64931af7c0",
+      "promote": false
+    },
+    {
+      "c_score": -0.1365134897651179,
+      "detector_service_ns": 33886958,
+      "family_s_affirms": true,
+      "item_key": "79253dc48bd56da0b752b64af2c808e961b40c4a97f30bced8082a53ebf65ffa",
+      "promote": true
+    },
+    {
+      "c_score": 1.0367058940404814,
+      "detector_service_ns": 27202958,
+      "family_s_affirms": true,
+      "item_key": "629dc29df1527bbfc7b2068b6dce24472e5447aa4c1abee4c49fd998907e1a7e",
+      "promote": true
+    },
+    {
+      "c_score": 4.6291462891456625,
+      "detector_service_ns": 24828042,
+      "family_s_affirms": true,
+      "item_key": "2b0ed10c641803b0a7414f572a0fd2c300fa0dc7275c8576a1c7c909dd6812b0",
+      "promote": false
+    },
+    {
+      "c_score": 0.5987383877951127,
+      "detector_service_ns": 20944208,
+      "family_s_affirms": true,
+      "item_key": "09404fb069795c59718e9a0409c66cefbc8464e19aa1c5ce170d254fd289814d",
+      "promote": true
+    },
+    {
+      "c_score": 4.384327760390538,
+      "detector_service_ns": 24559875,
+      "family_s_affirms": true,
+      "item_key": "3c0533aadbc6f9bd34b280bd6b29e0a1a92c43d2fe3f4a894004681ead8a81b1",
+      "promote": false
+    },
+    {
+      "c_score": -0.2669526811316978,
+      "detector_service_ns": 29060917,
+      "family_s_affirms": true,
+      "item_key": "f7bd42efd5b44141dbe6a48ec2c82c29a77ef32b50eba070e8110ebbb564e2aa",
+      "promote": true
+    },
+    {
+      "c_score": 3.206100357058936,
+      "detector_service_ns": 23723750,
+      "family_s_affirms": true,
+      "item_key": "e48ca87ba687bfc2d6fd20dc97d361b4bf4d644c1f7f562f6d4dcd9450197682",
+      "promote": false
+    },
+    {
+      "c_score": 0.9668792157378769,
+      "detector_service_ns": 31700875,
+      "family_s_affirms": true,
+      "item_key": "201f6ea6717e121201f878359b10a042da0fd3faae8f9249a044def02e9807b0",
+      "promote": true
+    },
+    {
+      "c_score": -0.7753479853609642,
+      "detector_service_ns": 32896083,
+      "family_s_affirms": true,
+      "item_key": "9c5564391bf62afc870fb8f3c4fe7ce82eeb8e573f88907a8ec4b48b24e6bf39",
+      "promote": true
+    },
+    {
+      "c_score": -0.4091029977053109,
+      "detector_service_ns": 21282333,
+      "family_s_affirms": true,
+      "item_key": "088cb3dff6c222aad93a4a69b6d08a33364113f9bab8478523f1ff57f95da60f",
+      "promote": true
+    },
+    {
+      "c_score": 2.9504580002046525,
+      "detector_service_ns": 25627625,
+      "family_s_affirms": true,
+      "item_key": "50b4a77826f24ff50efb0eff34b8bea060820f10bf7b0b68d5242754824eee2c",
+      "promote": false
+    },
+    {
+      "c_score": 2.6210281538463263,
+      "detector_service_ns": 21955417,
+      "family_s_affirms": true,
+      "item_key": "b1e49136305c32d2ec5464d23a78a688ce1fc4981e46eb092e27e4d99df4343b",
+      "promote": false
+    },
+    {
+      "c_score": -0.9268353170134549,
+      "detector_service_ns": 24156958,
+      "family_s_affirms": true,
+      "item_key": "2faed680ceb02abd3cfd61a7b44a9b0a034be389c49841340c8510322f16d24d",
+      "promote": true
+    },
+    {
+      "c_score": 1.1492806439831718,
+      "detector_service_ns": 34032625,
+      "family_s_affirms": true,
+      "item_key": "6b61fcdb4004fe9f99e560d60f4eb98cba5be512a578f3c90369ad9c8879a3a3",
+      "promote": true
+    },
+    {
+      "c_score": 0.4728288863934701,
+      "detector_service_ns": 21044917,
+      "family_s_affirms": true,
+      "item_key": "b0f158bacb66352518a68c990e688cb919474b4f262318c15550d0970234ce94",
+      "promote": true
+    },
+    {
+      "c_score": -2.4816137352478376,
+      "detector_service_ns": 33981791,
+      "family_s_affirms": true,
+      "item_key": "84ea8666255653a04e125f15f332d63b97c1ae51fbde190ede0ab9b44e0caa53",
+      "promote": true
+    },
+    {
+      "c_score": 3.7647577313845817,
+      "detector_service_ns": 23613334,
+      "family_s_affirms": true,
+      "item_key": "96d0201c08f5ecbc8b3bff32386075261537703601e72bf9a42fff41644471e3",
+      "promote": false
+    },
+    {
+      "c_score": 0.2735329620787881,
+      "detector_service_ns": 26465625,
+      "family_s_affirms": true,
+      "item_key": "e37e8e4a267337a87d2ee407575e9f969d4af924c9b9cd3d61ac1e39d0fc608c",
+      "promote": true
+    },
+    {
+      "c_score": -1.25396664798363,
+      "detector_service_ns": 23991459,
+      "family_s_affirms": true,
+      "item_key": "f91b8a57ee574880d369266669e21aea4187d6e17b0a6a5b9600b92856e062b0",
+      "promote": true
+    },
+    {
+      "c_score": 3.123439199633656,
+      "detector_service_ns": 28589791,
+      "family_s_affirms": true,
+      "item_key": "67751db252046e8c372bc723a94753def9520c7bbb53d9898f1f9ece2a7a897e",
+      "promote": false
+    },
+    {
+      "c_score": 3.265860600506917,
+      "detector_service_ns": 24981083,
+      "family_s_affirms": true,
+      "item_key": "c097442568818bf0867c99bf88087cbe7a803fc2e3377103fa7ea0b12c1baa49",
+      "promote": false
+    },
+    {
+      "c_score": -1.3907964982089782,
+      "detector_service_ns": 23949834,
+      "family_s_affirms": true,
+      "item_key": "3d4049aac30c9941b07766e2f1e44c776ef81a6b1cfd0657906e64241bcee88d",
+      "promote": true
+    },
+    {
+      "c_score": 2.7711405707288073,
+      "detector_service_ns": 19938000,
+      "family_s_affirms": true,
+      "item_key": "541dc9267fc788bc3bf3cc05336dfd44c570b0fc2f72aa1bb8361de2b4d7de80",
+      "promote": false
+    },
+    {
+      "c_score": -0.1942907652555178,
+      "detector_service_ns": 31147875,
+      "family_s_affirms": true,
+      "item_key": "83f55230ad0dd25e73402c0e752154f55f41feae508d5e8f7a0c1c69037eaa08",
+      "promote": true
+    },
+    {
+      "c_score": 0.3714296228949303,
+      "detector_service_ns": 29068834,
+      "family_s_affirms": true,
+      "item_key": "dfa25cacc9c8023f74c788b448e9bba00fc4121a4445a0d7b3f87ef41fdb7955",
+      "promote": true
+    },
+    {
+      "c_score": 1.2506424185484755,
+      "detector_service_ns": 28034709,
+      "family_s_affirms": true,
+      "item_key": "4da74c1cbae9321798eb6f91a448e7386805c858e118fd5a195120fae9758dbc",
+      "promote": true
+    },
+    {
+      "c_score": 2.7393877328553704,
+      "detector_service_ns": 20108708,
+      "family_s_affirms": true,
+      "item_key": "011dbbd408f059214020ff64e8ac26e39b5de9092d48ca665ac6c9d285a14c96",
+      "promote": false
+    },
+    {
+      "c_score": 3.0937774487099654,
+      "detector_service_ns": 26132000,
+      "family_s_affirms": true,
+      "item_key": "2cd306f306c12b5f2bf9025cd3be37dd9335c0d5111b9e06f97bfa68731d2c37",
+      "promote": false
+    },
+    {
+      "c_score": 2.403204502396673,
+      "detector_service_ns": 23611292,
+      "family_s_affirms": true,
+      "item_key": "2ae6456db7f31dbde3e50b74ce19c5c6c426443bca85ab52a26bb62fd0f28363",
+      "promote": false
+    },
+    {
+      "c_score": 1.3792145326942151,
+      "detector_service_ns": 27186625,
+      "family_s_affirms": true,
+      "item_key": "4b689c16cb9ccefed6f7a7b8821866b84a11fd731c6a336099452ab4649ba579",
+      "promote": false
+    },
+    {
+      "c_score": 0.9973341379809266,
+      "detector_service_ns": 32118542,
+      "family_s_affirms": true,
+      "item_key": "f58f31230cf43b621ea2c92df5d376e41ec43fc76cfef158c635903aa4d913bc",
+      "promote": true
+    },
+    {
+      "c_score": -1.004930175920685,
+      "detector_service_ns": 34483292,
+      "family_s_affirms": true,
+      "item_key": "ef44e63b31118b2cec0edc06f1bc5638a50d10fc3d377e69270e2987665f9716",
+      "promote": true
+    },
+    {
+      "c_score": -0.4837836101994108,
+      "detector_service_ns": 20752417,
+      "family_s_affirms": true,
+      "item_key": "8cb71f968012c47a43824a8aaf5d885f27e3819884fda5dd63c61b0ec21b2796",
+      "promote": true
+    },
+    {
+      "c_score": 3.7567225189651747,
+      "detector_service_ns": 22178000,
+      "family_s_affirms": true,
+      "item_key": "c3633c7c93d57e46fa451a979e4735ea88c913fb97af6bc6f4bdf80bdcf8c0b0",
+      "promote": false
+    },
+    {
+      "c_score": -0.04539165312710339,
+      "detector_service_ns": 30962375,
+      "family_s_affirms": true,
+      "item_key": "9a13ebfe88c610a8de474a6870f22daecc9ccf46961c91a4056c85c88dabc2fb",
+      "promote": true
+    },
+    {
+      "c_score": 0.7124784199171666,
+      "detector_service_ns": 19694500,
+      "family_s_affirms": true,
+      "item_key": "4a75f69db3779af4a006a799cd3aae3f853423a88202c6c16ab85ccfbb8126d6",
+      "promote": true
+    },
+    {
+      "c_score": -1.9700082007516824,
+      "detector_service_ns": 33165959,
+      "family_s_affirms": true,
+      "item_key": "accd063a538d33554a19fd14bc6ba9cff7ccebe89a478e0a48afae3144592d87",
+      "promote": true
+    },
+    {
+      "c_score": 0.7192155096383196,
+      "detector_service_ns": 23580500,
+      "family_s_affirms": true,
+      "item_key": "2034ce6651f85a9dfad7e4a0bfa7fc60fb5fbfbafa4988e28d527942ce0011cf",
+      "promote": true
+    },
+    {
+      "c_score": -1.3239210626511175,
+      "detector_service_ns": 28984417,
+      "family_s_affirms": true,
+      "item_key": "bb1f3be35d17c774da4bfbe64f6066bfc94cbabd9788331a362c39bfd9a41397",
+      "promote": true
+    },
+    {
+      "c_score": 0.46150783784604904,
+      "detector_service_ns": 26070125,
+      "family_s_affirms": true,
+      "item_key": "2599c80888dbdbe28f3b0f543bd6149b8989d8606d650284bd5fe5786bc4ae4d",
+      "promote": true
+    },
+    {
+      "c_score": 3.1003015191415995,
+      "detector_service_ns": 29762792,
+      "family_s_affirms": true,
+      "item_key": "64375f23d3ef230eb06b404e267bdef4200819afdbd341df161d9cd2687688a5",
+      "promote": false
+    },
+    {
+      "c_score": 0.2521264842804345,
+      "detector_service_ns": 26722750,
+      "family_s_affirms": true,
+      "item_key": "dc810dea29881c32d6e71ed6006a11d75b7daf25b2250a1502c7f1713cf18a6c",
+      "promote": true
+    },
+    {
+      "c_score": 0.5082347524417701,
+      "detector_service_ns": 34233916,
+      "family_s_affirms": true,
+      "item_key": "3a6d90fce40c9e63f9eca4b8c77c3a79d7bbd195c26ec14b65f092c0b79ac563",
+      "promote": true
+    },
+    {
+      "c_score": 0.9203906799581946,
+      "detector_service_ns": 21402458,
+      "family_s_affirms": true,
+      "item_key": "e2a1b46543a92b5d9af0085faf03a38e293b734307d7dea53c4d83d6f23128c5",
+      "promote": true
+    },
+    {
+      "c_score": 1.5037375486406566,
+      "detector_service_ns": 26325959,
+      "family_s_affirms": true,
+      "item_key": "148924f527323eb7181563f229b88702b534806e50e30f48ca5c600c56197e7a",
+      "promote": false
+    },
+    {
+      "c_score": -1.844096843216248,
+      "detector_service_ns": 35091500,
+      "family_s_affirms": true,
+      "item_key": "4edce305df58f3ffdbb4aed9ece9c8f8c3594ae7206953b01e76c398cfd87441",
+      "promote": true
+    },
+    {
+      "c_score": 0.7284766047828555,
+      "detector_service_ns": 26351709,
+      "family_s_affirms": true,
+      "item_key": "10534c6e0fa5085e0126d963345393110253eae16e95f300461f25a6a57da838",
+      "promote": true
+    },
+    {
+      "c_score": 2.8920214299139633,
+      "detector_service_ns": 25794041,
+      "family_s_affirms": true,
+      "item_key": "06edfe652992126bf794acef7afedc6cbfad18b7f95da284085e0ff9dfa9e89b",
+      "promote": false
+    },
+    {
+      "c_score": 4.405152912206183,
+      "detector_service_ns": 21404417,
+      "family_s_affirms": true,
+      "item_key": "ea11700679b4ddda2486cfe6e3600b44ca35d698cdc90b5c2b7637b87e931c2b",
+      "promote": false
+    },
+    {
+      "c_score": 1.099487931981232,
+      "detector_service_ns": 34180042,
+      "family_s_affirms": true,
+      "item_key": "f2eeeb1a1b3de25582a5547f838c9a74c518b05db79c45c9e556961d94cd6eae",
+      "promote": true
+    },
+    {
+      "c_score": 0.048436547452766376,
+      "detector_service_ns": 31396916,
+      "family_s_affirms": true,
+      "item_key": "3a464aa4022bd711e0f0f4a54909ec3ccffa6de568722c63bc177d85a4b91a44",
+      "promote": true
+    },
+    {
+      "c_score": -2.268218444928319,
+      "detector_service_ns": 22355834,
+      "family_s_affirms": true,
+      "item_key": "202d09b9d0bf8710ebb3fe09abcabed73fcdf2044e5ddeb273b6167283996c4d",
+      "promote": true
+    },
+    {
+      "c_score": 0.1336220014340972,
+      "detector_service_ns": 38964208,
+      "family_s_affirms": true,
+      "item_key": "91dfbf677e8eed3e3b50e83805908e958a9edd31148a6e94e6efc8dd4f7c7ede",
+      "promote": true
+    },
+    {
+      "c_score": -1.180200345134026,
+      "detector_service_ns": 25227250,
+      "family_s_affirms": true,
+      "item_key": "1dc4829a62c4bf97dba82549b279a772c6f1d0212de67383016b3afdddfbe5b8",
+      "promote": true
+    },
+    {
+      "c_score": -1.505619953065075,
+      "detector_service_ns": 29503958,
+      "family_s_affirms": true,
+      "item_key": "86d1b2f0cd38a8913a116d6d65b82277adc3d393c07289d9937727f68e869edd",
+      "promote": true
+    },
+    {
+      "c_score": 3.4318607107295365,
+      "detector_service_ns": 21882792,
+      "family_s_affirms": true,
+      "item_key": "d65a3f84172025a1f9838e4fe6fe1080e05b9f8290d76bbdee7487598136e36d",
+      "promote": false
+    },
+    {
+      "c_score": 0.90028417249239,
+      "detector_service_ns": 34248416,
+      "family_s_affirms": true,
+      "item_key": "cb0d748e77c99c650bff95a2db7c20ed75e4dfdcac66edc75e0634ea3f830dc1",
+      "promote": true
+    },
+    {
+      "c_score": -0.6887258131145004,
+      "detector_service_ns": 31764166,
+      "family_s_affirms": true,
+      "item_key": "a5f85bb0a3b3df673419880772b8ae9edaf9bcb0f287a9eb6eec4cb86bd34f9a",
+      "promote": true
+    },
+    {
+      "c_score": 0.6825219070919897,
+      "detector_service_ns": 21894000,
+      "family_s_affirms": true,
+      "item_key": "0fdfa2de8814c4b0ab715c85c8dd908f87abb82553c96be6a00e9c8c35611654",
+      "promote": true
+    },
+    {
+      "c_score": 3.1639537606475416,
+      "detector_service_ns": 25334916,
+      "family_s_affirms": true,
+      "item_key": "5189156b5a1c9e1c3c3b91df9414577a582e6a0517c82ecac2d36a41104d5237",
+      "promote": false
+    },
+    {
+      "c_score": -3.0048769845452066,
+      "detector_service_ns": 28514834,
+      "family_s_affirms": true,
+      "item_key": "c8ff74704a1d9511df6f4eb0481e264fa894428647ff0b146d6f9ff51695f385",
+      "promote": true
+    },
+    {
+      "c_score": 0.9472707421452647,
+      "detector_service_ns": 22822125,
+      "family_s_affirms": true,
+      "item_key": "161bea029ebc15908880ab582d92e1332c05ad6d241a073548a3ef86895f0a2c",
+      "promote": true
+    },
+    {
+      "c_score": -1.3535599520250272,
+      "detector_service_ns": 32711000,
+      "family_s_affirms": true,
+      "item_key": "444a9b65a2dd26da8fcaf4144476f9d03b1446b360fc4ba275972ed15440c176",
+      "promote": true
+    },
+    {
+      "c_score": -1.3896944460395642,
+      "detector_service_ns": 37029583,
+      "family_s_affirms": true,
+      "item_key": "a5a71aef2bd269366b8ad80f9e484c74e26577bed6f78ddfe2fb75185f588c43",
+      "promote": true
+    },
+    {
+      "c_score": 3.2903556548713753,
+      "detector_service_ns": 58287250,
+      "family_s_affirms": true,
+      "item_key": "996f8e6d496117d67f9e0c39dc33e29c5bb3717ae3141855f3fa521de21f39e6",
+      "promote": false
+    },
+    {
+      "c_score": -0.1428520071140471,
+      "detector_service_ns": 46324042,
+      "family_s_affirms": true,
+      "item_key": "fc92c8b8800b29e249f351be189c8fec30adf7cd5e5f7855ebd5d3015f3f0a35",
+      "promote": true
+    },
+    {
+      "c_score": 3.6035643147687693,
+      "detector_service_ns": 37667708,
+      "family_s_affirms": true,
+      "item_key": "9aeef864c62aee060f698a66dcb0d71167871891841333c8cefe24d83c2e1d37",
+      "promote": false
+    },
+    {
+      "c_score": -1.060669206251629,
+      "detector_service_ns": 60211166,
+      "family_s_affirms": true,
+      "item_key": "56208b534217b7e046ef87ddb9dafb16616eda49a850641a464e5e98df227e3a",
+      "promote": true
+    },
+    {
+      "c_score": -1.8451939005491127,
+      "detector_service_ns": 38760917,
+      "family_s_affirms": true,
+      "item_key": "6ccb63a51d1d69b272cc3e98885948010afea17ad02d5859233c8bcf6f273d2c",
+      "promote": true
+    },
+    {
+      "c_score": -1.3429821765388712,
+      "detector_service_ns": 44297750,
+      "family_s_affirms": true,
+      "item_key": "2a5056ac58f0813647e1ffc1e2bee210c308d73ae8ab799e625ba211a963929f",
+      "promote": true
+    },
+    {
+      "c_score": 0.06328312369092318,
+      "detector_service_ns": 83627083,
+      "family_s_affirms": true,
+      "item_key": "83d02e0258221652d2ce1339006406350d0476d9ab2c696430985161b142c06d",
+      "promote": true
+    },
+    {
+      "c_score": -0.8831195255106852,
+      "detector_service_ns": 36426875,
+      "family_s_affirms": true,
+      "item_key": "8b0be90a06a0934884ea47d74b5ea65e3f769760dda878a92b39b1cc30ac0c8b",
+      "promote": true
+    },
+    {
+      "c_score": 0.5620524356421891,
+      "detector_service_ns": 50194542,
+      "family_s_affirms": true,
+      "item_key": "1b086f95713c1bcf81352bc02af0c192857fad2c135e1e05a590e9cda1ccb31e",
+      "promote": true
+    },
+    {
+      "c_score": 3.4100893747574847,
+      "detector_service_ns": 29177875,
+      "family_s_affirms": true,
+      "item_key": "da8c79aac71aaa4042ac02bcec0518298059208e09a4b98a9f5e4dfa2eb9b8ed",
+      "promote": false
+    },
+    {
+      "c_score": -1.6778364383916706,
+      "detector_service_ns": 35292333,
+      "family_s_affirms": true,
+      "item_key": "fb60b920c9492fb95ba7af72a47707da08c505ac44f39d8284acc8a7a805b9ef",
+      "promote": true
+    },
+    {
+      "c_score": -1.6227656712232628,
+      "detector_service_ns": 29294708,
+      "family_s_affirms": true,
+      "item_key": "c873ce0ec3cf564c4af55c5c08a71380528e24506613b9ac56075da3b708d163",
+      "promote": true
+    },
+    {
+      "c_score": 1.4580294965912834,
+      "detector_service_ns": 36396500,
+      "family_s_affirms": true,
+      "item_key": "c5385a8245b71311b9037f4a1fb931c2dc59d1ef4db6133d1fedd0d1957aeaeb",
+      "promote": false
+    },
+    {
+      "c_score": -0.7802064435220473,
+      "detector_service_ns": 21107375,
+      "family_s_affirms": true,
+      "item_key": "6aca1836d41ec3259677e6ae8a7682da153246cd9c997d1a5ab1ed2ce9e2178c",
+      "promote": true
+    },
+    {
+      "c_score": 1.2329943390153806,
+      "detector_service_ns": 25035083,
+      "family_s_affirms": true,
+      "item_key": "3ba7f71d1844ee0b644a6f6ade546601dbf8bd0e83f6bcc2e4a0bdac9b7d118f",
+      "promote": true
+    },
+    {
+      "c_score": -1.4651284650649545,
+      "detector_service_ns": 21269125,
+      "family_s_affirms": true,
+      "item_key": "6eca60f5c1718129e134208876bb35695b03ecf1f5df44265dabaac800801d9d",
+      "promote": true
+    },
+    {
+      "c_score": 2.372482084266829,
+      "detector_service_ns": 36267500,
+      "family_s_affirms": true,
+      "item_key": "400e956fc580cf3f47c14f3b82967b95d692ab787639a9c1da125f7ffa1771e1",
+      "promote": false
+    },
+    {
+      "c_score": 1.2936111402007577,
+      "detector_service_ns": 20281125,
+      "family_s_affirms": true,
+      "item_key": "170f403846dcaa000a8d5e9efd84068bc21a5d2c322e7749b030dabc7818af46",
+      "promote": true
+    },
+    {
+      "c_score": -1.265883769778183,
+      "detector_service_ns": 25713708,
+      "family_s_affirms": true,
+      "item_key": "35271062596efac426683deef7cb1c3badd867b274587d4400be904d4afa5c82",
+      "promote": true
+    },
+    {
+      "c_score": -1.2204069735071301,
+      "detector_service_ns": 28372833,
+      "family_s_affirms": true,
+      "item_key": "9ca6351adc3f8668f86d491890a83df51a80c002762aa6be3b1cb36ffc61ec78",
+      "promote": true
+    },
+    {
+      "c_score": 1.253484518671516,
+      "detector_service_ns": 34222250,
+      "family_s_affirms": true,
+      "item_key": "3372d6d9c5e64b4b64f14fd59a4befe7043bd22a489beb172590cfe1e1cde9c9",
+      "promote": true
+    },
+    {
+      "c_score": 2.498906072496304,
+      "detector_service_ns": 24277583,
+      "family_s_affirms": true,
+      "item_key": "749785d64a92856bb1ae41f0515db00a0413afb7e539e9a3e44d461abf6a7739",
+      "promote": false
+    },
+    {
+      "c_score": 0.5867038121247814,
+      "detector_service_ns": 22431042,
+      "family_s_affirms": true,
+      "item_key": "c249b5adbd1ee952bf369207533bd92a454bd72d9fefa2a6dfe2603116d5a976",
+      "promote": true
+    },
+    {
+      "c_score": 3.5870014238399177,
+      "detector_service_ns": 24612334,
+      "family_s_affirms": true,
+      "item_key": "fb3e4ecebcf87d996c98fc852be275c8687f2ca452bb8bcd3ea0d4b7e404440f",
+      "promote": false
+    },
+    {
+      "c_score": 2.1171268104162584,
+      "detector_service_ns": 28660042,
+      "family_s_affirms": true,
+      "item_key": "37d2c61cd1d7b3f4509a8e84fb75dd2cb52ad144427d7e9b887cc0fc7585e7ea",
+      "promote": false
+    },
+    {
+      "c_score": -1.0603651003285546,
+      "detector_service_ns": 29243500,
+      "family_s_affirms": true,
+      "item_key": "64e6467b305bb651e68a82e7c58f626661be67ee50b3600629f9a2e37348e296",
+      "promote": true
+    },
+    {
+      "c_score": 0.29592146620554266,
+      "detector_service_ns": 19711916,
+      "family_s_affirms": true,
+      "item_key": "8151bd20ca0e4e1ca8cf3766042ccd54b7b6d49ac1b33b7d46708356aabc8540",
+      "promote": true
+    },
+    {
+      "c_score": 0.3959783953153694,
+      "detector_service_ns": 20117000,
+      "family_s_affirms": true,
+      "item_key": "7cafa980f008901e98989521aad90d92d68770673d4367d65c3234fe32c3ce6c",
+      "promote": true
+    },
+    {
+      "c_score": 4.261709376570186,
+      "detector_service_ns": 24641750,
+      "family_s_affirms": true,
+      "item_key": "1e2324bea40bf49d6cfa9a9855d02ed56efedea3a190103748fcafac19e36586",
+      "promote": false
+    },
+    {
+      "c_score": -1.0302132094764114,
+      "detector_service_ns": 34425666,
+      "family_s_affirms": true,
+      "item_key": "cdcf5ff3b968a2ca2fbfeede5fa5a13d70862607ebac9fc45c53e9f53392d300",
+      "promote": true
+    },
+    {
+      "c_score": 3.290375409390914,
+      "detector_service_ns": 23187166,
+      "family_s_affirms": true,
+      "item_key": "53ed1cab0b9b4080f4f377f52296e95111d77d3afb1146dd355939e604244005",
+      "promote": false
+    },
+    {
+      "c_score": -0.2773665078490429,
+      "detector_service_ns": 29223917,
+      "family_s_affirms": true,
+      "item_key": "dd7906c6d06655a0e7a286224aa41872c695f8f2fcd845e249b204a05aa5678d",
+      "promote": true
+    },
+    {
+      "c_score": -1.3060119693929193,
+      "detector_service_ns": 21306459,
+      "family_s_affirms": true,
+      "item_key": "13dc908b79af7078dcfbe3f4e8ac9369b798217aa5a0fdd637ebfa3b2879b467",
+      "promote": true
+    },
+    {
+      "c_score": 1.682405382165426,
+      "detector_service_ns": 37910416,
+      "family_s_affirms": true,
+      "item_key": "90d71fc60efcb1c0af6e2bfe8894271e351e863650c22b1b7b09c78be692bf0b",
+      "promote": false
+    },
+    {
+      "c_score": 0.851479379833264,
+      "detector_service_ns": 27785208,
+      "family_s_affirms": true,
+      "item_key": "27a034c51f181c11cbc03df8000c37913d5626897d0ff998c44bca784250b98c",
+      "promote": true
+    },
+    {
+      "c_score": 2.2351440173453994,
+      "detector_service_ns": 28089500,
+      "family_s_affirms": true,
+      "item_key": "c01543a8492b988f94b5869b1185e7a5a86bec7d502d806d04bf6beda654c567",
+      "promote": false
+    },
+    {
+      "c_score": 1.365188875852974,
+      "detector_service_ns": 34110000,
+      "family_s_affirms": true,
+      "item_key": "2457408f356748514c32ce62f3f107bb5f76087908aa0d41b0937d06458ed270",
+      "promote": false
+    },
+    {
+      "c_score": -0.6418801220321083,
+      "detector_service_ns": 22649458,
+      "family_s_affirms": true,
+      "item_key": "6a67f45c6ab2dd7b3ba5e46a3f57fc36c9547647abda6dab513b7816e642ff67",
+      "promote": true
+    },
+    {
+      "c_score": -0.2288624091625867,
+      "detector_service_ns": 25968042,
+      "family_s_affirms": true,
+      "item_key": "4786669f2055ad53d73ed4e5e0d3d34367e432f1172219d7673c9400b3b902ad",
+      "promote": true
+    },
+    {
+      "c_score": 1.0203538595063566,
+      "detector_service_ns": 29098209,
+      "family_s_affirms": true,
+      "item_key": "5d7d8346ae31ca2281fd81c049824d9717ee538ffd45e4dbea099c2e286d3dcd",
+      "promote": true
+    },
+    {
+      "c_score": 0.23468221999975764,
+      "detector_service_ns": 21812375,
+      "family_s_affirms": true,
+      "item_key": "b7f979e10c642c32271b6f5699ebfdae0c41c2e1030848d3c97f8d208735c4eb",
+      "promote": true
+    },
+    {
+      "c_score": 1.9213591453370333,
+      "detector_service_ns": 37964500,
+      "family_s_affirms": true,
+      "item_key": "61526f0ec2e24d1168202a146cdec943ca1e63b7753e69af7de90b3b8b9f252f",
+      "promote": false
+    },
+    {
+      "c_score": -1.4601126058937743,
+      "detector_service_ns": 25898416,
+      "family_s_affirms": true,
+      "item_key": "db56f45c9904e6ba5a7dba519cbfc284797af6ed73b474528dcc8194ddd04edd",
+      "promote": true
+    },
+    {
+      "c_score": 0.5458564176502283,
+      "detector_service_ns": 20055541,
+      "family_s_affirms": true,
+      "item_key": "cf2bfccf5aa4062dfa9c0af4b5fe883525d3cdd3007f1f4234e0af3b0faf1800",
+      "promote": true
+    },
+    {
+      "c_score": 3.1597816382058945,
+      "detector_service_ns": 28769291,
+      "family_s_affirms": true,
+      "item_key": "8106fa3dcce51875b5c65a87def411241767a4e0937e0393a011e964f37d6f8d",
+      "promote": false
+    },
+    {
+      "c_score": 1.185596929427003,
+      "detector_service_ns": 25313958,
+      "family_s_affirms": true,
+      "item_key": "e535e5e8e3f5cd9acc2583f548a516d59c44c780e55ba12b87ce851a54fda9c8",
+      "promote": true
+    },
+    {
+      "c_score": 1.7494611669120457,
+      "detector_service_ns": 30833959,
+      "family_s_affirms": true,
+      "item_key": "8dc7b6db2ccea23e8034e44d57944f960d005a8aa31d834359d1a62d35c5e628",
+      "promote": false
+    },
+    {
+      "c_score": -0.9901472147583359,
+      "detector_service_ns": 23512291,
+      "family_s_affirms": true,
+      "item_key": "46a5fd0a737fb916b7bff79c94275f0b3a39d41ad34aa40cf6aef7b557de47db",
+      "promote": true
+    },
+    {
+      "c_score": -1.4973329485999225,
+      "detector_service_ns": 31904166,
+      "family_s_affirms": true,
+      "item_key": "73dbc8eac7643395f5599ada2b278e28b2d335117357d43b153fd1dd440c9ada",
+      "promote": true
+    },
+    {
+      "c_score": 0.8285629383311852,
+      "detector_service_ns": 31178042,
+      "family_s_affirms": true,
+      "item_key": "9a15fc5f80a14fbd2005e20ea2e58970b18dc30099c98572d66791b60f8cefa7",
+      "promote": true
+    },
+    {
+      "c_score": -2.7307279320760545,
+      "detector_service_ns": 19452833,
+      "family_s_affirms": true,
+      "item_key": "1fb930705cde63c01e91bad0dd59dba11a26b06258f52528f8a1c85f797601e4",
+      "promote": true
+    },
+    {
+      "c_score": 2.765059009821844,
+      "detector_service_ns": 26292334,
+      "family_s_affirms": true,
+      "item_key": "9b37e6b9fdd6753178dcf81dd3bebb53ca41a9757817f2d1822add792d092a81",
+      "promote": false
+    },
+    {
+      "c_score": -0.17335978828508353,
+      "detector_service_ns": 22396417,
+      "family_s_affirms": true,
+      "item_key": "18e2965e7e14b789d05580d6acc6b9e3ca76fa3b68dcd92ca1d35cd3bfa8e50d",
+      "promote": true
+    },
+    {
+      "c_score": 2.846810468269183,
+      "detector_service_ns": 21626667,
+      "family_s_affirms": true,
+      "item_key": "74294667a4afa2298c54ad317da43137c85a87371e89fa52b8ebdb5d4b52a073",
+      "promote": false
+    },
+    {
+      "c_score": 0.5156447538437704,
+      "detector_service_ns": 25214042,
+      "family_s_affirms": true,
+      "item_key": "d2665d7724d6d1ac6fe80bfafbd89905bf8f2a7dbec2206c943a8c5931467665",
+      "promote": true
+    },
+    {
+      "c_score": 2.4227720226962806,
+      "detector_service_ns": 30616917,
+      "family_s_affirms": true,
+      "item_key": "218e18c8b24e5787bf31fe09154c95a039e624a837b944f4ace76cc4ca48ef87",
+      "promote": false
+    },
+    {
+      "c_score": 0.457962310993857,
+      "detector_service_ns": 20242000,
+      "family_s_affirms": true,
+      "item_key": "1fbc81d5b5263c7235825c367f783fc29c37cb1a898857ef3dadaf9a5308058d",
+      "promote": true
+    },
+    {
+      "c_score": -2.32794275350631,
+      "detector_service_ns": 22866708,
+      "family_s_affirms": true,
+      "item_key": "f39254ad979fddab0ede41c7de9ff8301cf3bf66a635eb768f75cc2c9b2ea7ed",
+      "promote": true
+    },
+    {
+      "c_score": 3.399707002821881,
+      "detector_service_ns": 20511958,
+      "family_s_affirms": true,
+      "item_key": "124c1bc156e233a59a25c77d5f024627af09cdd88813eed55aaf21121a0c413d",
+      "promote": false
+    },
+    {
+      "c_score": -1.8626702864974916,
+      "detector_service_ns": 20740667,
+      "family_s_affirms": true,
+      "item_key": "0b016a7da29a6ba1b49ca6b83730a83a7cd8238f6ada0f2a60616b0b855e4fd1",
+      "promote": true
+    },
+    {
+      "c_score": -1.5398908619389582,
+      "detector_service_ns": 37924792,
+      "family_s_affirms": true,
+      "item_key": "325e0febdb509c226b1fcc44e27f0c68f9f7e5dd2ccad9780dddac1876069ed2",
+      "promote": true
+    },
+    {
+      "c_score": 3.94216281291635,
+      "detector_service_ns": 21759875,
+      "family_s_affirms": true,
+      "item_key": "cb8f8b4aabeabfc1b324b9ce09f4b5e28ab3e286f03078a7c4bed04fca574a41",
+      "promote": false
+    },
+    {
+      "c_score": -0.614843456219399,
+      "detector_service_ns": 35891167,
+      "family_s_affirms": true,
+      "item_key": "583de830a67e368b16624f2609dd55e91c918bae93e8fb3919328aa8feefb7dd",
+      "promote": true
+    },
+    {
+      "c_score": 1.3587853569933677,
+      "detector_service_ns": 24207875,
+      "family_s_affirms": true,
+      "item_key": "addbe3cc9066fc0f150813686da539f0edbd99552346e621cb117efe4d2ca208",
+      "promote": false
+    },
+    {
+      "c_score": 1.9722073449893198,
+      "detector_service_ns": 27886333,
+      "family_s_affirms": true,
+      "item_key": "aceb78704c185f1790cfb03c277bb0c3c2ae3207e57e5e4a3576a0e427ab8ba2",
+      "promote": false
+    },
+    {
+      "c_score": 0.80780801874988,
+      "detector_service_ns": 36839000,
+      "family_s_affirms": true,
+      "item_key": "1d1f1c1f2436a044a1882a0a1ed6eda1e2190c6bf6d6f8660fe6809b0f00a37c",
+      "promote": true
+    },
+    {
+      "c_score": 2.3191163642207386,
+      "detector_service_ns": 25587792,
+      "family_s_affirms": true,
+      "item_key": "81ee5c8e2df95c4322093badb382d8dc3e978e392e1cb72ac23484e36a2f02a9",
+      "promote": false
+    },
+    {
+      "c_score": -1.1491441663358066,
+      "detector_service_ns": 24972208,
+      "family_s_affirms": true,
+      "item_key": "3eb7f1f5d3ef4d0372093ab50fda7a829c5530c45182b55d208a5e7122d17768",
+      "promote": true
+    },
+    {
+      "c_score": -0.0023932717420680483,
+      "detector_service_ns": 22878583,
+      "family_s_affirms": true,
+      "item_key": "8aeaf272890949ef5a905c0702ef265b93388d81ddf0f858974fde7f36f44d21",
+      "promote": true
+    },
+    {
+      "c_score": 2.714349214631266,
+      "detector_service_ns": 28352833,
+      "family_s_affirms": true,
+      "item_key": "13b4f70791697fca206c67e0253049f226648a078b433c2ff3d6a8a089d703f1",
+      "promote": false
+    },
+    {
+      "c_score": 0.4527769378499765,
+      "detector_service_ns": 19274750,
+      "family_s_affirms": true,
+      "item_key": "318fe3d0b402ef40c6c6749890df4c627eb18bcfde2f3ede824dad258e142ade",
+      "promote": true
+    },
+    {
+      "c_score": -0.7695120326758096,
+      "detector_service_ns": 18747042,
+      "family_s_affirms": true,
+      "item_key": "9e15ef9510d1f0b5345492fae96b6551975ec3ce32845d6150ce99d4b7b37c59",
+      "promote": true
+    },
+    {
+      "c_score": -1.374576803887526,
+      "detector_service_ns": 26942083,
+      "family_s_affirms": true,
+      "item_key": "33d0c76354e3467edd00624e81c13ca95fb4ba64964fd77717136faafe6f2260",
+      "promote": true
+    },
+    {
+      "c_score": 2.639353631872526,
+      "detector_service_ns": 22347083,
+      "family_s_affirms": true,
+      "item_key": "84ce877f7223d500517924f7aba36a47d239bb5f53dfcb72ce2bf90a11260b60",
+      "promote": false
+    },
+    {
+      "c_score": 3.1604111190074224,
+      "detector_service_ns": 28226792,
+      "family_s_affirms": true,
+      "item_key": "4c705cb071140983bbbe52c9eeca2dfa08cf761305ac9175fdc1a267b1b97eb4",
+      "promote": false
+    },
+    {
+      "c_score": 0.3764718904871094,
+      "detector_service_ns": 25156709,
+      "family_s_affirms": true,
+      "item_key": "43c9aeba34569f586202265ac6bab1e08a0fc99a66f141b34c3e5ef002f306a5",
+      "promote": true
+    },
+    {
+      "c_score": 3.9489023724746115,
+      "detector_service_ns": 21601542,
+      "family_s_affirms": true,
+      "item_key": "48367bb0af907092dcf3d26a7ce1d5aa724566e2b09006b1c698692a33815181",
+      "promote": false
+    },
+    {
+      "c_score": 2.131285102684562,
+      "detector_service_ns": 28892583,
+      "family_s_affirms": true,
+      "item_key": "8ad95ce1a904b3cf348d68488d12d747c5d31ab1b2c85058f4fb1613c8da425d",
+      "promote": false
+    },
+    {
+      "c_score": 1.373796109105538,
+      "detector_service_ns": 26268250,
+      "family_s_affirms": true,
+      "item_key": "f6c1b0f9fd595f0e0f9899f1a8d4d0e183164e4de60416f699e80276a9a8c6ff",
+      "promote": false
+    },
+    {
+      "c_score": 1.892731512050475,
+      "detector_service_ns": 21702541,
+      "family_s_affirms": true,
+      "item_key": "683c64091266270b5f09565dba2073831085449ee703dfbf058c6500db3f4508",
+      "promote": false
+    },
+    {
+      "c_score": 3.120646548906769,
+      "detector_service_ns": 26126000,
+      "family_s_affirms": true,
+      "item_key": "e06cfbd367dbe6fb40769167d2e835647ac67cec722100e2843eea8dc932df3b",
+      "promote": false
+    },
+    {
+      "c_score": 3.5563302222990236,
+      "detector_service_ns": 23636000,
+      "family_s_affirms": true,
+      "item_key": "d392a60aeaacd76ddd514ff76433d581cac9fff7516cd076061c66859df0a2d3",
+      "promote": false
+    },
+    {
+      "c_score": 3.418222210089312,
+      "detector_service_ns": 21942917,
+      "family_s_affirms": true,
+      "item_key": "675418229f7bae0f9f0df533d9b30d092dcd2a282d6fffac769b607d315735cd",
+      "promote": false
+    },
+    {
+      "c_score": 1.1323166016256254,
+      "detector_service_ns": 19360916,
+      "family_s_affirms": true,
+      "item_key": "9eb851e7d19d62149db9cd599ac41e22723e667ddc54849895c35f281658fd59",
+      "promote": true
+    },
+    {
+      "c_score": 3.4654004653936186,
+      "detector_service_ns": 19857750,
+      "family_s_affirms": true,
+      "item_key": "d622fb7d6c9f230a0352fa25423787a4d9b9d47f05bbd929cc6176bdccedbf08",
+      "promote": false
+    },
+    {
+      "c_score": 3.7424196079053984,
+      "detector_service_ns": 25090417,
+      "family_s_affirms": true,
+      "item_key": "086f23f628a7e23c220e63a2556fab413b7420e0bb317f63cb8331bdde1ef066",
+      "promote": false
+    },
+    {
+      "c_score": -1.6220532236497427,
+      "detector_service_ns": 36369625,
+      "family_s_affirms": true,
+      "item_key": "5cf310c4bb9f227dd8363de1c613da0a93e035fa7b17d89c2088531ef0d21d6d",
+      "promote": true
+    },
+    {
+      "c_score": -0.5645617277319631,
+      "detector_service_ns": 18158041,
+      "family_s_affirms": true,
+      "item_key": "5b28cc9ca18c30833ac95447e1bf801a84450761d32ad011e3af37f46c1690c1",
+      "promote": true
+    },
+    {
+      "c_score": 1.6528491975331845,
+      "detector_service_ns": 21419250,
+      "family_s_affirms": true,
+      "item_key": "e3bfd04b1d2232ea7a5bd81ab5ef019560bb214f16452f73791d83f343073028",
+      "promote": false
+    },
+    {
+      "c_score": -1.228208653888153,
+      "detector_service_ns": 26139708,
+      "family_s_affirms": true,
+      "item_key": "aeb3fb8d9e071a1c85912756d18457eadbfab28866c1a9952946344b91ada94a",
+      "promote": true
+    },
+    {
+      "c_score": -0.054625515903108685,
+      "detector_service_ns": 34309417,
+      "family_s_affirms": true,
+      "item_key": "7b3cfff76a19f808e85b5968f79f7c3289d863b7d2c768763b2622c669484b85",
+      "promote": true
+    },
+    {
+      "c_score": 0.5719886066206987,
+      "detector_service_ns": 36230584,
+      "family_s_affirms": true,
+      "item_key": "bba0116d30ea7c714bce16e36d1335e8a64a18d3c239de61beb207efca2ef7d3",
+      "promote": true
+    },
+    {
+      "c_score": 0.6484412793678459,
+      "detector_service_ns": 27293542,
+      "family_s_affirms": true,
+      "item_key": "9f812fd34f8e3041466f7b917b6e0ceef5d03b77f8889013b52efcc8212f0284",
+      "promote": true
+    },
+    {
+      "c_score": -2.2030504691682555,
+      "detector_service_ns": 21440083,
+      "family_s_affirms": true,
+      "item_key": "c6f167be7ba19786380f25942fd14a040536a8c960c0bdb874264ed884893ada",
+      "promote": true
+    },
+    {
+      "c_score": -1.9024080626332684,
+      "detector_service_ns": 31205875,
+      "family_s_affirms": true,
+      "item_key": "9581eeb59a08bc7405d17c1a62e0f41be6936dc119c1cc88e532bd98fbb8cc97",
+      "promote": true
+    },
+    {
+      "c_score": 0.4415672892352924,
+      "detector_service_ns": 34595916,
+      "family_s_affirms": true,
+      "item_key": "2dabf642c89cebb9103fd627b4fa8934122af5ca88dc8a6c475e44ee8ab8a0e3",
+      "promote": true
+    },
+    {
+      "c_score": 1.6548440993893487,
+      "detector_service_ns": 26594250,
+      "family_s_affirms": true,
+      "item_key": "a8c71db3f8a181e9c1a8ce9494979d951482c1485e2afb9a6458d931ce8fb65a",
+      "promote": false
+    },
+    {
+      "c_score": 0.04339810381398945,
+      "detector_service_ns": 34719375,
+      "family_s_affirms": true,
+      "item_key": "423d0487ec0fff4771dd768c1fcedf52707db6809d5309d2aa62e59823eaaae5",
+      "promote": true
+    },
+    {
+      "c_score": 1.5654972183314602,
+      "detector_service_ns": 22458333,
+      "family_s_affirms": true,
+      "item_key": "181aafd5342eb3fafe5367360b4dcf58e6831c4c453c21440529b907522d67a3",
+      "promote": false
+    },
+    {
+      "c_score": -0.41860296430173183,
+      "detector_service_ns": 28350417,
+      "family_s_affirms": true,
+      "item_key": "a4633badce2facb990bcddc48ee12273ecdbb7e7b7ec8d4f189d0ef326c258fb",
+      "promote": true
+    },
+    {
+      "c_score": 0.8378548236167549,
+      "detector_service_ns": 25360041,
+      "family_s_affirms": true,
+      "item_key": "4b267940df58b0168718202c73001a532f196cd322774c5c9d556d027ec0c66a",
+      "promote": true
+    },
+    {
+      "c_score": -0.25051960381436617,
+      "detector_service_ns": 41218000,
+      "family_s_affirms": true,
+      "item_key": "f5f30aaafb10b975f168e33f3e18fae2d526b8700ae1021aa37f697e32999e41",
+      "promote": true
+    },
+    {
+      "c_score": 2.5384829530527226,
+      "detector_service_ns": 43810959,
+      "family_s_affirms": true,
+      "item_key": "c9488175863e87ed952ae3eaea6125740650137cbcd91d8c645dd326f6a00979",
+      "promote": false
+    },
+    {
+      "c_score": 3.421925570386215,
+      "detector_service_ns": 30855209,
+      "family_s_affirms": true,
+      "item_key": "1e6f263949276e270561135708b0633c846428ce04e08e09337025ea510ea6ec",
+      "promote": false
+    },
+    {
+      "c_score": 0.9717759832513327,
+      "detector_service_ns": 35603292,
+      "family_s_affirms": true,
+      "item_key": "8a5a6ac3452e6070130dac6e947a98a229b9e5c60e52ca9bb3bac96bc865a266",
+      "promote": true
+    },
+    {
+      "c_score": -0.26488571901567703,
+      "detector_service_ns": 27169875,
+      "family_s_affirms": true,
+      "item_key": "8298ace3deb4395174aadbd0d5aad0720fc232b6bd2bb789a8687dfde167914e",
+      "promote": true
+    },
+    {
+      "c_score": -0.3264499219728002,
+      "detector_service_ns": 31882000,
+      "family_s_affirms": true,
+      "item_key": "a8cc5b6132a804c3e85593c262e4fd75b953d32ed03e3632cac7ae0522640afc",
+      "promote": true
+    },
+    {
+      "c_score": 1.719757768445047,
+      "detector_service_ns": 21223000,
+      "family_s_affirms": true,
+      "item_key": "05de2338d9cb36e5bc466b0de5cc203cab908493edf927b4538be11cb391f553",
+      "promote": false
+    },
+    {
+      "c_score": -0.7446740571397865,
+      "detector_service_ns": 26881375,
+      "family_s_affirms": true,
+      "item_key": "359a90b01fa1be6a1ec9e7da70a60d23185820d312cf0bc7c1aded511c289c66",
+      "promote": true
+    },
+    {
+      "c_score": 2.766982918356127,
+      "detector_service_ns": 28579667,
+      "family_s_affirms": true,
+      "item_key": "16bcebfb77e656e494522f0d59cdc48e6612ca670d8f7e472da7252d9a7fa5b4",
+      "promote": false
+    },
+    {
+      "c_score": -1.184988368459459,
+      "detector_service_ns": 30039000,
+      "family_s_affirms": true,
+      "item_key": "c70a146ba69e8dce8c872a80082e4abec55c81d98551c143101e62146b3fc03b",
+      "promote": true
+    },
+    {
+      "c_score": 1.314061856555849,
+      "detector_service_ns": 32606750,
+      "family_s_affirms": true,
+      "item_key": "4eeeb7eff4d88581c0e53c9153bb5c496a3042fdd8bae6ad18fa2ccfba43d1da",
+      "promote": true
+    },
+    {
+      "c_score": 1.4086039542981545,
+      "detector_service_ns": 27772375,
+      "family_s_affirms": true,
+      "item_key": "cbdaec5c1a905d5dee494c4731e7d5917c920071b97c51a82c40f0a6f6c7dab0",
+      "promote": false
+    },
+    {
+      "c_score": 2.730387782486432,
+      "detector_service_ns": 24156125,
+      "family_s_affirms": true,
+      "item_key": "4b3c07e181c795ff4b0fecce9635bd7d11643c5f67ddcaed687fbdae89c2c6e5",
+      "promote": false
+    },
+    {
+      "c_score": 1.0300134788613624,
+      "detector_service_ns": 20646958,
+      "family_s_affirms": true,
+      "item_key": "ab55065ef315056a0aafffbee2aee3a1017b1db3c3b11e695bbe140ffa457f88",
+      "promote": true
+    },
+    {
+      "c_score": 0.8829414714548689,
+      "detector_service_ns": 27087500,
+      "family_s_affirms": true,
+      "item_key": "638fb20052a5345703966ca5088caf9c3d68d24581e8a3a841a3f2d0bc9a3fbe",
+      "promote": true
+    },
+    {
+      "c_score": 2.5951543044352388,
+      "detector_service_ns": 22920042,
+      "family_s_affirms": true,
+      "item_key": "c9b8cc6373a31c4db1d39f8be44f3b260da8aeb01ae0287a9cb463834187a50b",
+      "promote": false
+    },
+    {
+      "c_score": 1.3005822667421818,
+      "detector_service_ns": 21351125,
+      "family_s_affirms": true,
+      "item_key": "f5eb3f5f043b1476905546cae370a25a4b8c8ddab284e162c6511a2edf4504f7",
+      "promote": true
+    },
+    {
+      "c_score": 1.0711072876676733,
+      "detector_service_ns": 20928292,
+      "family_s_affirms": true,
+      "item_key": "c9710c6cf7ae3631b62ae68f2182e9e424b3f4140965844fb2bbf53260840f0b",
+      "promote": true
+    }
+  ],
+  "keys_source": "safe input frozen sets",
+  "measurement_name": "promotion-path replay driven by real D1 outputs and measured service times",
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "phase": "test",
+  "safe_inputs_sha256": "5784dbf469f004068f3f6b183f44ff51e36de0035ae8cc146ddb7291d22cf39b",
+  "schema_version": "W2D-score-v1",
+  "score_order_rule": "SHA256(\"W2D-score-order|\" + item_key)",
+  "scorer_py_sha256": "ef3d480c6dba8be60bdb5f2c5440760e38ec3b52f59837b27a8012557b9e7783",
+  "threshold": 1.355328476682704,
+  "threshold_artifact_sha256": "52d87cdde2d868862764b18e134f6f28b0fc06c4092c1da9d0ec91e9cfc6eca3",
+  "warmup_item_key": "002d88ec99bd2ec2761081b25c47161f6b692788c62863936fc75454c19a9b34",
+  "z_statistics": {
+    "knn": {
+      "mean": 0.5820851655784148,
+      "std": 0.08790331441012
+    },
+    "rep": {
+      "mean": 0.47711627076096824,
+      "std": 0.1599390437630126
+    }
+  }
+}

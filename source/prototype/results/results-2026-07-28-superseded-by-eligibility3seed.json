@@ -1,0 +1,365 @@
+[
+  {
+    "backend": "inmemory",
+    "config": {
+      "hidden_ratio": 0.3,
+      "k": 10,
+      "mode": "random",
+      "over_fetch": 1,
+      "seeds": [
+        2,
+        3,
+        4
+      ]
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "elig/random/of1",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.9844444444444443,
+      "fill": 0.6966666666666667,
+      "hM50": 0.3,
+      "hM90": 0.5,
+      "hM95": 0.5,
+      "if_recall": 1.0,
+      "pf_recall": 0.6966666666666667,
+      "underfill": 0.9844444444444443
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "hidden_ratio": 0.3,
+      "k": 10,
+      "mode": "random",
+      "over_fetch": 2,
+      "seeds": [
+        2,
+        3,
+        4
+      ]
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "elig/random/of2",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.006666666666666667,
+      "fill": 0.9986666666666667,
+      "hM50": 0.3,
+      "hM90": 0.43333333333333335,
+      "hM95": 0.4666666666666666,
+      "if_recall": 1.0,
+      "pf_recall": 0.9986666666666667,
+      "underfill": 0.006666666666666667
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "hidden_ratio": 0.3,
+      "k": 10,
+      "mode": "random",
+      "over_fetch": 4,
+      "seeds": [
+        2,
+        3,
+        4
+      ]
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "elig/random/of4",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.0,
+      "fill": 1.0,
+      "hM50": 0.3,
+      "hM90": 0.39166666666666666,
+      "hM95": 0.425,
+      "if_recall": 1.0,
+      "pf_recall": 1.0,
+      "underfill": 0.0
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "hidden_ratio": 0.3,
+      "k": 10,
+      "mode": "clustered",
+      "over_fetch": 1,
+      "seeds": [
+        2,
+        3,
+        4
+      ]
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "elig/clustered/of1",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.9466666666666667,
+      "fill": 0.6835555555555555,
+      "hM50": 0.3,
+      "hM90": 0.5666666666666667,
+      "hM95": 0.6333333333333333,
+      "if_recall": 1.0,
+      "pf_recall": 0.6835555555555555,
+      "underfill": 0.9466666666666667
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "hidden_ratio": 0.3,
+      "k": 10,
+      "mode": "clustered",
+      "over_fetch": 2,
+      "seeds": [
+        2,
+        3,
+        4
+      ]
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "elig/clustered/of2",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.08,
+      "fill": 0.9797777777777776,
+      "hM50": 0.3,
+      "hM90": 0.5,
+      "hM95": 0.5833333333333334,
+      "if_recall": 1.0,
+      "pf_recall": 0.9797777777777776,
+      "underfill": 0.08
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "hidden_ratio": 0.3,
+      "k": 10,
+      "mode": "clustered",
+      "over_fetch": 4,
+      "seeds": [
+        2,
+        3,
+        4
+      ]
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "elig/clustered/of4",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.0,
+      "fill": 1.0,
+      "hM50": 0.3,
+      "hM90": 0.4666666666666666,
+      "hM95": 0.525,
+      "if_recall": 1.0,
+      "pf_recall": 1.0,
+      "underfill": 0.0
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "hidden_ratio": 0.3,
+      "k": 10,
+      "mode": "oracle_rank_coupled",
+      "over_fetch": 1,
+      "seeds": [
+        2,
+        3,
+        4
+      ]
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "elig/oracle_rank_coupled/of1",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": null,
+      "exceed": 1.0,
+      "fill": 0.38066666666666665,
+      "hM50": 0.6,
+      "hM90": 0.8000000000000002,
+      "hM95": 0.9,
+      "if_recall": 1.0,
+      "pf_recall": 0.38066666666666665,
+      "underfill": 1.0
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "hidden_ratio": 0.3,
+      "k": 10,
+      "mode": "oracle_rank_coupled",
+      "over_fetch": 2,
+      "seeds": [
+        2,
+        3,
+        4
+      ]
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "elig/oracle_rank_coupled/of2",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.26,
+      "fill": 0.9513333333333333,
+      "hM50": 0.45,
+      "hM90": 0.6,
+      "hM95": 0.65,
+      "if_recall": 1.0,
+      "pf_recall": 0.9513333333333333,
+      "underfill": 0.26
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "hidden_ratio": 0.3,
+      "k": 10,
+      "mode": "oracle_rank_coupled",
+      "over_fetch": 4,
+      "seeds": [
+        2,
+        3,
+        4
+      ]
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "elig/oracle_rank_coupled/of4",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.0,
+      "fill": 1.0,
+      "hM50": 0.375,
+      "hM90": 0.4749999999999999,
+      "hM95": 0.5,
+      "if_recall": 1.0,
+      "pf_recall": 1.0,
+      "underfill": 0.0
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "granularity": "source",
+      "n_revoked": 100,
+      "seed": 0
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "contain/source",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "caught": 1.0,
+      "collateral": 0.83,
+      "res_if": 0.0,
+      "res_pf": 0.0
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "granularity": "batch",
+      "n_revoked": 30,
+      "seed": 0
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "contain/batch",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "caught": 1.0,
+      "collateral": 0.43333333333333335,
+      "res_if": 0.0,
+      "res_pf": 0.0
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "inmemory",
+    "config": {
+      "granularity": "lineage",
+      "n_revoked": 17,
+      "seed": 0
+    },
+    "evidence_level": "exact_in_memory",
+    "experiment_id": "contain/lineage",
+    "git_commit": "f509900",
+    "git_dirty": false,
+    "git_dirty_files": null,
+    "index_type": "FLAT",
+    "metrics": {
+      "caught": 1.0,
+      "collateral": 0.0,
+      "res_if": 0.0,
+      "res_pf": 0.0
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  }
+]

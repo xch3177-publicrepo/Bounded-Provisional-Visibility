@@ -1,0 +1,762 @@
+{
+  "realtext": {
+    "best_poison_p50_range": [
+      0.1624,
+      0.3776
+    ],
+    "clearing_per_workload": [
+      3,
+      1,
+      1,
+      1,
+      2
+    ],
+    "cutoff_p50_range": [
+      0.2925,
+      0.4274
+    ],
+    "distinct_target_queries": 40,
+    "frac_clearing_range": [
+      0.125,
+      0.375
+    ],
+    "margin_p50_range": [
+      -0.0928,
+      -0.0336
+    ],
+    "n_workloads": 5,
+    "negatives": {
+      "clearing": 0,
+      "distinct_unrelated_queries": 40
+    },
+    "per_seed": [
+      {
+        "best_poison_p50": 0.3744,
+        "cutoff_p50": 0.3634,
+        "frac_clearing": 0.375,
+        "margin_max": 0.1065,
+        "margin_min": -0.0946,
+        "margin_p50": -0.0336,
+        "n_clearing": 3,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.4913,
+            "clears": true,
+            "cutoff": 0.3848,
+            "margin": 0.1065,
+            "q": 0
+          },
+          {
+            "best_poison": 0.3946,
+            "clears": true,
+            "cutoff": 0.3592,
+            "margin": 0.0354,
+            "q": 1
+          },
+          {
+            "best_poison": 0.4453,
+            "clears": false,
+            "cutoff": 0.4828,
+            "margin": -0.0375,
+            "q": 2
+          },
+          {
+            "best_poison": 0.3541,
+            "clears": true,
+            "cutoff": 0.337,
+            "margin": 0.0171,
+            "q": 3
+          },
+          {
+            "best_poison": 0.2729,
+            "clears": false,
+            "cutoff": 0.3675,
+            "margin": -0.0946,
+            "q": 4
+          },
+          {
+            "best_poison": 0.5339,
+            "clears": false,
+            "cutoff": 0.5955,
+            "margin": -0.0616,
+            "q": 5
+          },
+          {
+            "best_poison": 0.1979,
+            "clears": false,
+            "cutoff": 0.2276,
+            "margin": -0.0297,
+            "q": 6
+          },
+          {
+            "best_poison": 0.2376,
+            "clears": false,
+            "cutoff": 0.3233,
+            "margin": -0.0858,
+            "q": 7
+          }
+        ],
+        "seed": 1
+      },
+      {
+        "best_poison_p50": 0.2755,
+        "cutoff_p50": 0.3818,
+        "frac_clearing": 0.125,
+        "margin_max": 0.1597,
+        "margin_min": -0.1219,
+        "margin_p50": -0.0706,
+        "n_clearing": 1,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.5744,
+            "clears": true,
+            "cutoff": 0.4147,
+            "margin": 0.1597,
+            "q": 0
+          },
+          {
+            "best_poison": 0.2533,
+            "clears": false,
+            "cutoff": 0.3047,
+            "margin": -0.0514,
+            "q": 1
+          },
+          {
+            "best_poison": 0.3217,
+            "clears": false,
+            "cutoff": 0.3941,
+            "margin": -0.0724,
+            "q": 2
+          },
+          {
+            "best_poison": 0.2977,
+            "clears": false,
+            "cutoff": 0.3906,
+            "margin": -0.0929,
+            "q": 3
+          },
+          {
+            "best_poison": 0.4241,
+            "clears": false,
+            "cutoff": 0.4889,
+            "margin": -0.0649,
+            "q": 4
+          },
+          {
+            "best_poison": 0.2512,
+            "clears": false,
+            "cutoff": 0.373,
+            "margin": -0.1219,
+            "q": 5
+          },
+          {
+            "best_poison": 0.1881,
+            "clears": false,
+            "cutoff": 0.3019,
+            "margin": -0.1138,
+            "q": 6
+          },
+          {
+            "best_poison": 0.2382,
+            "clears": false,
+            "cutoff": 0.307,
+            "margin": -0.0688,
+            "q": 7
+          }
+        ],
+        "seed": 2
+      },
+      {
+        "best_poison_p50": 0.3776,
+        "cutoff_p50": 0.4274,
+        "frac_clearing": 0.125,
+        "margin_max": 0.0651,
+        "margin_min": -0.1778,
+        "margin_p50": -0.0661,
+        "n_clearing": 1,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.3773,
+            "clears": false,
+            "cutoff": 0.5552,
+            "margin": -0.1778,
+            "q": 0
+          },
+          {
+            "best_poison": 0.3778,
+            "clears": false,
+            "cutoff": 0.4798,
+            "margin": -0.102,
+            "q": 1
+          },
+          {
+            "best_poison": 0.2256,
+            "clears": false,
+            "cutoff": 0.3476,
+            "margin": -0.122,
+            "q": 2
+          },
+          {
+            "best_poison": 0.3449,
+            "clears": false,
+            "cutoff": 0.3751,
+            "margin": -0.0302,
+            "q": 3
+          },
+          {
+            "best_poison": 0.4851,
+            "clears": false,
+            "cutoff": 0.5109,
+            "margin": -0.0258,
+            "q": 4
+          },
+          {
+            "best_poison": 0.3239,
+            "clears": false,
+            "cutoff": 0.3333,
+            "margin": -0.0094,
+            "q": 5
+          },
+          {
+            "best_poison": 0.4435,
+            "clears": false,
+            "cutoff": 0.5936,
+            "margin": -0.1501,
+            "q": 6
+          },
+          {
+            "best_poison": 0.3985,
+            "clears": true,
+            "cutoff": 0.3334,
+            "margin": 0.0651,
+            "q": 7
+          }
+        ],
+        "seed": 3
+      },
+      {
+        "best_poison_p50": 0.1624,
+        "cutoff_p50": 0.2925,
+        "frac_clearing": 0.125,
+        "margin_max": 0.0496,
+        "margin_min": -0.2329,
+        "margin_p50": -0.0911,
+        "n_clearing": 1,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.0949,
+            "clears": false,
+            "cutoff": 0.1947,
+            "margin": -0.0998,
+            "q": 0
+          },
+          {
+            "best_poison": 0.2664,
+            "clears": false,
+            "cutoff": 0.3268,
+            "margin": -0.0603,
+            "q": 1
+          },
+          {
+            "best_poison": 0.4029,
+            "clears": true,
+            "cutoff": 0.3533,
+            "margin": 0.0496,
+            "q": 2
+          },
+          {
+            "best_poison": 0.0465,
+            "clears": false,
+            "cutoff": 0.2182,
+            "margin": -0.1718,
+            "q": 3
+          },
+          {
+            "best_poison": 0.1877,
+            "clears": false,
+            "cutoff": 0.2701,
+            "margin": -0.0824,
+            "q": 4
+          },
+          {
+            "best_poison": 0.1372,
+            "clears": false,
+            "cutoff": 0.2683,
+            "margin": -0.1311,
+            "q": 5
+          },
+          {
+            "best_poison": 0.3998,
+            "clears": false,
+            "cutoff": 0.4685,
+            "margin": -0.0687,
+            "q": 6
+          },
+          {
+            "best_poison": 0.082,
+            "clears": false,
+            "cutoff": 0.3149,
+            "margin": -0.2329,
+            "q": 7
+          }
+        ],
+        "seed": 4
+      },
+      {
+        "best_poison_p50": 0.3212,
+        "cutoff_p50": 0.3469,
+        "frac_clearing": 0.25,
+        "margin_max": 0.0534,
+        "margin_min": -0.1803,
+        "margin_p50": -0.0928,
+        "n_clearing": 2,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.3782,
+            "clears": true,
+            "cutoff": 0.3248,
+            "margin": 0.0534,
+            "q": 0
+          },
+          {
+            "best_poison": 0.3224,
+            "clears": false,
+            "cutoff": 0.3593,
+            "margin": -0.0368,
+            "q": 1
+          },
+          {
+            "best_poison": 0.3199,
+            "clears": false,
+            "cutoff": 0.4275,
+            "margin": -0.1076,
+            "q": 2
+          },
+          {
+            "best_poison": 0.2085,
+            "clears": false,
+            "cutoff": 0.3297,
+            "margin": -0.1213,
+            "q": 3
+          },
+          {
+            "best_poison": 0.3262,
+            "clears": false,
+            "cutoff": 0.5065,
+            "margin": -0.1803,
+            "q": 4
+          },
+          {
+            "best_poison": 0.1499,
+            "clears": false,
+            "cutoff": 0.2447,
+            "margin": -0.0948,
+            "q": 5
+          },
+          {
+            "best_poison": 0.2437,
+            "clears": false,
+            "cutoff": 0.3346,
+            "margin": -0.0909,
+            "q": 6
+          },
+          {
+            "best_poison": 0.4707,
+            "clears": true,
+            "cutoff": 0.4685,
+            "margin": 0.0022,
+            "q": 7
+          }
+        ],
+        "seed": 5
+      }
+    ],
+    "queries_per_workload": 8,
+    "workload": "realtext"
+  },
+  "synthetic": {
+    "best_poison_p50_range": [
+      0.6718,
+      0.7171
+    ],
+    "clearing_per_workload": [
+      1,
+      2,
+      3,
+      1,
+      1
+    ],
+    "cutoff_p50_range": [
+      0.726,
+      0.7505
+    ],
+    "distinct_target_queries": 40,
+    "frac_clearing_range": [
+      0.125,
+      0.375
+    ],
+    "margin_p50_range": [
+      -0.061,
+      -0.0369
+    ],
+    "n_workloads": 5,
+    "negatives": {
+      "clearing": 0,
+      "distinct_unrelated_queries": 40
+    },
+    "per_seed": [
+      {
+        "best_poison_p50": 0.6876,
+        "cutoff_p50": 0.7401,
+        "frac_clearing": 0.125,
+        "margin_max": 0.0524,
+        "margin_min": -0.1335,
+        "margin_p50": -0.061,
+        "n_clearing": 1,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.667,
+            "clears": false,
+            "cutoff": 0.7617,
+            "margin": -0.0947,
+            "q": 0
+          },
+          {
+            "best_poison": 0.5816,
+            "clears": false,
+            "cutoff": 0.7151,
+            "margin": -0.1335,
+            "q": 1
+          },
+          {
+            "best_poison": 0.7034,
+            "clears": false,
+            "cutoff": 0.7661,
+            "margin": -0.0627,
+            "q": 2
+          },
+          {
+            "best_poison": 0.6574,
+            "clears": false,
+            "cutoff": 0.7394,
+            "margin": -0.082,
+            "q": 3
+          },
+          {
+            "best_poison": 0.6937,
+            "clears": false,
+            "cutoff": 0.7392,
+            "margin": -0.0456,
+            "q": 4
+          },
+          {
+            "best_poison": 0.6815,
+            "clears": false,
+            "cutoff": 0.7408,
+            "margin": -0.0592,
+            "q": 5
+          },
+          {
+            "best_poison": 0.7419,
+            "clears": true,
+            "cutoff": 0.6895,
+            "margin": 0.0524,
+            "q": 6
+          },
+          {
+            "best_poison": 0.7092,
+            "clears": false,
+            "cutoff": 0.7493,
+            "margin": -0.0401,
+            "q": 7
+          }
+        ],
+        "seed": 1
+      },
+      {
+        "best_poison_p50": 0.6718,
+        "cutoff_p50": 0.726,
+        "frac_clearing": 0.25,
+        "margin_max": 0.0051,
+        "margin_min": -0.1551,
+        "margin_p50": -0.0607,
+        "n_clearing": 2,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.7437,
+            "clears": true,
+            "cutoff": 0.7393,
+            "margin": 0.0044,
+            "q": 0
+          },
+          {
+            "best_poison": 0.5622,
+            "clears": false,
+            "cutoff": 0.7173,
+            "margin": -0.1551,
+            "q": 1
+          },
+          {
+            "best_poison": 0.5556,
+            "clears": false,
+            "cutoff": 0.6876,
+            "margin": -0.132,
+            "q": 2
+          },
+          {
+            "best_poison": 0.7346,
+            "clears": false,
+            "cutoff": 0.7967,
+            "margin": -0.0621,
+            "q": 3
+          },
+          {
+            "best_poison": 0.5972,
+            "clears": false,
+            "cutoff": 0.7183,
+            "margin": -0.1211,
+            "q": 4
+          },
+          {
+            "best_poison": 0.7388,
+            "clears": true,
+            "cutoff": 0.7337,
+            "margin": 0.0051,
+            "q": 5
+          },
+          {
+            "best_poison": 0.6413,
+            "clears": false,
+            "cutoff": 0.6727,
+            "margin": -0.0314,
+            "q": 6
+          },
+          {
+            "best_poison": 0.7023,
+            "clears": false,
+            "cutoff": 0.7616,
+            "margin": -0.0594,
+            "q": 7
+          }
+        ],
+        "seed": 2
+      },
+      {
+        "best_poison_p50": 0.7074,
+        "cutoff_p50": 0.731,
+        "frac_clearing": 0.375,
+        "margin_max": 0.062,
+        "margin_min": -0.0803,
+        "margin_p50": -0.0427,
+        "n_clearing": 3,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.6721,
+            "clears": false,
+            "cutoff": 0.7353,
+            "margin": -0.0632,
+            "q": 0
+          },
+          {
+            "best_poison": 0.7266,
+            "clears": false,
+            "cutoff": 0.7836,
+            "margin": -0.057,
+            "q": 1
+          },
+          {
+            "best_poison": 0.6719,
+            "clears": false,
+            "cutoff": 0.7127,
+            "margin": -0.0408,
+            "q": 2
+          },
+          {
+            "best_poison": 0.7871,
+            "clears": true,
+            "cutoff": 0.7592,
+            "margin": 0.028,
+            "q": 3
+          },
+          {
+            "best_poison": 0.6889,
+            "clears": false,
+            "cutoff": 0.7336,
+            "margin": -0.0447,
+            "q": 4
+          },
+          {
+            "best_poison": 0.7259,
+            "clears": true,
+            "cutoff": 0.7232,
+            "margin": 0.0027,
+            "q": 5
+          },
+          {
+            "best_poison": 0.6481,
+            "clears": false,
+            "cutoff": 0.7284,
+            "margin": -0.0803,
+            "q": 6
+          },
+          {
+            "best_poison": 0.73,
+            "clears": true,
+            "cutoff": 0.668,
+            "margin": 0.062,
+            "q": 7
+          }
+        ],
+        "seed": 3
+      },
+      {
+        "best_poison_p50": 0.7171,
+        "cutoff_p50": 0.7505,
+        "frac_clearing": 0.125,
+        "margin_max": 0.0347,
+        "margin_min": -0.1124,
+        "margin_p50": -0.0559,
+        "n_clearing": 1,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.7302,
+            "clears": false,
+            "cutoff": 0.7743,
+            "margin": -0.0441,
+            "q": 0
+          },
+          {
+            "best_poison": 0.6251,
+            "clears": false,
+            "cutoff": 0.7023,
+            "margin": -0.0772,
+            "q": 1
+          },
+          {
+            "best_poison": 0.7099,
+            "clears": false,
+            "cutoff": 0.7512,
+            "margin": -0.0413,
+            "q": 2
+          },
+          {
+            "best_poison": 0.7373,
+            "clears": false,
+            "cutoff": 0.7883,
+            "margin": -0.051,
+            "q": 3
+          },
+          {
+            "best_poison": 0.7243,
+            "clears": false,
+            "cutoff": 0.7852,
+            "margin": -0.0609,
+            "q": 4
+          },
+          {
+            "best_poison": 0.6374,
+            "clears": false,
+            "cutoff": 0.7498,
+            "margin": -0.1124,
+            "q": 5
+          },
+          {
+            "best_poison": 0.6292,
+            "clears": false,
+            "cutoff": 0.7305,
+            "margin": -0.1014,
+            "q": 6
+          },
+          {
+            "best_poison": 0.7765,
+            "clears": true,
+            "cutoff": 0.7419,
+            "margin": 0.0347,
+            "q": 7
+          }
+        ],
+        "seed": 4
+      },
+      {
+        "best_poison_p50": 0.6894,
+        "cutoff_p50": 0.7263,
+        "frac_clearing": 0.125,
+        "margin_max": 0.0204,
+        "margin_min": -0.1142,
+        "margin_p50": -0.0369,
+        "n_clearing": 1,
+        "n_queries": 8,
+        "rows": [
+          {
+            "best_poison": 0.6905,
+            "clears": false,
+            "cutoff": 0.7069,
+            "margin": -0.0164,
+            "q": 0
+          },
+          {
+            "best_poison": 0.7259,
+            "clears": false,
+            "cutoff": 0.7293,
+            "margin": -0.0034,
+            "q": 1
+          },
+          {
+            "best_poison": 0.6604,
+            "clears": false,
+            "cutoff": 0.7017,
+            "margin": -0.0414,
+            "q": 2
+          },
+          {
+            "best_poison": 0.6882,
+            "clears": false,
+            "cutoff": 0.7451,
+            "margin": -0.0568,
+            "q": 3
+          },
+          {
+            "best_poison": 0.6801,
+            "clears": true,
+            "cutoff": 0.6597,
+            "margin": 0.0204,
+            "q": 4
+          },
+          {
+            "best_poison": 0.7324,
+            "clears": false,
+            "cutoff": 0.768,
+            "margin": -0.0356,
+            "q": 5
+          },
+          {
+            "best_poison": 0.7296,
+            "clears": false,
+            "cutoff": 0.7679,
+            "margin": -0.0383,
+            "q": 6
+          },
+          {
+            "best_poison": 0.6091,
+            "clears": false,
+            "cutoff": 0.7233,
+            "margin": -0.1142,
+            "q": 7
+          }
+        ],
+        "seed": 5
+      }
+    ],
+    "queries_per_workload": 8,
+    "workload": "synthetic"
+  }
+}

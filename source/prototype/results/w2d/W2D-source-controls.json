@@ -1,0 +1,196 @@
+{
+  "detector_py_sha256": "f0510df5cb8805bb21fec20351662a4de11ea987f0c978651fe62e5ddf7a9ca3",
+  "embeddings_sha256": "1249c7cd23a03d3cde4e4c46ff3ec67ff9d59e6a3fd05978bb7c6da00bba1c45",
+  "items": [
+    {
+      "c_score": -1.067398675029669,
+      "detector_service_ns": 31844792,
+      "family_s_affirms": false,
+      "item_key": "f37b256147a360f1ba5492d4ff8710ef95d8133c1b66ea2f1296fb488b5ae07a",
+      "promote": false
+    },
+    {
+      "c_score": -0.8606661417029696,
+      "detector_service_ns": 23864708,
+      "family_s_affirms": false,
+      "item_key": "79dd315de5d38ddd743ef3dabaacf41b6c98899138953c9d1db17405c4534d91",
+      "promote": false
+    },
+    {
+      "c_score": 1.7725896878683765,
+      "detector_service_ns": 22889625,
+      "family_s_affirms": false,
+      "item_key": "8492a21fff66f2d97fe2110952a06c83bacb795a329fa945ee9883c3931ea506",
+      "promote": false
+    },
+    {
+      "c_score": -1.7749360882985161,
+      "detector_service_ns": 18545167,
+      "family_s_affirms": false,
+      "item_key": "8bd3ebcfa9224918eab248ec904e77f392a653034366da36b9ebcf80d3672fbb",
+      "promote": false
+    },
+    {
+      "c_score": 1.532349708015408,
+      "detector_service_ns": 28110041,
+      "family_s_affirms": false,
+      "item_key": "77c4432b390ecd19e21b0ce08fa998f1e751cf37569c4efe18d2514904b06cc4",
+      "promote": false
+    },
+    {
+      "c_score": -1.660211918968729,
+      "detector_service_ns": 22752500,
+      "family_s_affirms": false,
+      "item_key": "8d0cf9086f76826cbe5cef076397fe7bcc54648a3c12f153bf98ab87fd9fe2ff",
+      "promote": false
+    },
+    {
+      "c_score": 0.9670141190514052,
+      "detector_service_ns": 18194500,
+      "family_s_affirms": false,
+      "item_key": "5277dc3aba4580dd6467653d814733ebddf4a7d9ced135159bd6bbd943bc4f7b",
+      "promote": false
+    },
+    {
+      "c_score": 0.24218200618016317,
+      "detector_service_ns": 23367041,
+      "family_s_affirms": false,
+      "item_key": "fc854008d8d06270cf34a869f9e7a6781afd8b4c5e6ee912f223f2f81a840cc8",
+      "promote": false
+    },
+    {
+      "c_score": -2.2492468519078344,
+      "detector_service_ns": 14734666,
+      "family_s_affirms": false,
+      "item_key": "64df550c705932e405cff6c0c8e338c27200a4fd819a7069965bba0abf0d54e2",
+      "promote": false
+    },
+    {
+      "c_score": -0.9209728116813519,
+      "detector_service_ns": 19154333,
+      "family_s_affirms": false,
+      "item_key": "ce6dddf5c9c6654fafa8a6e48151b473fed3557e02d9dfc807b1216697de27cf",
+      "promote": false
+    },
+    {
+      "c_score": 1.4172691811355447,
+      "detector_service_ns": 28946167,
+      "family_s_affirms": false,
+      "item_key": "ce04c6db8b0534a65e2b2f9bfaf52e30afc34136b0348a05034889bb6b72aafd",
+      "promote": false
+    },
+    {
+      "c_score": 0.10188951246265543,
+      "detector_service_ns": 22044500,
+      "family_s_affirms": false,
+      "item_key": "b9b4c650c5e6104a4be766472973912bd68c9bd50589d1793aca807b033de270",
+      "promote": false
+    },
+    {
+      "c_score": -1.423385151401556,
+      "detector_service_ns": 18667250,
+      "family_s_affirms": false,
+      "item_key": "c71c40c2ec8b5031397c939f4c199a946c7e71d6c3a23434dcc41b4f91fa8e3a",
+      "promote": false
+    },
+    {
+      "c_score": 2.747894902510807,
+      "detector_service_ns": 18039500,
+      "family_s_affirms": false,
+      "item_key": "0bac0931ab861608ce58ee9e3779357d5f5ea709e58db212d7e00e4126e23693",
+      "promote": false
+    },
+    {
+      "c_score": -0.7523515805146064,
+      "detector_service_ns": 29383000,
+      "family_s_affirms": false,
+      "item_key": "cad84858e478ce0501343005a8a6f39556c7ced0f865fee5c557ae50d69da15f",
+      "promote": false
+    },
+    {
+      "c_score": -1.600844057019167,
+      "detector_service_ns": 21957334,
+      "family_s_affirms": false,
+      "item_key": "5c80bf60529a70b21e572250e6e55e848707a6c85e3f83958bac7ee65e959d38",
+      "promote": false
+    },
+    {
+      "c_score": 0.4986718254719428,
+      "detector_service_ns": 19319208,
+      "family_s_affirms": false,
+      "item_key": "b83ba823c46edcab56f319d81ed51e46cb3194ababe2ff6aaef3e49f2f4d8dfe",
+      "promote": false
+    },
+    {
+      "c_score": 2.3851217322650835,
+      "detector_service_ns": 27501292,
+      "family_s_affirms": false,
+      "item_key": "e1cea32578325fa527d556efe9d3bf6f3401432499617c136694b1655932728c",
+      "promote": false
+    },
+    {
+      "c_score": 0.2673725797450436,
+      "detector_service_ns": 22180041,
+      "family_s_affirms": false,
+      "item_key": "2d65cd46668e044f826abab5ff70e31c36c1c96275a46ae9ace74ac2a46ad036",
+      "promote": false
+    },
+    {
+      "c_score": -0.2791315830473717,
+      "detector_service_ns": 26479583,
+      "family_s_affirms": false,
+      "item_key": "8ff3e76aa247c669a5a7cf7d64f7e84102b6065067692636d237e4fa8127371f",
+      "promote": false
+    },
+    {
+      "c_score": -0.6646749000265584,
+      "detector_service_ns": 27078042,
+      "family_s_affirms": false,
+      "item_key": "0a0679c9b3a2f97adf35c528be0162ab8c916e666717fcadcae44e141a0a9063",
+      "promote": false
+    },
+    {
+      "c_score": 1.6218623002418804,
+      "detector_service_ns": 18967125,
+      "family_s_affirms": false,
+      "item_key": "130d41b12c1d1579b3da185e68a4b8977e650e3a78744f8679bc1522c714ebc4",
+      "promote": false
+    },
+    {
+      "c_score": -0.8693851396138643,
+      "detector_service_ns": 21142542,
+      "family_s_affirms": false,
+      "item_key": "b955e91601ab6a5997d44c996648e48f777184476b29b7ff5384cd4a0a677f20",
+      "promote": false
+    },
+    {
+      "c_score": 2.1439137057522433,
+      "detector_service_ns": 27342375,
+      "family_s_affirms": false,
+      "item_key": "0dd7f9c0dce62463dbc83862c43097da3469ee7ba3562d5b301dfa15b1edf3b4",
+      "promote": false
+    }
+  ],
+  "keys_source": "safe input frozen sets",
+  "measurement_name": "promotion-path replay driven by real D1 outputs and measured service times",
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "phase": "source_control",
+  "safe_inputs_sha256": "5784dbf469f004068f3f6b183f44ff51e36de0035ae8cc146ddb7291d22cf39b",
+  "schema_version": "W2D-score-v1",
+  "score_order_rule": "SHA256(\"W2D-score-order|\" + item_key)",
+  "scorer_py_sha256": "ef3d480c6dba8be60bdb5f2c5440760e38ec3b52f59837b27a8012557b9e7783",
+  "threshold": 1.355328476682704,
+  "threshold_artifact_sha256": "52d87cdde2d868862764b18e134f6f28b0fc06c4092c1da9d0ec91e9cfc6eca3",
+  "warmup_item_key": "002d88ec99bd2ec2761081b25c47161f6b692788c62863936fc75454c19a9b34",
+  "z_statistics": {
+    "knn": {
+      "mean": 0.5820851655784148,
+      "std": 0.08790331441012
+    },
+    "rep": {
+      "mean": 0.47711627076096824,
+      "std": 0.1599390437630126
+    }
+  }
+}

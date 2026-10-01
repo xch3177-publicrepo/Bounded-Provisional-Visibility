@@ -1,0 +1,48 @@
+{
+  "error": "",
+  "error_type": "KeyboardInterrupt",
+  "experiment": "W2D-E3",
+  "failed_at_utc": "2026-07-30T16:30:49.145578Z",
+  "formal": true,
+  "provenance": {
+    "environment": {
+      "cpu_count": 10,
+      "machine": "arm64",
+      "memory": {
+        "physical_memory_bytes": 17179869184,
+        "source": "os.sysconf(SC_PAGE_SIZE*SC_PHYS_PAGES)"
+      },
+      "platform": "macOS-15.6.1-arm64-arm-64bit",
+      "processor": "arm",
+      "pymilvus_version": "2.4.15",
+      "python": "3.12.3 (v3.12.3:f6650f9ad7, Apr  9 2024, 08:18:47) [Clang 13.0.0 (clang-1300.0.29.30)]",
+      "python_executable": "PUBLIC_ROOT/prototype/.venv312/bin/python"
+    },
+    "git": {
+      "commit": "899c06ac3b20e80c22690391f10b19ca878e6ba3",
+      "tracked_status": [],
+      "tracked_tree_clean": true
+    },
+    "process_start_metric": {
+      "matching_series_count": 1,
+      "metric": "process_start_time_seconds",
+      "url": "http://127.0.0.1:9091/metrics",
+      "value": 1785428300.96
+    },
+    "runtime_fingerprint": {
+      "components": {
+        "backend.py": "f9343e8df7de9afc7884d6a673aad6fec821d45ab9be2f2099c93a4d82269e28",
+        "docker-compose.yml": "35ef5187867159dba32d8a1e56353a4917fcec1528a8b0ef01a75d20d27b1f9b",
+        "functional_slice.py": "f6baee5e1e1f90c52650c656ed5236fac8398dcd40f619ca11cb864fbd094a4b",
+        "milvus_backend.py": "0ca08c2f977fb1ff8cca874559db07de3b1bcba34fb3a09ec8ff5ae5f2546e99",
+        "verify_w2d_e3.py": "3231dcbff4c760770764f468bb4221883b2d1e0d02bbf21ce603df72d9794cd2",
+        "w2d_e3_runner.py": "bf6a9eac3df174340cf4bbf6e3aeb1d0310876b71455af7c1e155ee7ea075e57"
+      },
+      "sha256": "8032d0b15b445c1f95dd7bcf0901e971b8e0a6508a189978641d55c29c1093fc"
+    }
+  },
+  "quick_nonformal": false,
+  "run_number": 2,
+  "schema_version": "W2D-E3-result-v1",
+  "status": "technical_failure"
+}

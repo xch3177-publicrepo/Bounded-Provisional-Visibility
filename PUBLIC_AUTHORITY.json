@@ -1,0 +1,39 @@
+{
+  "detector_protocol": {
+    "E1": "source/prototype/results/w2d/W2D-E1-INMEMORY.json",
+    "E1_analysis": "source/prototype/results/w2d/W2D-E1-ANALYSIS.json",
+    "E2": "source/prototype/results/w2d/W2D-E2-MILVUS.json",
+    "E2_analysis": "source/prototype/results/w2d/W2D-E2-ANALYSIS.json",
+    "manifest_authority": "source/prototype/results/w2d/W2D-MANIFEST-AUTHORITY.json",
+    "metrics": "source/prototype/results/w2d/W2D-detector-metrics.json"
+  },
+  "hnsw_accepted_runs": [
+    "source/prototype/results/w2d-e3/W2D-E3-RUN-01-ATTEMPT-02.json",
+    "source/prototype/results/w2d-e3/W2D-E3-RUN-02-ATTEMPT-05.json",
+    "source/prototype/results/w2d-e3/W2D-E3-RUN-03.json",
+    "source/prototype/results/w2d-e3/W2D-E3-RUN-04.json",
+    "source/prototype/results/w2d-e3/W2D-E3-RUN-05.json"
+  ],
+  "hnsw_summary": "source/prototype/results/w2d-e3/W2D-E3-SUMMARY.json",
+  "legacy": {
+    "eligibility_containment": "source/prototype/results/eligibility-3seed.json",
+    "transfer_geometry": "source/prototype/results/transfer-geometry.json",
+    "w2_inmemory": "source/prototype/results/W2-inmemory.json",
+    "w2_milvus": "source/prototype/results/W2-milvus.json",
+    "w2f_inmemory": "source/prototype/results/W2F-inmemory.json",
+    "w2r_inmemory": "source/prototype/results/W2R-inmemory.json",
+    "w2r_milvus": "source/prototype/results/W2R-milvus.json"
+  },
+  "standalone_s2": {
+    "single_run_observation": "source/prototype/results/standalone-S2.json",
+    "replication_attempts": [
+      "source/prototype/results/standalone-S2-rep1.json",
+      "source/prototype/results/standalone-S2-rep2.json",
+      "source/prototype/results/standalone-S2-rep3.json",
+      "source/prototype/results/standalone-S2-rep4.json",
+      "source/prototype/results/standalone-S2-rep5.json"
+    ],
+    "interpretation": "The original single-run measurement remains the manuscript's source. Replication was inconclusive because only 2/5 runs were admissible; no pooled five-run standalone timing estimate is authorized. This S2 experiment is distinct from the accepted W2D-E3 HNSW experiment."
+  },
+  "status": "frozen historical observations; all other results retained as history, not automatically admissible evidence"
+}

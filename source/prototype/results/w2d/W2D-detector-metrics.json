@@ -1,0 +1,117 @@
+{
+  "labels_sha256": "05d1363510a1790d690b05640c3a2830be4e62df56b8592182904ccb29019a9e",
+  "metrics": {
+    "attack_recall": {
+      "natural_cover_suffix_v1": {
+        "defined": true,
+        "denominator": 64,
+        "numerator": 4,
+        "rate": 0.0625,
+        "wilson95": [
+          0.024571201396618017,
+          0.14997485092208662
+        ]
+      },
+      "recipe": {
+        "defined": true,
+        "denominator": 128,
+        "numerator": 125,
+        "rate": 0.9765625,
+        "wilson95": [
+          0.9333562549485678,
+          0.9919975836032445
+        ]
+      }
+    },
+    "clean_fpr_by_stratum": {
+      "hard_negative": {
+        "defined": true,
+        "denominator": 128,
+        "numerator": 24,
+        "rate": 0.1875,
+        "wilson95": [
+          0.12936141696376852,
+          0.2638491807071743
+        ]
+      },
+      "ordinary": {
+        "defined": true,
+        "denominator": 192,
+        "numerator": 41,
+        "rate": 0.21354166666666666,
+        "wilson95": [
+          0.16149108415858854,
+          0.27683009327548935
+        ]
+      }
+    },
+    "detector_only_latency": {
+      "count": 512,
+      "p50_ns": 26070000.0,
+      "p95_ns": 37671232.85,
+      "p99_ns": 49768786.99999995
+    },
+    "overall": {
+      "counts": {
+        "fn": 63,
+        "fp": 65,
+        "tn": 255,
+        "tp": 129
+      },
+      "f1": {
+        "defined": true,
+        "denominator": 386,
+        "numerator": 258,
+        "rate": 0.6683937823834197,
+        "wilson95": [
+          0.6199711422924823,
+          0.7134977514297551
+        ]
+      },
+      "fnr": {
+        "defined": true,
+        "denominator": 192,
+        "numerator": 63,
+        "rate": 0.328125,
+        "wilson95": [
+          0.2656503115659986,
+          0.3973423948944481
+        ]
+      },
+      "fpr": {
+        "defined": true,
+        "denominator": 320,
+        "numerator": 65,
+        "rate": 0.203125,
+        "wilson95": [
+          0.16268668038368864,
+          0.2506064764224016
+        ]
+      },
+      "precision": {
+        "defined": true,
+        "denominator": 194,
+        "numerator": 129,
+        "rate": 0.6649484536082474,
+        "wilson95": [
+          0.5958960129102973,
+          0.7275953340575994
+        ]
+      },
+      "recall": {
+        "defined": true,
+        "denominator": 192,
+        "numerator": 129,
+        "rate": 0.671875,
+        "wilson95": [
+          0.6026576051055519,
+          0.7343496884340015
+        ]
+      }
+    },
+    "unique_item_count": 512,
+    "unique_source_group_count": 512
+  },
+  "schema_version": "W2D-detector-metrics-v1",
+  "scores_sha256": "f928416f8adf7277ec6eeb536d2ebce668ae4655f97f425a3f57501137c91e01"
+}

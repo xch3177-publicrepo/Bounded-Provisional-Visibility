@@ -1,0 +1,6 @@
+# Direct data-layer dependencies, fixed to the versions validated on the
+# preregistration machine.  The embedding weights are pinned independently by
+# their immutable Hugging Face revision in w2d_workload.py.
+numpy==2.5.1
+scikit-learn==1.9.0
+sentence-transformers==5.6.1

@@ -1,0 +1,439 @@
+[
+  {
+    "backend": "milvus",
+    "config": {
+      "N": 400,
+      "Tp_s": 1.0,
+      "baseline": "B1",
+      "concurrency": 4,
+      "consistency": "Bounded",
+      "desc": "immediate admission, no verification",
+      "dim": 32,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "over_fetch": 2,
+      "query_load": "closed-loop, 3 queriers, no think time (saturating)",
+      "search_params": {
+        "ef": 64
+      },
+      "verify_cost_s": 0.05
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S1/B1/conc4",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "elapsed_s": 0.47774262505117804,
+      "n_queries": 621,
+      "n_queries_during_ingest": 621,
+      "query_p50": 0.002029458060860634,
+      "query_p95": 0.004189874976873398,
+      "query_p99": 0.006149333086796105,
+      "query_window": "during_ingest",
+      "throughput": 837.2709049295112
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "N": 400,
+      "Tp_s": 1.0,
+      "baseline": "B2",
+      "concurrency": 4,
+      "consistency": "Bounded",
+      "desc": "synchronous verify-before-visible",
+      "dim": 32,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "over_fetch": 2,
+      "query_load": "closed-loop, 3 queriers, no think time (saturating)",
+      "search_params": {
+        "ef": 64
+      },
+      "verify_cost_s": 0.05
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S1/B2/conc4",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "elapsed_s": 5.384507332928479,
+      "n_queries": 9031,
+      "n_queries_during_ingest": 9031,
+      "query_p50": 0.0017175419488921762,
+      "query_p95": 0.00239745806902647,
+      "query_p99": 0.003263791906647384,
+      "query_window": "during_ingest",
+      "throughput": 74.28720498787983
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "N": 400,
+      "Tp_s": 1.0,
+      "baseline": "B3",
+      "concurrency": 4,
+      "consistency": "Bounded",
+      "desc": "async visible, no deadline",
+      "dim": 32,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "over_fetch": 2,
+      "query_load": "closed-loop, 3 queriers, no think time (saturating)",
+      "search_params": {
+        "ef": 64
+      },
+      "verify_cost_s": 0.05
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S1/B3/conc4",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "elapsed_s": 0.36589070805348456,
+      "n_queries": 577,
+      "n_queries_during_ingest": 577,
+      "query_p50": 0.0017093750648200512,
+      "query_p95": 0.003124166978523135,
+      "query_p99": 0.005421333014965057,
+      "query_window": "during_ingest",
+      "throughput": 1093.2226241217622
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "N": 400,
+      "Tp_s": 1.0,
+      "baseline": "B4",
+      "concurrency": 4,
+      "consistency": "Bounded",
+      "desc": "fail-closed provisional visibility",
+      "dim": 32,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "over_fetch": 2,
+      "query_load": "closed-loop, 3 queriers, no think time (saturating)",
+      "search_params": {
+        "ef": 64
+      },
+      "verify_cost_s": 0.05
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S1/B4/conc4",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "elapsed_s": 0.391916541964747,
+      "n_queries": 585,
+      "n_queries_during_ingest": 585,
+      "query_p50": 0.0018333749612793326,
+      "query_p95": 0.0034126250538975,
+      "query_p99": 0.005383957992307842,
+      "query_window": "during_ingest",
+      "throughput": 1020.6254576413876
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "Tp_s": 1.0,
+      "consistency": "Strong",
+      "dim": 32,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "mode": "infilter",
+      "n_items": 30,
+      "probe_interval_s": 0.02,
+      "search_params": {
+        "ef": 64
+      },
+      "verifier_backlog": "none",
+      "verify_cost_s": 3.0
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S2/Strong/nobacklog",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "delta_hide_max": 0.5013324579922482,
+      "delta_hide_p95": 0.48958495794795454,
+      "delta_hide_p99": 0.5013324579922482,
+      "delta_prop": 0.48030904203187674,
+      "delta_prop_p99": 0.48919620795641094,
+      "delta_sched": 0.002753624925389886,
+      "delta_state": 0.010606124997138977,
+      "n_censored": 0,
+      "n_observed": 30,
+      "probe_resolution_s": 0.02
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "Tp_s": 1.0,
+      "consistency": "Strong",
+      "dim": 32,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "mode": "infilter",
+      "n_items": 30,
+      "probe_interval_s": 0.02,
+      "search_params": {
+        "ef": 64
+      },
+      "verifier_backlog": "heavy",
+      "verify_cost_s": 3.0
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S2/Strong/backlog",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "delta_hide_max": 0.4633151669986546,
+      "delta_hide_p95": 0.45869316603057086,
+      "delta_hide_p99": 0.4633151669986546,
+      "delta_prop": 0.4515397909563035,
+      "delta_prop_p99": 0.45611787505913526,
+      "delta_sched": 0.0037345829186961055,
+      "delta_state": 0.00997458293568343,
+      "n_censored": 0,
+      "n_observed": 30,
+      "probe_resolution_s": 0.02
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "Tp_s": 1.0,
+      "consistency": "Bounded",
+      "dim": 32,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "mode": "infilter",
+      "n_items": 30,
+      "probe_interval_s": 0.02,
+      "search_params": {
+        "ef": 64
+      },
+      "verifier_backlog": "none",
+      "verify_cost_s": 3.0
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S2/Bounded/nobacklog",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "delta_hide_max": 0.47936050000134856,
+      "delta_hide_p95": 0.4779932090314105,
+      "delta_hide_p99": 0.47936050000134856,
+      "delta_prop": 0.4753515840275213,
+      "delta_prop_p99": 0.47663070808630437,
+      "delta_sched": 0.001087999902665615,
+      "delta_state": 0.004886292037554085,
+      "n_censored": 0,
+      "n_observed": 30,
+      "probe_resolution_s": 0.02
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "Tp_s": 1.0,
+      "consistency": "Bounded",
+      "dim": 32,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "mode": "infilter",
+      "n_items": 30,
+      "probe_interval_s": 0.02,
+      "search_params": {
+        "ef": 64
+      },
+      "verifier_backlog": "heavy",
+      "verify_cost_s": 3.0
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S2/Bounded/backlog",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "delta_hide_max": 0.488375167013146,
+      "delta_hide_p95": 0.483398332959041,
+      "delta_hide_p99": 0.488375167013146,
+      "delta_prop": 0.4807730830507353,
+      "delta_prop_p99": 0.48544000007677823,
+      "delta_sched": 0.001097041997127235,
+      "delta_state": 0.004387625027447939,
+      "n_censored": 0,
+      "n_observed": 30,
+      "probe_resolution_s": 0.02
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "N": 800,
+      "consistency": "Strong",
+      "dim": 32,
+      "hidden_mode": "rankbiased",
+      "hidden_ratio": 0.3,
+      "index_params": {},
+      "index_type": "FLAT",
+      "k": 10,
+      "label": "FLAT",
+      "over_fetch": 2,
+      "queries": 60,
+      "search_params": null
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S5/FLAT",
+    "git_commit": "eb756d9",
+    "index_type": "FLAT",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.4,
+      "fill": 0.9083333333333333,
+      "hM50": 0.5,
+      "hM90": 0.65,
+      "hM95": 0.7,
+      "if_recall": 1.0,
+      "pf_recall": 0.9083333333333333,
+      "query_p50": 0.39288237504661083,
+      "query_p95": 0.41754149994812906,
+      "query_p99": 0.4201970410067588,
+      "underfill": 0.4
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "N": 800,
+      "consistency": "Strong",
+      "dim": 32,
+      "hidden_mode": "rankbiased",
+      "hidden_ratio": 0.3,
+      "index_params": {
+        "M": 8,
+        "efConstruction": 64
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "label": "HNSW_M8_ef32",
+      "over_fetch": 2,
+      "queries": 60,
+      "search_params": {
+        "ef": 32
+      }
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S5/HNSW_M8_ef32",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.4,
+      "fill": 0.9083333333333333,
+      "hM50": 0.5,
+      "hM90": 0.65,
+      "hM95": 0.7,
+      "if_recall": 1.0,
+      "pf_recall": 0.9083333333333333,
+      "query_p50": 0.39300870802253485,
+      "query_p95": 0.4092608750797808,
+      "query_p99": 0.4117902080761269,
+      "underfill": 0.4
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  },
+  {
+    "backend": "milvus",
+    "config": {
+      "N": 800,
+      "consistency": "Strong",
+      "dim": 32,
+      "hidden_mode": "rankbiased",
+      "hidden_ratio": 0.3,
+      "index_params": {
+        "M": 16,
+        "efConstruction": 200
+      },
+      "index_type": "HNSW",
+      "k": 10,
+      "label": "HNSW_M16_ef64",
+      "over_fetch": 2,
+      "queries": 60,
+      "search_params": {
+        "ef": 64
+      }
+    },
+    "evidence_level": "milvus_standalone",
+    "experiment_id": "standalone/S5/HNSW_M16_ef64",
+    "git_commit": "eb756d9",
+    "index_type": "HNSW",
+    "metrics": {
+      "cond_recall": 1.0,
+      "exceed": 0.4,
+      "fill": 0.9083333333333333,
+      "hM50": 0.5,
+      "hM90": 0.65,
+      "hM95": 0.7,
+      "if_recall": 1.0,
+      "pf_recall": 0.9083333333333333,
+      "query_p50": 0.3827812080271542,
+      "query_p95": 0.4468211659695953,
+      "query_p99": 0.5064605409279466,
+      "underfill": 0.4
+    },
+    "run_id": "local",
+    "schema_version": "1.0"
+  }
+]
