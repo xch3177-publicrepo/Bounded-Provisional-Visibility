@@ -2,7 +2,9 @@
 
 This artifact accompanies the accepted CBDCom 2026 paper. It contains experiment source, frozen observations, preregistrations and amendments, unsuccessful attempts, and historical runtime source snapshots. Public repository: [Bounded-Provisional-Visibility](https://github.com/xch3177-publicrepo/Bounded-Provisional-Visibility).
 
-The export was prepared on 2026-10-01 from source revision `f7d2e90bf27da111bf52b9d86a2c8dd7b182cbcb`. Source revisions are identifiers, not bundled private Git history. The manuscript is maintained separately in the camera-ready package.
+The export was prepared on 2026-10-01 from source revision `f7d2e90bf27da111bf52b9d86a2c8dd7b182cbcb`; its licensing documentation was updated on 2026-10-04. Source revisions are identifiers, not bundled private Git history. The manuscript is maintained separately in the camera-ready package.
+
+Artifact DOI: [10.5281/zenodo.23152010](https://doi.org/10.5281/zenodo.23152010). This identifier is for the reproducibility artifact, not the paper.
 
 ## What can be reproduced immediately
 
@@ -82,7 +84,9 @@ The historical Docker Compose file uses upstream development defaults and binds 
 
 ## License and third-party material
 
-See `NOTICE.md`. The source snapshot did not contain an explicit project license. This public availability does not invent an MIT/Apache or other reuse grant. The authors must specify any additional intended license. Dependencies, datasets, container images and model weights remain governed by their upstream terms and are not bundled.
+Contributor-owned code is licensed under MIT. Contributor-owned experimental data and independent documentation are licensed under CC BY 4.0. See the [scope statement](LICENSE.md), [MIT text](LICENSES/MIT.txt), [CC BY 4.0 notice and attribution guidance](LICENSES/CC-BY-4.0.md), and [2026-10-04 licensing release notes](RELEASE-LICENSING-2026-10-04.md).
+
+The IEEE/CBDCom paper, including its PDF and LaTeX manuscript, and all third-party materials are expressly excluded from those grants. Dependencies, third-party datasets, container images, model weights and other upstream materials remain subject to their own terms. `NOTICE.md` describes these exclusions. Licensing does not change the recorded experiment results or the reconstruction limitations above.
 
 ## What was checked for this release
 
